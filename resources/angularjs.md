@@ -5,3 +5,4 @@
   * **Chapter 1**
     * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
     * Recipe 2: [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541)
+    * Recipe 3: [gist 1](https://gist.github.com/eoop/8692874)
