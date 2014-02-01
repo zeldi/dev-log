@@ -12,3 +12,4 @@
 * [No Need To Grunt, Take A Gulp Of Fresh Air](http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air)
 * [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
 * [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
