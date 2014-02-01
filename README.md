@@ -2,27 +2,27 @@
 
 #### The log of a developer's studies.
 
-**[JavaScript](https://github.com/eoop/dev-log/blob/master/resources/javascript.md)**
+**[JavaScript ❤](https://github.com/eoop/dev-log/blob/master/resources/javascript.md)**
 
-**[AngularJS](https://github.com/eoop/dev-log/blob/master/resources/angularjs.md)**
+**[AngularJS ❤](https://github.com/eoop/dev-log/blob/master/resources/angularjs.md)**
 
-**[NodeJS](https://github.com/eoop/dev-log/blob/master/resources/nodejs.md)**
+**[NodeJS ❤](https://github.com/eoop/dev-log/blob/master/resources/nodejs.md)**
 
-**[MongoDB](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
+**[MongoDB ❤](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
 
-**[Jade](https://github.com/eoop/dev-log/blob/master/resources/jade.md)**
+**[Jade ❤](https://github.com/eoop/dev-log/blob/master/resources/jade.md)**
 
-**[Stylus](https://github.com/eoop/dev-log/blob/master/resources/stylus.md)**
+**[Stylus ❤](https://github.com/eoop/dev-log/blob/master/resources/stylus.md)**
 
-**[HTML](https://github.com/eoop/dev-log/blob/master/resources/html.md)**
+**[HTML ❤](https://github.com/eoop/dev-log/blob/master/resources/html.md)**
 
-**[CSS](https://github.com/eoop/dev-log/blob/master/resources/css.md)**
+**[CSS ❤](https://github.com/eoop/dev-log/blob/master/resources/css.md)**
 
-**[Web Design](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
+**[Web Design ❤](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
 
-**[Workflow](https://github.com/eoop/dev-log/blob/master/resources/workflow.md)**
+**[Workflow ❤](https://github.com/eoop/dev-log/blob/master/resources/workflow.md)**
 
-**[Miscellaneous](https://github.com/eoop/dev-log/blob/master/resources/miscellaneous.md)**
+**[Miscellaneous ❤](https://github.com/eoop/dev-log/blob/master/resources/miscellaneous.md)**
 
 
 
