@@ -8,6 +8,8 @@
 
 **[NodeJS ❤](https://github.com/eoop/dev-log/blob/master/resources/nodejs.md)**
 
+**[Jasmine ❤](https://github.com/eoop/dev-log/blob/master/resources/jasmine.md)**
+
 **[MongoDB ❤](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
 
 **[Jade ❤](https://github.com/eoop/dev-log/blob/master/resources/jade.md)**
