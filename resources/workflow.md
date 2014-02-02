@@ -2,7 +2,7 @@
 
 ![Worflow](img/workflow.png)
 
-* ### Gulp
+* **Gulp**
   * [Gulp - Slides from Eric Schoffstall](http://slid.es/contra/gulp)
   * [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
   * [Gulp Repository](https://github.com/gulpjs/gulp)
