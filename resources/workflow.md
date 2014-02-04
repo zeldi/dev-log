@@ -13,6 +13,7 @@
   * [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
   * [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
   * [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
+  * [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
