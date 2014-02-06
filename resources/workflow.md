@@ -15,6 +15,11 @@
   * [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
   * [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 
+* **Bower**
+  * [GERENCIANDO DEPENDÊNCIAS FRONT-END NO SEU PROJETO](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
+  * [Manage Front End Resources with Bower](http://scotch.io/bar-talk/manage-front-end-resources-with-bower)
+  * [Bower Components](http://bower.io/search/)
+
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
   
