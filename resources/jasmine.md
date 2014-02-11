@@ -6,3 +6,4 @@
 * [Testing Tuesday #19: Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
   * [Simple test](https://gist.github.com/eoop/8833048)
 * [Tradução Documentação Jasmine v2.0.0](http://eoop.github.io/jasmine-br-docs/)
+* [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
