@@ -10,6 +10,8 @@
 
 **[Jasmine ❤](https://github.com/eoop/dev-log/blob/master/resources/jasmine.md)**
 
+**[NoSQL ❤](https://github.com/eoop/dev-log/blob/master/resources/nosql.md)**
+
 **[MongoDB ❤](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
 
 **[Jade ❤](https://github.com/eoop/dev-log/blob/master/resources/jade.md)**
