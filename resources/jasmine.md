@@ -8,3 +8,4 @@
 * [Tradução Documentação Jasmine v2.0.0](http://cerebrobr.github.io/jasmine-br-docs/)
 * [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
 * [Karma Test Runner](http://karma-runner.github.io/0.10/intro/configuration.html)
+* [Jasmine: Guia de Bolso - Parte 1](http://quasar-blog.tumblr.com/post/76009517123/jasmine-guia-de-bolso-parte-1)
