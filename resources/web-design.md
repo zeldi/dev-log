@@ -2,6 +2,7 @@
 
 * **Responsive Web Design (RWD)**
   * [5 Really Useful Responsive Web Design Patterns](http://designshack.net/articles/css/5-really-useful-responsive-web-design-patterns/)
+  * [GRID - A simple guide to responsive design](http://www.adamkaplan.me/grid/)
 
 * [How To Design a Website](http://www.awwwards.com/how-to-design-a-website.html)
 * [6 Phases of the Web Site Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.Ut7WyJBTvQo)
