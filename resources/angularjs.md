@@ -10,3 +10,5 @@
     * Recipe 4: [gist 1](https://gist.github.com/eoop/8717042)
     
 * [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
+* [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
+* [angular-resources](https://github.com/distilledhype/angular-resources)
