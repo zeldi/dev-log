@@ -13,3 +13,4 @@
 * [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
 * [angular-resources](https://github.com/distilledhype/angular-resources)
 * [Tutorial for Building SPA using AngularJS](http://bitoftech.net/2014/01/13/tutorial-for-building-spa-using-angularjs-example/)
+* [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
