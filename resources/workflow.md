@@ -20,10 +20,12 @@
 * [Manage Front End Resources with Bower](http://scotch.io/bar-talk/manage-front-end-resources-with-bower)
 * [Bower Components](http://bower.io/search/)
 
-* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
-* [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
-  
 ### Vim
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
 * [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
 * [Vim tips and tricks](http://www.cs.swarthmore.edu/help/vim/)
+
+### Others
+* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
+* [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
+
