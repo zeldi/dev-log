@@ -23,4 +23,5 @@
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
   
-
+* **Vim**
+ * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
