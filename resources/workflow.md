@@ -24,6 +24,7 @@
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
 * [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
 * [Vim tips and tricks](http://www.cs.swarthmore.edu/help/vim/)
+* [Vim - Portal Brasileiro](http://aurelio.net/vim/) 
 
 ### Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
