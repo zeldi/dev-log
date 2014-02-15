@@ -25,3 +25,5 @@
   
 * **Vim**
  * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
+ * [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
+ * [Vim tips and tricks](http://www.cs.swarthmore.edu/help/vim/)
