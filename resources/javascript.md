@@ -8,3 +8,4 @@
 * [Eloquent JavaScript - 2nd edition](http://eloquentjavascript.net/2nd_edition/preview/)
 * [parseFloat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
 * [JSHint](http://www.jshint.com/)
+* [Learing JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
