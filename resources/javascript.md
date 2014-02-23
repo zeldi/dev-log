@@ -11,3 +11,4 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [10 Essential DOM Methods & Techniques for Practical JavaScript](http://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/)
 * [ECMAScript 5 compatibility table](http://kangax.github.io/es5-compat-table/)
+* [Array MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
