@@ -17,3 +17,4 @@
 * [How To Learn AngularJS](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 * [Easy global i18n angularJS language translations for your Angular app](http://www.ng-newsletter.com/posts/angular-translate.html)
 * [Dan Wahlin - AngularJS in 20ish Minutes - NG-Conf 2014](https://www.youtube.com/watch?v=tnXO-i7944M)
+* [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
