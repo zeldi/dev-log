@@ -7,3 +7,4 @@
 * [FONT SIZING WITH REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
 * [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
 * [Estilizar e formatar placeholder de inputs](http://tableless.com.br/estilizar-e-formatar-placeholder-de-inputs/)
+* [Dicas de CSS para impressão](http://tableless.com.br/dicas-de-css-para-impressao/)
