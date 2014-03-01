@@ -6,3 +6,4 @@
 * [Atomic Design](http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
 * [FONT SIZING WITH REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
 * [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
+* [Estilizar e formatar placeholder de inputs](http://tableless.com.br/estilizar-e-formatar-placeholder-de-inputs/)
