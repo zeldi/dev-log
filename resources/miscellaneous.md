@@ -5,3 +5,4 @@
 * [Kaizen para TI](http://pt.slideshare.net/slideshow/embed_code/31147222)
 * [How I Started TDD](http://blog.extracheese.org/2009/11/how_i_started_tdd.html)
 * [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
+* [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/pt-br/)
