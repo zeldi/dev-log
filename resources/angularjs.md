@@ -1,7 +1,6 @@
 ![AngularJS](img/angular.jpg)
 
 * [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
-* [Egghead](https://egghead.io/)
 * [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
   * **Chapter 1**
     * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
@@ -18,3 +17,9 @@
 * [Easy global i18n angularJS language translations for your Angular app](http://www.ng-newsletter.com/posts/angular-translate.html)
 * [Dan Wahlin - AngularJS in 20ish Minutes - NG-Conf 2014](https://www.youtube.com/watch?v=tnXO-i7944M)
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
+
+## [Egghead.io Lessons](https://egghead.io/)
+| Video | Code |
+| :---: | :---: |
+| 1. Binding | [gist 1]() |
+
