@@ -8,3 +8,4 @@
 * [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
 * [Estilizar e formatar placeholder de inputs](http://tableless.com.br/estilizar-e-formatar-placeholder-de-inputs/)
 * [Dicas de CSS para impressão](http://tableless.com.br/dicas-de-css-para-impressao/)
+* [Fix Your Messy CSS With SMACSS](http://webdesign.tutsplus.com/articles/quick-tip-fix-your-messy-css-with-smacss--webdesign-18489)
