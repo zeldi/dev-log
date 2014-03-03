@@ -25,4 +25,5 @@
 | [2. Controllers](https://egghead.io/lessons/angularjs-controllers) | [gist 1](https://gist.github.com/ericdouglas/9315751) |
 | [3. Dot](https://egghead.io/lessons/angularjs-the-dot) | [gist 1](https://gist.github.com/ericdouglas/9315829) |
 | [4. Sharing Data Between Controllers](https://egghead.io/lessons/angularjs-sharing-data-between-controllers) | [gist 1](https://gist.github.com/ericdouglas/9316042) |
+| [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist 1](https://gist.github.com/ericdouglas/9316234) |
 
