@@ -21,9 +21,10 @@
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
 | --- | :---: |
-| [1. Binding](https://egghead.io/lessons/angularjs-binding) | [gist 1](https://gist.github.com/ericdouglas/9315555) |
-| [2. Controllers](https://egghead.io/lessons/angularjs-controllers) | [gist 1](https://gist.github.com/ericdouglas/9315751) |
-| [3. Dot](https://egghead.io/lessons/angularjs-the-dot) | [gist 1](https://gist.github.com/ericdouglas/9315829) |
-| [4. Sharing Data Between Controllers](https://egghead.io/lessons/angularjs-sharing-data-between-controllers) | [gist 1](https://gist.github.com/ericdouglas/9316042) |
-| [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist 1](https://gist.github.com/ericdouglas/9316234) |
+| [1. Binding](https://egghead.io/lessons/angularjs-binding) | [gist](https://gist.github.com/ericdouglas/9315555) |
+| [2. Controllers](https://egghead.io/lessons/angularjs-controllers) | [gist](https://gist.github.com/ericdouglas/9315751) |
+| [3. Dot](https://egghead.io/lessons/angularjs-the-dot) | [gist](https://gist.github.com/ericdouglas/9315829) |
+| [4. Sharing Data Between Controllers](https://egghead.io/lessons/angularjs-sharing-data-between-controllers) | [gist](https://gist.github.com/ericdouglas/9316042) |
+| [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist](https://gist.github.com/ericdouglas/9316234) |
+| [6. Filters](https://egghead.io/lessons/angularjs-filters) | [gist](https://gist.github.com/ericdouglas/9316687) |
 
