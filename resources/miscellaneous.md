@@ -7,3 +7,4 @@
 * [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
 * [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/pt-br/)
 * [Can I Use](http://caniuse.com/)
+* [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/life-learning/2a1841f1335d)
