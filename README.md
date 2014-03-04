@@ -24,7 +24,7 @@
 
 **[Web Design ❤](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
 
-**[Shell Script](https://github.com/ericdouglas/dev-log/blob/master/resources/shell.md)**
+**[Shell Script ❤](https://github.com/ericdouglas/dev-log/blob/master/resources/shell.md)**
 
 **[Workflow ❤](https://github.com/eoop/dev-log/blob/master/resources/workflow.md)**
 
