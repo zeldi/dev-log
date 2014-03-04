@@ -28,4 +28,5 @@
 | [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist](https://gist.github.com/ericdouglas/9316234) |
 | [6. Filters](https://egghead.io/lessons/angularjs-filters) | [gist](https://gist.github.com/ericdouglas/9316687) |
 | [8. ngRepeat and Filtering Data](https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data) | [gist](https://gist.github.com/ericdouglas/9331865) |
+| [9. Built-in Filters](https://egghead.io/lessons/angularjs-built-in-filters) | [gist](https://gist.github.com/ericdouglas/9353935) |
 
