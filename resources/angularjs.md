@@ -32,4 +32,5 @@
 | [10. First Directive](https://egghead.io/lessons/angularjs-first-directive) | [gist](https://gist.github.com/ericdouglas/9354100) |
 | [11. Directives Restrictions](https://egghead.io/lessons/angularjs-directive-restrictions) | [gist](https://gist.github.com/ericdouglas/9354380) |
 | [12. Basic Behaviors](https://egghead.io/lessons/angularjs-basic-behaviors) | [gist](https://gist.github.com/ericdouglas/9354715) |
+| [13. Useful Behaviors](https://egghead.io/lessons/angularjs-useful-behaviors) | [gist](https://gist.github.com/ericdouglas/9354852) |
 
