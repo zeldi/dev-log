@@ -34,4 +34,5 @@
 | [12. Basic Behaviors](https://egghead.io/lessons/angularjs-basic-behaviors) | [gist](https://gist.github.com/ericdouglas/9354715) |
 | [13. Useful Behaviors](https://egghead.io/lessons/angularjs-useful-behaviors) | [gist](https://gist.github.com/ericdouglas/9354852) |
 | [14. Directives Talking to Controllers](https://egghead.io/lessons/angularjs-directives-talking-to-controllers) | [gist](https://gist.github.com/ericdouglas/9373658) |
+| [15. Directive to Directive](https://egghead.io/lessons/angularjs-directive-to-directive-communication) | [gist](https://gist.github.com/ericdouglas/9374024) |
 
