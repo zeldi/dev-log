@@ -16,3 +16,4 @@
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
+* [JavaScript - Boas práticas e otimizações](https://www.eventials.com/pinceladasdaweb/javascript-boas-praticas-e-otimizacoes/)
