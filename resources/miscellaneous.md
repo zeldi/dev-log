@@ -10,3 +10,4 @@
 * [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/life-learning/2a1841f1335d)
 * [5 Dicas para manter um Código Organizado e Padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)
 * [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
+* [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
