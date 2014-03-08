@@ -28,4 +28,11 @@
 | [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist](https://gist.github.com/ericdouglas/9316234) |
 | [6. Filters](https://egghead.io/lessons/angularjs-filters) | [gist](https://gist.github.com/ericdouglas/9316687) |
 | [8. ngRepeat and Filtering Data](https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data) | [gist](https://gist.github.com/ericdouglas/9331865) |
+| [9. Built-in Filters](https://egghead.io/lessons/angularjs-built-in-filters) | [gist](https://gist.github.com/ericdouglas/9353935) |
+| [10. First Directive](https://egghead.io/lessons/angularjs-first-directive) | [gist](https://gist.github.com/ericdouglas/9354100) |
+| [11. Directives Restrictions](https://egghead.io/lessons/angularjs-directive-restrictions) | [gist](https://gist.github.com/ericdouglas/9354380) |
+| [12. Basic Behaviors](https://egghead.io/lessons/angularjs-basic-behaviors) | [gist](https://gist.github.com/ericdouglas/9354715) |
+| [13. Useful Behaviors](https://egghead.io/lessons/angularjs-useful-behaviors) | [gist](https://gist.github.com/ericdouglas/9354852) |
+| [14. Directives Talking to Controllers](https://egghead.io/lessons/angularjs-directives-talking-to-controllers) | [gist](https://gist.github.com/ericdouglas/9373658) |
+| [15. Directive to Directive](https://egghead.io/lessons/angularjs-directive-to-directive-communication) | [gist](https://gist.github.com/ericdouglas/9374024) |
 

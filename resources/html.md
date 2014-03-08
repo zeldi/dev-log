@@ -2,3 +2,4 @@
 
 * [Dive Into HTML](http://diveintohtml5.com.br/)
 * [Livro Caelum: HTML, CSS e JavaScript](http://www.caelum.com.br/apostila-html-css-javascript/)
+* [HTML5 HTML5 PLEASE](http://html5please.com/)
