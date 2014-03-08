@@ -159,6 +159,10 @@
 * [Is learning VIM worth the effort?](http://stackoverflow.com/questions/597077/is-learning-vim-worth-the-effort)
 * [Vim para Frontend - Do Layout ao HTML e CSS](https://www.eventials.com/pinceladasdaweb/vim-para-front-end/)
 
+## Git
+
+* [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
+
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
