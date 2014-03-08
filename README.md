@@ -2,7 +2,7 @@
 
 #### The log of a developer's studies ❤.
 
-* [JavaScript](#javascript)
+* [JavaScript](javascript)
 
 * [NodeJS]()
 
@@ -31,7 +31,7 @@
 * [Miscellaneous]()
 
 
-# <a href="#javascript" id="javascript">❤</a> JavaScript
+# <a href="#" id="javascript">❤</a> JavaScript
 
 * [Traduz-ai (JavaScript)](https://github.com/eoop/traduz-ai#javascript)
 * [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
