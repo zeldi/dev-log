@@ -97,22 +97,129 @@
 
 # <a id="html">❤</a> HTML
 
+* [Dive Into HTML](http://diveintohtml5.com.br/)
+* [Livro Caelum: HTML, CSS e JavaScript](http://www.caelum.com.br/apostila-html-css-javascript/)
+* [HTML5 HTML5 PLEASE](http://html5please.com/)
+
 # <a id="css">❤</a> CSS
 
-# <a id="">❤</a> Jasmine
-
-# <a id="">❤</a> NoSQL
-
-# <a id="">❤</a> MongoDB
-
-# <a id="">❤</a> Jade
-
-# <a id="">❤</a> Stylus
+* [font property - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+* [6 secrets of creating the best responsive content](http://www.creativebloq.com/netmag/6-secrets-creating-best-responsive-content-121310185)
+* [`* { Box-sizing: Border-box }` FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw)
+* [Atomic Design](http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
+* [FONT SIZING WITH REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
+* [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
+* [Estilizar e formatar placeholder de inputs](http://tableless.com.br/estilizar-e-formatar-placeholder-de-inputs/)
+* [Dicas de CSS para impressão](http://tableless.com.br/dicas-de-css-para-impressao/)
+* [Fix Your Messy CSS With SMACSS](http://webdesign.tutsplus.com/articles/quick-tip-fix-your-messy-css-with-smacss--webdesign-18489)
 
 # <a id="">❤</a> Web Design
 
+* [How To Design a Website](http://www.awwwards.com/how-to-design-a-website.html)
+* [6 Phases of the Web Site Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.Ut7WyJBTvQo)
+* [Best 20 webfonts from Google Web Fonts and @font-face embedding](http://www.awwwards.com/best-20-webfonts-from-google-web-fonts-and-font-face-embedding.html)
+
+## Responsive Web Design (RWD)
+
+* [5 Really Useful Responsive Web Design Patterns](http://designshack.net/articles/css/5-really-useful-responsive-web-design-patterns/)
+* [GRID - A simple guide to responsive design](http://www.adamkaplan.me/grid/)
+* [A Web Mobile: Programe para um mundo de muitos dispositivos](http://www.casadocodigo.com.br/products/livro-web-mobile)
+
+## UX/UI
+
+* [GoodUI](http://www.goodui.org/)
+
 # <a id="">❤</a> Tools
+
+## Gulp
+* [Gulp - Slides from Eric Schoffstall](http://slid.es/contra/gulp)
+* [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
+* [Gulp Repository](https://github.com/gulpjs/gulp)
+* [Gulp website](http://gulpjs.com/)
+* [Gulp Plugins](http://gratimax.github.io/search-gulp-plugins/)
+* [Gulp Docs](https://github.com/gulpjs/gulp/tree/master/docs)
+* [No Need To Grunt, Take A Gulp Of Fresh Air](http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air)
+* [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
+* [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
+* [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
+
+## Bower
+* [GERENCIANDO DEPENDÊNCIAS FRONT-END NO SEU PROJETO](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
+* [Manage Front End Resources with Bower](http://scotch.io/bar-talk/manage-front-end-resources-with-bower)
+* [Bower Components](http://bower.io/search/)
+
+## Vim
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
+* [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
+* [Vim tips and tricks](http://www.cs.swarthmore.edu/help/vim/)
+* [Vim - Portal Brasileiro](http://aurelio.net/vim/)
+* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)
+* [Como instalar Plugins no Vim](http://www.pinceladasdaweb.com.br/blog/2014/02/17/como-instalar-plugins-no-vim/)
+* [Is learning VIM worth the effort?](http://stackoverflow.com/questions/597077/is-learning-vim-worth-the-effort)
+* [Vim para Frontend - Do Layout ao HTML e CSS](https://www.eventials.com/pinceladasdaweb/vim-para-front-end/)
+
+## Others
+* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
+* [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
+
+# <a id="">❤</a> Shell Script
+
+* [Shelling Out - Learn the shell early in your programming journey](https://medium.com/web-design-code/ea49638415fd)
+* [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)
+
+# <a id="">❤</a> Jade
+
+* [Jade Reference](http://jade-lang.com/reference/)
+* [Jade Command Line](http://jade-lang.com/command-line/)
+* [Jade Repository](https://github.com/visionmedia/jade)
+* [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+* [Html/Jade Converter](http://html2jade.com/)
+* [Other HTML to Jade Converter](http://html2jade.org/)
+* [Hello Jade - gist](https://gist.github.com/eoop/8568861)
+* [Hello Jade (command line) - gist](https://gist.github.com/eoop/8569055)
+* [Learning the Jade Templating Engine Syntax](http://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
+* [Jade Templating Tutorial Codecast - Part 2](http://cssdeck.com/labs/jade-templating-tutorial-codecast-part-2)
+
+# <a id="">❤</a> Stylus
+
+* [Learn Stylus](http://learnboost.github.io/stylus/)
+* [Try Stylus Online!](http://learnboost.github.io/stylus/try.html#)
+* [CSS 2 Stylus](http://css2stylus.com/)
+
+# <a id="">❤</a> Jasmine
+
+* [Jasmine Docs](http://jasmine.github.io/2.0/introduction.html)
+* [Testing Tuesday #16: JavaScript Testing with Jasmine](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+* [Testing Tuesday #17: How to spy on JavaScript methods with Jasmine](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
+* [Testing Tuesday #18: How to test asynchronous JavaScript with Jasmine](http://blog.codeship.io/2013/08/13/testing-tuesday-18-how-to-test-asynchronous-javascript-with-jasmine.html)
+* [Testing Tuesday #19: Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
+  * [Simple test](https://gist.github.com/eoop/8833048)
+* [Tradução Documentação Jasmine v2.0.0](http://cerebrobr.github.io/jasmine-br-docs/)
+* [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
+* [Karma Test Runner](http://karma-runner.github.io/0.10/intro/configuration.html)
+* [Jasmine: Guia de Bolso - Parte 1](http://quasar-blog.tumblr.com/post/76009517123/jasmine-guia-de-bolso-parte-1)
+
+# <a id="">❤</a> NoSQL
+
+* [NoSQL Essencial - livro](http://www.novateceditora.com.br/livros/nosql-essencial/)
+
+# <a id="">❤</a> MongoDB
+
+* [MongoDB University](https://education.mongodb.com)
+* [MoooooooongoDB](http://caba.re/moooooooongodb/)
 
 # <a id="">❤</a> Miscellaneous
 
-# <a id="">❤</a> 
+* [Lógica de Programação - Code Squad](http://code-squad.com/licao/introducao-logica)
+* [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+* [Kaizen para TI](http://pt.slideshare.net/slideshow/embed_code/31147222)
+* [How I Started TDD](http://blog.extracheese.org/2009/11/how_i_started_tdd.html)
+* [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
+* [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/pt-br/)
+* [Can I Use](http://caniuse.com/)
+* [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/life-learning/2a1841f1335d)
+* [5 Dicas para manter um Código Organizado e Padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)
+* [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
+* [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
+
