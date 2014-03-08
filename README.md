@@ -4,31 +4,31 @@
 
 * **[JavaScript](#-javascript)**
 
-* **[NodeJS]()**
+* **[NodeJS](#-nodejs)**
 
-* **[AngularJS]()**
+* **[AngularJS](#-angularjs)**
 
-* **[HTML]()**
+* **[HTML](#-html)**
 
-* **[CSS]()**
+* **[CSS](#-css)**
 
-* **[Web Design]()**
+* **[Web Design](#-webdesign)**
 
-* **[Tools]()**
+* **[Tools](#-tools)**
 
-* **[Shell Script]()**
+* **[Shell Script](#-shellscript)**
 
-* **[Jade]()**
+* **[Jade](#-jade)**
 
-* **[Stylus]()**
+* **[Stylus](#-stylus)**
 
-* **[Jasmine]()**
+* **[Jasmine](#-jasmine)**
 
-* **[NoSQL]()**
+* **[NoSQL](#-nosql)**
 
-* **[MongoDB]()**
+* **[MongoDB](#-mongodb)**
 
-* **[Miscellaneous]()**
+* **[Miscellaneous](#-miscellaneous)**
 
 
 # <a id="javascript">❤</a> JavaScript
@@ -113,7 +113,7 @@
 * [Dicas de CSS para impressão](http://tableless.com.br/dicas-de-css-para-impressao/)
 * [Fix Your Messy CSS With SMACSS](http://webdesign.tutsplus.com/articles/quick-tip-fix-your-messy-css-with-smacss--webdesign-18489)
 
-# <a id="">❤</a> Web Design
+# <a id="webdesign">❤</a> Web Design
 
 * [How To Design a Website](http://www.awwwards.com/how-to-design-a-website.html)
 * [6 Phases of the Web Site Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.Ut7WyJBTvQo)
@@ -129,7 +129,7 @@
 
 * [GoodUI](http://www.goodui.org/)
 
-# <a id="">❤</a> Tools
+# <a id="tools">❤</a> Tools
 
 ## Gulp
 * [Gulp - Slides from Eric Schoffstall](http://slid.es/contra/gulp)
@@ -163,12 +163,12 @@
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
 
-# <a id="">❤</a> Shell Script
+# <a id="shellscript">❤</a> Shell Script
 
 * [Shelling Out - Learn the shell early in your programming journey](https://medium.com/web-design-code/ea49638415fd)
 * [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)
 
-# <a id="">❤</a> Jade
+# <a id="jade">❤</a> Jade
 
 * [Jade Reference](http://jade-lang.com/reference/)
 * [Jade Command Line](http://jade-lang.com/command-line/)
@@ -181,13 +181,13 @@
 * [Learning the Jade Templating Engine Syntax](http://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
 * [Jade Templating Tutorial Codecast - Part 2](http://cssdeck.com/labs/jade-templating-tutorial-codecast-part-2)
 
-# <a id="">❤</a> Stylus
+# <a id="stylus">❤</a> Stylus
 
 * [Learn Stylus](http://learnboost.github.io/stylus/)
 * [Try Stylus Online!](http://learnboost.github.io/stylus/try.html#)
 * [CSS 2 Stylus](http://css2stylus.com/)
 
-# <a id="">❤</a> Jasmine
+# <a id="jasmine">❤</a> Jasmine
 
 * [Jasmine Docs](http://jasmine.github.io/2.0/introduction.html)
 * [Testing Tuesday #16: JavaScript Testing with Jasmine](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
@@ -200,16 +200,16 @@
 * [Karma Test Runner](http://karma-runner.github.io/0.10/intro/configuration.html)
 * [Jasmine: Guia de Bolso - Parte 1](http://quasar-blog.tumblr.com/post/76009517123/jasmine-guia-de-bolso-parte-1)
 
-# <a id="">❤</a> NoSQL
+# <a id="nosql">❤</a> NoSQL
 
 * [NoSQL Essencial - livro](http://www.novateceditora.com.br/livros/nosql-essencial/)
 
-# <a id="">❤</a> MongoDB
+# <a id="mongodb">❤</a> MongoDB
 
 * [MongoDB University](https://education.mongodb.com)
 * [MoooooooongoDB](http://caba.re/moooooooongodb/)
 
-# <a id="">❤</a> Miscellaneous
+# <a id="miscellaneous">❤</a> Miscellaneous
 
 * [Lógica de Programação - Code Squad](http://code-squad.com/licao/introducao-logica)
 * [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
