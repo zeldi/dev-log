@@ -12,11 +12,11 @@
 
 * **[CSS](#-css)**
 
-* **[Web Design](#-webdesign)**
+* **[Web Design](#-web-design)**
 
 * **[Tools](#-tools)**
 
-* **[Shell Script](#-shellscript)**
+* **[Shell Script](#-shell-script)**
 
 * **[Jade](#-jade)**
 
