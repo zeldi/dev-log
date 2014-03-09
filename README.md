@@ -62,13 +62,6 @@
 * [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
 * [Use AngularJS to Power Your Web Application](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
 * [More AngularJS Magic to Supercharge your Webapp](http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
-* [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
-  * **Chapter 1**
-    * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
-    * Recipe 2: [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541)
-    * Recipe 3: [gist 1](https://gist.github.com/eoop/8692874)
-    * Recipe 4: [gist 1](https://gist.github.com/eoop/8717042)
-    
 * [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
 * [angular-resources](https://github.com/distilledhype/angular-resources)
@@ -79,7 +72,18 @@
 * [Dan Wahlin - AngularJS in 20ish Minutes - NG-Conf 2014](https://www.youtube.com/watch?v=tnXO-i7944M)
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
+## [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
+
+| Chapter | Code |
+| --- | :---: |
+| **Chapter 1** ||
+| Recipe 1 | [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039) |
+| Recipe 2 | [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541) |
+| Recipe 3 | [gist 1](https://gist.github.com/eoop/8692874) |
+| Recipe 4 | [gist 1](https://gist.github.com/eoop/8717042) |
+
 ## [Egghead.io Lessons](https://egghead.io/)
+
 | Video | Code |
 | --- | :---: |
 | [1. Binding](https://egghead.io/lessons/angularjs-binding) | [gist](https://gist.github.com/ericdouglas/9315555) |
