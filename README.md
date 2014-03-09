@@ -232,4 +232,6 @@
 * [5 Dicas para manter um Código Organizado e Padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)
 * [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
 * [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
+* [React VS Angular](http://stackoverflow.com/questions/21111217/react-vs-angular)
+* [Some quick thoughts on Facebooks React.js](http://www.andrewgreig.com/637/)
 
