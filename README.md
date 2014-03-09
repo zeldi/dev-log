@@ -60,6 +60,8 @@
 # <a id="angularjs">❤</a> Angular.JS
 
 * [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
+* [Use AngularJS to Power Your Web Application](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
+* [More AngularJS Magic to Supercharge your Webapp](http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
 * [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
   * **Chapter 1**
     * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
@@ -176,7 +178,7 @@
 
 * [Jade Reference](http://jade-lang.com/reference/)
 * [Jade Command Line](http://jade-lang.com/command-line/)
-* [Jade Repository](https://github.com/visionmedia/jade)
+* [Jade Repository](https://github.com/visionmedia/jade)a
 * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
 * [Html/Jade Converter](http://html2jade.com/)
 * [Other HTML to Jade Converter](http://html2jade.org/)
