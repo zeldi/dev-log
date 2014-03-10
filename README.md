@@ -49,6 +49,7 @@
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
+* [Organize seu código Javascript de maneira fácil](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/)
 
 # <a id="nodejs">❤</a> Node.JS
 
