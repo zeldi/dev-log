@@ -50,6 +50,7 @@
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Glossário JavaScript Codecademy](http://www.codecademy.com/pt/glossary/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
+* [Organize seu código Javascript de maneira fácil!](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/)
 
 # <a id="nodejs">❤</a> Node.JS
 
