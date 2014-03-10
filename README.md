@@ -48,6 +48,7 @@
 * [Enter key press event in JavaScript](http://stackoverflow.com/questions/905222/enter-key-press-event-in-javascript)
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
+* [Glossário JavaScript Codecademy](http://www.codecademy.com/pt/glossary/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
 
 # <a id="nodejs">❤</a> Node.JS
