@@ -227,4 +227,5 @@
 * [5 Dicas para manter um Código Organizado e Padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)
 * [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
 * [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
+* [Meu primeiro emprego de Programador](https://www.youtube.com/watch?v=TS-rCZk1UHc&list=UURu4BNG9k_BRUu-aCYJsgHg)
 
