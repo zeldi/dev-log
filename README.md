@@ -41,16 +41,14 @@
 * [Eloquent JavaScript - 2nd edition](http://eloquentjavascript.net/2nd_edition/preview/)
 * [parseFloat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
 * [JSHint](http://www.jshint.com/)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)vim
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [10 Essential DOM Methods & Techniques for Practical JavaScript](http://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/)
 * [ECMAScript 5 compatibility table](http://kangax.github.io/es5-compat-table/)
 * [Array MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [Enter key press event in JavaScript](http://stackoverflow.com/questions/905222/enter-key-press-event-in-javascript)
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
-* [Glossário JavaScript Codecademy](http://www.codecademy.com/pt/glossary/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
-* [Organize seu código Javascript de maneira fácil!](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/)
 
 # <a id="nodejs">❤</a> Node.JS
 
@@ -62,8 +60,13 @@
 # <a id="angularjs">❤</a> Angular.JS
 
 * [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
-* [Use AngularJS to Power Your Web Application](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
-* [More AngularJS Magic to Supercharge your Webapp](http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
+* [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
+  * **Chapter 1**
+    * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
+    * Recipe 2: [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541)
+    * Recipe 3: [gist 1](https://gist.github.com/eoop/8692874)
+    * Recipe 4: [gist 1](https://gist.github.com/eoop/8717042)
+    
 * [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
 * [angular-resources](https://github.com/distilledhype/angular-resources)
@@ -74,18 +77,7 @@
 * [Dan Wahlin - AngularJS in 20ish Minutes - NG-Conf 2014](https://www.youtube.com/watch?v=tnXO-i7944M)
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
-## [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
-
-| Chapter | Code |
-| --- | :---: |
-| **Chapter 1** ||
-| Recipe 1 | [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039) |
-| Recipe 2 | [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541) |
-| Recipe 3 | [gist 1](https://gist.github.com/eoop/8692874) |
-| Recipe 4 | [gist 1](https://gist.github.com/eoop/8717042) |
-
 ## [Egghead.io Lessons](https://egghead.io/)
-
 | Video | Code |
 | --- | :---: |
 | [1. Binding](https://egghead.io/lessons/angularjs-binding) | [gist](https://gist.github.com/ericdouglas/9315555) |
@@ -148,5 +140,90 @@
 * [Gulp Docs](https://github.com/gulpjs/gulp/tree/master/docs)
 * [No Need To Grunt, Take A Gulp Of Fresh Air](http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air)
 * [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
-* [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp)
-* [Meu primeiro emprego de Programador](https://www.youtube.com/watch?v=TS-rCZk1UHc&list=UURu4BNG9k_BRUu-aCYJsgHg)
+* [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
+* [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
+
+## Bower
+* [GERENCIANDO DEPENDÊNCIAS FRONT-END NO SEU PROJETO](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
+* [Manage Front End Resources with Bower](http://scotch.io/bar-talk/manage-front-end-resources-with-bower)
+* [Bower Components](http://bower.io/search/)
+
+## Vim
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
+* [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
+* [Vim tips and tricks](http://www.cs.swarthmore.edu/help/vim/)
+* [Vim - Portal Brasileiro](http://aurelio.net/vim/)
+* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)
+* [Como instalar Plugins no Vim](http://www.pinceladasdaweb.com.br/blog/2014/02/17/como-instalar-plugins-no-vim/)
+* [Is learning VIM worth the effort?](http://stackoverflow.com/questions/597077/is-learning-vim-worth-the-effort)
+* [Vim para Frontend - Do Layout ao HTML e CSS](https://www.eventials.com/pinceladasdaweb/vim-para-front-end/)
+
+## Git
+
+* [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
+
+## Others
+* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
+* [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
+
+# <a id="shellscript">❤</a> Shell Script
+
+* [Shelling Out - Learn the shell early in your programming journey](https://medium.com/web-design-code/ea49638415fd)
+* [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)
+
+# <a id="jade">❤</a> Jade
+
+* [Jade Reference](http://jade-lang.com/reference/)
+* [Jade Command Line](http://jade-lang.com/command-line/)
+* [Jade Repository](https://github.com/visionmedia/jade)
+* [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+* [Html/Jade Converter](http://html2jade.com/)
+* [Other HTML to Jade Converter](http://html2jade.org/)
+* [Hello Jade - gist](https://gist.github.com/eoop/8568861)
+* [Hello Jade (command line) - gist](https://gist.github.com/eoop/8569055)
+* [Learning the Jade Templating Engine Syntax](http://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
+* [Jade Templating Tutorial Codecast - Part 2](http://cssdeck.com/labs/jade-templating-tutorial-codecast-part-2)
+
+# <a id="stylus">❤</a> Stylus
+
+* [Learn Stylus](http://learnboost.github.io/stylus/)
+* [Try Stylus Online!](http://learnboost.github.io/stylus/try.html#)
+* [CSS 2 Stylus](http://css2stylus.com/)
+
+# <a id="jasmine">❤</a> Jasmine
+
+* [Jasmine Docs](http://jasmine.github.io/2.0/introduction.html)
+* [Testing Tuesday #16: JavaScript Testing with Jasmine](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+* [Testing Tuesday #17: How to spy on JavaScript methods with Jasmine](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
+* [Testing Tuesday #18: How to test asynchronous JavaScript with Jasmine](http://blog.codeship.io/2013/08/13/testing-tuesday-18-how-to-test-asynchronous-javascript-with-jasmine.html)
+* [Testing Tuesday #19: Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
+  * [Simple test](https://gist.github.com/eoop/8833048)
+* [Tradução Documentação Jasmine v2.0.0](http://cerebrobr.github.io/jasmine-br-docs/)
+* [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
+* [Karma Test Runner](http://karma-runner.github.io/0.10/intro/configuration.html)
+* [Jasmine: Guia de Bolso - Parte 1](http://quasar-blog.tumblr.com/post/76009517123/jasmine-guia-de-bolso-parte-1)
+
+# <a id="nosql">❤</a> NoSQL
+
+* [NoSQL Essencial - livro](http://www.novateceditora.com.br/livros/nosql-essencial/)
+
+# <a id="mongodb">❤</a> MongoDB
+
+* [MongoDB University](https://education.mongodb.com)
+* [MoooooooongoDB](http://caba.re/moooooooongodb/)
+
+# <a id="miscellaneous">❤</a> Miscellaneous
+
+* [Lógica de Programação - Code Squad](http://code-squad.com/licao/introducao-logica)
+* [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+* [Kaizen para TI](http://pt.slideshare.net/slideshow/embed_code/31147222)
+* [How I Started TDD](http://blog.extracheese.org/2009/11/how_i_started_tdd.html)
+* [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
+* [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/pt-br/)
+* [Can I Use](http://caniuse.com/)
+* [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/life-learning/2a1841f1335d)
+* [5 Dicas para manter um Código Organizado e Padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)
+* [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
+* [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
+
