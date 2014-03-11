@@ -135,8 +135,10 @@
 
 | Lesson/Article | Resume |
 | --- | :---: |
-| Lesson 0 |  |
-| [Hello World](http://hackdesign.org/lessons/0) |  |
+| **[Lesson 0 - Hello World](http://hackdesign.org/lessons/0)** |  |
+| Objectified: A documentary for design |  |
+| **[Lesson 1 - What is design? Why is it important?](http://hackdesign.org/lessons/1)** |  |
+|  |  |
 
 # <a id="tools">❤</a> Tools
 
