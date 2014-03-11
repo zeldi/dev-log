@@ -113,6 +113,7 @@
 * [Estilizar e formatar placeholder de inputs](http://tableless.com.br/estilizar-e-formatar-placeholder-de-inputs/)
 * [Dicas de CSS para impressão](http://tableless.com.br/dicas-de-css-para-impressao/)
 * [Fix Your Messy CSS With SMACSS](http://webdesign.tutsplus.com/articles/quick-tip-fix-your-messy-css-with-smacss--webdesign-18489)
+* [Utilizando o Bootstrap de forma consistente](http://www.felipefialho.com/blog/2014/utilizando-o-bootstrap-de-forma-consistente)
 
 # <a id="webdesign">❤</a> Web Design
 
