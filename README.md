@@ -229,4 +229,6 @@
 * [Desenvolvedor Full-stack, hânnn?](http://www.divea.com.br/desenvolvedor-full-stack/)
 * [Best FrontEnd Tools - 2014](http://fredsarmento.me/frontend-tools/)
 * [Meu primeiro emprego de Programador](https://www.youtube.com/watch?v=TS-rCZk1UHc&list=UURu4BNG9k_BRUu-aCYJsgHg)
+* [Front-End Ops - Introdução À Uma Nova Disciplina](http://damniel.com/post/front-end-ops-introducao-a-uma-nova-disciplina.html)
+* [Um conto sobre componentização e quebra de paradigmas](http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/#.Ux9Ak3VdVRQ)
 
