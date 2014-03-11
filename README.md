@@ -231,4 +231,5 @@
 * [Meu primeiro emprego de Programador](https://www.youtube.com/watch?v=TS-rCZk1UHc&list=UURu4BNG9k_BRUu-aCYJsgHg)
 * [Front-End Ops - Introdução À Uma Nova Disciplina](http://damniel.com/post/front-end-ops-introducao-a-uma-nova-disciplina.html)
 * [Um conto sobre componentização e quebra de paradigmas](http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/#.Ux9Ak3VdVRQ)
+* [O que um bom desenvolvedor Front-End precisa saber?](http://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber/#.Ux-LCnVdVRQ)
 
