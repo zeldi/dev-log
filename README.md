@@ -242,4 +242,5 @@
 * [Front-End Ops - Introdução À Uma Nova Disciplina](http://damniel.com/post/front-end-ops-introducao-a-uma-nova-disciplina.html)
 * [Um conto sobre componentização e quebra de paradigmas](http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/#.Ux9Ak3VdVRQ)
 * [O que um bom desenvolvedor Front-End precisa saber?](http://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber/#.Ux-LCnVdVRQ)
+* [Faculdade de Informática. Fazer ou não fazer?](http://leandrooriente.com/faculdade-de-informatica-fazer-ou-nao-fazer/)
 
