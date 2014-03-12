@@ -174,7 +174,7 @@
 
 ### Vim Plugins
 
-* [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace]
+* [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 
 ## Git
