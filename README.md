@@ -170,6 +170,12 @@
 * [Como instalar Plugins no Vim](http://www.pinceladasdaweb.com.br/blog/2014/02/17/como-instalar-plugins-no-vim/)
 * [Is learning VIM worth the effort?](http://stackoverflow.com/questions/597077/is-learning-vim-worth-the-effort)
 * [Vim para Frontend - Do Layout ao HTML e CSS](https://www.eventials.com/pinceladasdaweb/vim-para-front-end/)
+* [Vim 101: What is the Leader Key?](http://usevim.com/2012/07/20/vim101-leader/)
+
+### Vim Plugins
+
+* [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace]
+* [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 
 ## Git
 
