@@ -254,3 +254,7 @@
 * **Coding Style**
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
 
+## Unix Tips
+
+* [UNIX Command To Rename A File](http://www.cyberciti.biz/faq/unix-command-rename-file/)
+
