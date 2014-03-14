@@ -115,6 +115,7 @@
 * [Fix Your Messy CSS With SMACSS](http://webdesign.tutsplus.com/articles/quick-tip-fix-your-messy-css-with-smacss--webdesign-18489)
 * [Utilizando o Bootstrap de forma consistente](http://www.felipefialho.com/blog/2014/utilizando-o-bootstrap-de-forma-consistente)
 * [Starting CSS](http://davidwalsh.name/starting-css)
+* [Estilizando Folhas de Estilo com Estilo](http://bernarddeluna.com/talks/estilizando/#1)
 
 # <a id="webdesign">❤</a> Web Design
 
