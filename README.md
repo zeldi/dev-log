@@ -186,6 +186,8 @@
 ## elementaryOS
 
 * [Programas](https://gist.github.com/ericdouglas/9566864)
+* [O que fazer após instalar o Elementary OS Luna?](https://medium.com/elementary-os-brasil/9bdb3be51385)
+* [O que fazer após instalar o ElementaryOS Luna? - outro link](http://sejalivre.org/o-que-fazer-apos-instalar-o-elementaryos-luna/)
 
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
