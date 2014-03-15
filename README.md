@@ -72,7 +72,7 @@
 * [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
 * [angular-resources](https://github.com/distilledhype/angular-resources)
 * [Tutorial for Building SPA using AngularJS](http://bitoftech.net/2014/01/13/tutorial-for-building-spa-using-angularjs-example/)
-* [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
+* [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)e
 * [How To Learn AngularJS](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 * [Easy global i18n angularJS language translations for your Angular app](http://www.ng-newsletter.com/posts/angular-translate.html)
 * [Dan Wahlin - AngularJS in 20ish Minutes - NG-Conf 2014](https://www.youtube.com/watch?v=tnXO-i7944M)
@@ -188,6 +188,7 @@
 * [Programas](https://gist.github.com/ericdouglas/9566864)
 * [O que fazer após instalar o Elementary OS Luna?](https://medium.com/elementary-os-brasil/9bdb3be51385)
 * [O que fazer após instalar o ElementaryOS Luna? - outro link](http://sejalivre.org/o-que-fazer-apos-instalar-o-elementaryos-luna/)
+* [Install Monaco Font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
