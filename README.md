@@ -258,6 +258,7 @@
 * [Um conto sobre componentização e quebra de paradigmas](http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/#.Ux9Ak3VdVRQ)
 * [O que um bom desenvolvedor Front-End precisa saber?](http://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber/#.Ux-LCnVdVRQ)
 * [Faculdade de Informática. Fazer ou não fazer?](http://leandrooriente.com/faculdade-de-informatica-fazer-ou-nao-fazer/)
+* [What makes a hero?](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 * **Coding Style**
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
 
