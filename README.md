@@ -178,6 +178,7 @@
 
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
+* [Emmet-vim](https://github.com/mattn/emmet-vim/)
 
 ## Git
 
