@@ -183,6 +183,10 @@
 
 * [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
 
+## elementaryOS
+
+* [Programas](https://gist.github.com/ericdouglas/9566864)
+
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
