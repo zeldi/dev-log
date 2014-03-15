@@ -262,6 +262,7 @@
 * [What makes a hero?](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 * **Coding Style**
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
+ * [Front-End Style Guide](http://pedronauck.com/frontend-styleguide/)
 
 ## Unix Tips
 
