@@ -51,6 +51,8 @@
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
 * [Organize seu código Javascript de maneira fácil](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/)
 * [BEST JAVASCRIPT MVC FRAMEWORKS 2013-2014](http://jonathanmh.com/best-javascript-mvc-frameworks-2013-2014/)
+* [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
+* [The Top 10 Javascript MVC Frameworks Reviewed](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/)
 
 # <a id="nodejs">❤</a> Node.JS
 
