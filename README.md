@@ -57,6 +57,7 @@
 * [Node.js In Action](http://www.infoq.com/articles/nodejs-in-action/)
 * [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 * [Traduz-ai Node.js](https://github.com/cerebrobr/traduz-ai#nodejs)
+* [Installing Node.JS via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 
 # <a id="angularjs">❤</a> Angular.JS
 
