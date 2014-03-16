@@ -50,6 +50,7 @@
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Modularização em JavaScript](http://tableless.com.br/modularizacao-em-javascript)
 * [Organize seu código Javascript de maneira fácil](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/)
+* [BEST JAVASCRIPT MVC FRAMEWORKS 2013-2014](http://jonathanmh.com/best-javascript-mvc-frameworks-2013-2014/)
 
 # <a id="nodejs">❤</a> Node.JS
 
