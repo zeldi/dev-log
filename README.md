@@ -191,6 +191,8 @@
 ## Git
 
 * [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
+* [Pro - Git](http://git-scm.com/book/pt-br)
+* [Pro - Git (Leanpub)](https://leanpub.com/pro-git)
 
 ## elementaryOS
 
