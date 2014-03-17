@@ -53,6 +53,7 @@
 * [BEST JAVASCRIPT MVC FRAMEWORKS 2013-2014](http://jonathanmh.com/best-javascript-mvc-frameworks-2013-2014/)
 * [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 * [The Top 10 Javascript MVC Frameworks Reviewed](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/)
+* [Fluent 2014, "Keynote With Yehuda Katz and Tom Dale"](https://www.youtube.com/watch?v=jScLjUlLTLI)
 
 # <a id="nodejs">❤</a> Node.JS
 
