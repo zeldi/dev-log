@@ -8,6 +8,8 @@
 
 * **[AngularJS](#-angularjs)**
 
+* **[MEAN](#-mean)** 
+
 * **[HTML](#-html)**
 
 * **[CSS](#-css)**
@@ -101,6 +103,10 @@
 | [13. Useful Behaviors](https://egghead.io/lessons/angularjs-useful-behaviors) | [gist](https://gist.github.com/ericdouglas/9354852) |
 | [14. Directives Talking to Controllers](https://egghead.io/lessons/angularjs-directives-talking-to-controllers) | [gist](https://gist.github.com/ericdouglas/9373658) |
 | [15. Directive to Directive](https://egghead.io/lessons/angularjs-directive-to-directive-communication) | [gist](https://gist.github.com/ericdouglas/9374024) |
+
+# <a id="mean">❤</a> MEAN
+
+* [MEAN Stack course/tutorial Node.js](http://stackoverflow.com/questions/20605824/mean-stack-course-tutorial-node-js)
 
 # <a id="html">❤</a> HTML
 
