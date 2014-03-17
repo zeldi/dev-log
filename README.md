@@ -62,6 +62,7 @@
 * [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 * [Traduz-ai Node.js](https://github.com/cerebrobr/traduz-ai#nodejs)
 * [Installing Node.JS via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
+* [WHY NODE.JS IS BECOMING THE GO-TO TECHNOLOGY IN THE ENTERPRISE](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise)
 
 # <a id="angularjs">❤</a> Angular.JS
 
