@@ -65,6 +65,7 @@
 * [Traduz-ai Node.js](https://github.com/cerebrobr/traduz-ai#nodejs)
 * [Installing Node.JS via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 * [WHY NODE.JS IS BECOMING THE GO-TO TECHNOLOGY IN THE ENTERPRISE](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise)
+* [Intro to Node.js, Express.js, MongoDB for Beginners](https://www.youtube.com/watch?v=e23EJMy1PdA)
 
 # <a id="angularjs">❤</a> Angular.JS
 
