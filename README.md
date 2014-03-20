@@ -189,6 +189,7 @@
 * [Vim 101: What is the Leader Key?](http://usevim.com/2012/07/20/vim101-leader/)
 * [My .vimrc](https://gist.github.com/ericdouglas/9517743)
 * [Vim Copy & Paste](http://stackoverflow.com/questions/11489428/how-to-make-vim-paste-from-and-copy-to-systems-clipboard)
+* [Secrets of the Vim Ninja](http://bencrowder.net/files/vim-fu/)
 
 ### Vim Plugins
 
