@@ -57,6 +57,7 @@
 * [The Top 10 Javascript MVC Frameworks Reviewed](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/)
 * [Fluent 2014, "Keynote With Yehuda Katz and Tom Dale"](https://www.youtube.com/watch?v=jScLjUlLTLI)
 * [Meu workflow Javascript com Module Pattern](http://blog.da2k.com.br/2014/03/18/meu-workflow-javascript-com-module-pattern/)
+* [Modular JavaScript With npm and Node Modules](http://vimeo.com/89258863)
 
 # <a id="nodejs">❤</a> Node.JS
 
