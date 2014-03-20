@@ -285,6 +285,7 @@
 * **Coding Style**
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
  * [Front-End Style Guide](http://pedronauck.com/frontend-styleguide/)
+ * [Ghost – A simples e perfeita plataforma para publicações](http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/)
 
 ## Unix Tips
 
