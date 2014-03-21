@@ -217,6 +217,7 @@
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [Subtle Patterns](http://subtlepatterns.com/)
+* [Tools of the Modern Web Developer](https://courses.tutsplus.com/courses/tools-of-the-modern-web-developer)
 
 # <a id="shellscript">❤</a> Shell Script
 
