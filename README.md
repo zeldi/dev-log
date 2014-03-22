@@ -264,6 +264,7 @@
 
 * [MongoDB University](https://education.mongodb.com)
 * [MoooooooongoDB](http://caba.re/moooooooongodb/)
+* [Install MongoDB on Ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
 
 # <a id="miscellaneous">❤</a> Miscellaneous
 
