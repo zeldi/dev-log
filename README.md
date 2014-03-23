@@ -295,3 +295,7 @@
 
 * [UNIX Command To Rename A File](http://www.cyberciti.biz/faq/unix-command-rename-file/)
 
+## Motivational
+
+* [How Bad Do You Want It](https://www.youtube.com/watch?v=uggp6syKMFI)
+
