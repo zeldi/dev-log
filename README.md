@@ -202,6 +202,7 @@
 * [Conque](http://blog.hugeaim.com/2012/05/05/installing-conque-as-a-terminal-inside-macvim/)
 * [vim-jade](https://github.com/digitaltoad/vim-jade)
 * [vim-stylus](https://github.com/wavded/vim-stylus)
+* [vim-markdown](https://github.com/plasticboy/vim-markdown)
 
 ## Git
 
