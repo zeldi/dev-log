@@ -199,6 +199,9 @@
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 * [Emmet-vim](https://github.com/mattn/emmet-vim/)
+* [Conque](http://blog.hugeaim.com/2012/05/05/installing-conque-as-a-terminal-inside-macvim/)
+* [vim-jade](https://github.com/digitaltoad/vim-jade)
+* [vim-stylus](https://github.com/wavded/vim-stylus)
 
 ## Git
 
