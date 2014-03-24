@@ -193,6 +193,7 @@
 * [My .vimrc](https://gist.github.com/ericdouglas/9517743)
 * [Vim Copy & Paste](http://stackoverflow.com/questions/11489428/how-to-make-vim-paste-from-and-copy-to-systems-clipboard)
 * [Secrets of the Vim Ninja](http://bencrowder.net/files/vim-fu/)
+* [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
 
 ### Vim Plugins
 
