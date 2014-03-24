@@ -294,6 +294,7 @@
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
  * [Front-End Style Guide](http://pedronauck.com/frontend-styleguide/)
  * [Ghost – A simples e perfeita plataforma para publicações](http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/)
+ * [Starting An Open-Source Project](http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/)
 
 ## Unix Tips
 
