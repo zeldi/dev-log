@@ -304,6 +304,7 @@
 ## Unix Tips
 
 * [UNIX Command To Rename A File](http://www.cyberciti.biz/faq/unix-command-rename-file/)
+* [15 Practical Linux cURL Command Examples](http://www.thegeekstuff.com/2012/04/curl-examples/)
 
 ## Motivational
 
