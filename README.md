@@ -10,7 +10,7 @@
 
 * **[MEAN](#-mean)** 
 
-* **[HTML](#-html)**Segredos do Chrome Developer Tools
+* **[HTML](#-html)**
 
 * **[CSS](#-css)**
 
