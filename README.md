@@ -59,6 +59,13 @@
 * [Meu workflow Javascript com Module Pattern](http://blog.da2k.com.br/2014/03/18/meu-workflow-javascript-com-module-pattern/)
 * [Modular JavaScript With npm and Node Modules](http://vimeo.com/89258863)
 * [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)
+* [DevCast - A insustentável leveza do JS](https://www.youtube.com/watch?v=JBKrWHSGGec&feature=youtu.be)
+ * Guia de estilos: [idiomatic.js]() e [jQuery Stile Guide](https://contribute.jquery.org/style-guide/js/)
+ * Criação de Documentação: [mdoc](https://github.com/millermedeiros/mdoc)
+ * Frameworks de testes: [QUnit](https://qunitjs.com/), [Jasmine](http://jasmine.github.io/2.0/introduction.html) e [Doc Jasmine traduzida](http://cerebrobr.github.io/jasmine-br-docs/)
+ * Ferramenta de cobertura de testes - [Istanbul](http://gotwarlost.github.io/istanbul/)
+ * Integraçao contínua - [TravisCI](https://travis-ci.org/)
+ * Relatórios de Cobertura - [Coveralls](https://coveralls.io/)
 
 # <a id="nodejs">❤</a> Node.JS
 
