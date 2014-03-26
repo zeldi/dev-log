@@ -312,6 +312,7 @@
  * [Starting An Open-Source Project](http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/)
  * [Creating Project Pages manually - Github](https://help.github.com/articles/creating-project-pages-manually)
  * [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
+ * [Quando o excesso de aprendizado atrapalha sua produtividade](http://imasters.com.br/desenvolvimento/quando-o-excesso-de-aprendizado-atrapalha-sua-produtividade/)
 
 ## Unix Tips
 
