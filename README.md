@@ -66,6 +66,8 @@
  * Ferramenta de cobertura de testes - [Istanbul](http://gotwarlost.github.io/istanbul/)
  * Integraçao contínua - [TravisCI](https://travis-ci.org/)
  * Relatórios de Cobertura - [Coveralls](https://coveralls.io/)
+ * Aprendendo Testes: [js-assessment](js-assessment)
+ * Indicação de Livro para iniciar com testes: [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
 
 # <a id="nodejs">❤</a> Node.JS
 
