@@ -128,6 +128,7 @@
 * [Livro Caelum: HTML, CSS e JavaScript](http://www.caelum.com.br/apostila-html-css-javascript/)
 * [HTML5 HTML5 PLEASE](http://html5please.com/)
 * [Effeckts.css](http://h5bp.github.io/Effeckt.css/)
+* [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
 
 # <a id="css">❤</a> CSS
 
