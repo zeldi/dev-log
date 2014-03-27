@@ -129,8 +129,7 @@
 * [HTML5 HTML5 PLEASE](http://html5please.com/)
 * [Effeckts.css](http://h5bp.github.io/Effeckt.css/)
 * [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
-* [CSS3 Generator](http://css3generator.com/)
-* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+* [Form `novalidate` attribute](https://developer.mozilla.org/pt-BR/docs/HTML/Element/form)
 
 # <a id="css">❤</a> CSS
 
@@ -147,6 +146,8 @@
 * [Starting CSS](http://davidwalsh.name/starting-css)
 * [Estilizando Folhas de Estilo com Estilo](http://bernarddeluna.com/talks/estilizando/#1)
 * [Interaction Pro Tips](http://aerotwist.com/tutorials/protip-nobody-expects-3d)
+* [CSS3 Generator](http://css3generator.com/)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
 # <a id="webdesign">❤</a> Web Design
 
