@@ -222,6 +222,7 @@
 * [vim-jade](https://github.com/digitaltoad/vim-jade)
 * [vim-stylus](https://github.com/wavded/vim-stylus)
 * [vim-markdown](https://github.com/plasticboy/vim-markdown)
+* [vim-auto-save](https://github.com/vim-scripts/vim-auto-save)
 
 ## Git
 
