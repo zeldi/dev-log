@@ -242,6 +242,7 @@
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Tools of the Modern Web Developer](https://courses.tutsplus.com/courses/tools-of-the-modern-web-developer)
 * [Segredos do Chrome Developer Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
+* [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
 
 # <a id="shellscript">❤</a> Shell Script
 
