@@ -129,6 +129,8 @@
 * [HTML5 HTML5 PLEASE](http://html5please.com/)
 * [Effeckts.css](http://h5bp.github.io/Effeckt.css/)
 * [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
+* [CSS3 Generator](http://css3generator.com/)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
 # <a id="css">❤</a> CSS
 
