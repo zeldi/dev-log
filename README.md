@@ -148,6 +148,7 @@
 * [Interaction Pro Tips](http://aerotwist.com/tutorials/protip-nobody-expects-3d)
 * [CSS3 Generator](http://css3generator.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+* [Ferramentas para aumentar sua produtividade com o Bootstrap](http://websocialdev.com/ferramentas-para-aumentar-sua-produtividade-com-bootstrap/)
 
 # <a id="webdesign">❤</a> Web Design
 
