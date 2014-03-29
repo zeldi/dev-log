@@ -231,6 +231,8 @@
 * [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
 * [Pro - Git](http://git-scm.com/book/pt-br)
 * [Pro - Git (Leanpub)](https://leanpub.com/pro-git)
+* **.gitignore files**
+  * [ignoring files](http://gitready.com/beginner/2009/01/19/ignoring-files.html), [node](http://www.gitignore.io/api/node), [sublime text](http://www.gitignore.io/api/sublimetext), [vim](http://www.gitignore.io/api/vim), [organize-js](https://github.com/diogomoretti/organize-js/blob/gh-pages/.gitignore)
 
 ## elementaryOS
 
