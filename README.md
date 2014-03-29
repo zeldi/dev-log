@@ -68,7 +68,6 @@
  * Relatórios de Cobertura - [Coveralls](https://coveralls.io/)
  * Aprendendo Testes: [js-assessment](js-assessment)
  * Indicação de Livro para iniciar com testes: [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
-* [pony-foo-list](https://github.com/ericdouglas/pony-foo-list)
 
 # <a id="nodejs">❤</a> Node.JS
 
@@ -122,7 +121,6 @@
 
 * [MEAN Stack course/tutorial Node.js](http://stackoverflow.com/questions/20605824/mean-stack-course-tutorial-node-js)
 * [be MEAN](http://bemean.com.br/)
-* [pony-foo-list](https://github.com/ericdouglas/pony-foo-list)
 
 # <a id="html">❤</a> HTML
 
@@ -323,6 +321,7 @@
  * [Creating Project Pages manually - Github](https://help.github.com/articles/creating-project-pages-manually)
  * [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
  * [Quando o excesso de aprendizado atrapalha sua produtividade](http://imasters.com.br/desenvolvimento/quando-o-excesso-de-aprendizado-atrapalha-sua-produtividade/)
+ * [pony-foo-list](https://github.com/ericdouglas/pony-foo-list)
 
 ## Unix Tips
 
