@@ -192,6 +192,7 @@
 * [Getting started with gulp (2)](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 * [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
 * [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
+* [My gulpfile.js](https://gist.github.com/ericdouglas/8855147)
 
 ## Bower
 * [GERENCIANDO DEPENDÊNCIAS FRONT-END NO SEU PROJETO](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
