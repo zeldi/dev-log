@@ -329,6 +329,7 @@
  * [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
  * [Quando o excesso de aprendizado atrapalha sua produtividade](http://imasters.com.br/desenvolvimento/quando-o-excesso-de-aprendizado-atrapalha-sua-produtividade/)
 * [pony-foo-list](https://github.com/ericdouglas/pony-foo-list)
+* [Developers We Admire](http://www.paulirish.com/2012/developers-we-admire/)
 
 ## Unix Tips
 
