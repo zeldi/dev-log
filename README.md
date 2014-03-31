@@ -332,6 +332,7 @@
  * [Quando o excesso de aprendizado atrapalha sua produtividade](http://imasters.com.br/desenvolvimento/quando-o-excesso-de-aprendizado-atrapalha-sua-produtividade/)
 * [pony-foo-list](https://github.com/ericdouglas/pony-foo-list)
 * [Developers We Admire](http://www.paulirish.com/2012/developers-we-admire/)
+* [Choose tools you'll use.](https://the-pastry-box-project.net/addy-osmani/2014-March-26)
 
 ## Unix Tips
 
