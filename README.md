@@ -154,6 +154,7 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [Ferramentas para aumentar sua produtividade com o Bootstrap](http://websocialdev.com/ferramentas-para-aumentar-sua-produtividade-com-bootstrap/)
+* [CSS3 selectors - caniuse.com](http://caniuse.com/#feat=css-sel3)
 
 # <a id="webdesign">❤</a> Web Design
 
