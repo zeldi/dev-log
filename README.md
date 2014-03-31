@@ -68,6 +68,7 @@
  * Relatórios de Cobertura - [Coveralls](https://coveralls.io/)
  * Aprendendo Testes: [js-assessment](js-assessment)
  * Indicação de Livro para iniciar com testes: [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
+* [Usando .filter() no JavaScript](https://gist.github.com/ericdouglas/9890024)
 
 # <a id="nodejs">❤</a> Node.JS
 
