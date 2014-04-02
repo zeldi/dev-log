@@ -237,6 +237,14 @@
 * [prefixer.vim](https://github.com/vim-scripts/prefixer.vim)
 * [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
 
+## Sublime Text 3
+
+* [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
+
+### Sublime Puglins
+
+* [Vintageous](https://github.com/guillermooo/Vintageous)
+
 ## Git
 
 * [How can I delete a file from git repo?](http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
