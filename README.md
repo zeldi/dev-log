@@ -261,6 +261,7 @@
 * [Segredos do Chrome Developer Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 * [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
 * [Major dependencies to use on Grunt, Gulp, Bower, Karma and Node/CLI](https://gist.github.com/ericdouglas/9908371)
+* [Check gzip in a page](http://gzipwtf.com/)
 
 # <a id="shellscript">❤</a> Shell Script
 
