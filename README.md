@@ -71,6 +71,7 @@
 * [Usando .filter() no JavaScript](https://gist.github.com/ericdouglas/9890024)
 * [USE A PORCARIA DO JSHINT!](http://caba.re/use-a-porcaria-do-jshint/)
 * [Pure JavaScript](http://vimeo.com/49384334)
+* [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
 
 # <a id="nodejs">❤</a> Node.JS
 
