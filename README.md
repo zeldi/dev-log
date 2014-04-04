@@ -160,6 +160,7 @@
 * [Ferramentas para aumentar sua produtividade com o Bootstrap](http://websocialdev.com/ferramentas-para-aumentar-sua-produtividade-com-bootstrap/)
 * [CSS3 selectors - caniuse.com](http://caniuse.com/#feat=css-sel3)
 * Overflow: [CSS-tricks](http://css-tricks.com/almanac/properties/o/overflow/) and [MDN](https://developer.mozilla.org/pt-BR/docs/CSS/overflow)
+* [An Event Apart: SVG is for Everybody](http://www.lukew.com/ff/entry.asp?1859)
 
 # <a id="webdesign">❤</a> Web Design
 
