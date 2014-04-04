@@ -226,6 +226,7 @@
 * [Secrets of the Vim Ninja](http://bencrowder.net/files/vim-fu/)
 * [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
 * [Porque você deve aprender Vim hoje](http://pt.slideshare.net/PedroFranceschi/palestra-vim)
+* [Vim Sheets](https://gist.github.com/vitorbritto/9983723#file-vim-md)
 
 ### Vim Plugins
 
@@ -243,6 +244,7 @@
 ## Sublime Text 3
 
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
+* [Sublime Sheets](https://gist.github.com/vitorbritto/9983723#file-sublime_text_2-md)
 
 ### Sublime Puglins
 
