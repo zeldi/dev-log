@@ -362,6 +362,7 @@
 * [Making Things With Maths](http://acko.net/tv/wdcode/)
 * [The Values of the Web](https://the-pastry-box-project.net/brad-frost/2014-March-30)
 * [Start Coding with Wireframes](http://alistapart.com/column/start-coding-with-wireframes)
+* [You Can Do Amazing Things](https://www.youtube.com/watch?v=8zya2Ge5Vqs)
 
 ## Unix Tips
 
