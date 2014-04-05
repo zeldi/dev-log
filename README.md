@@ -278,6 +278,7 @@
 * [Check gzip in a page](http://gzipwtf.com/)
 * [Leanpub](https://leanpub.com/)
 * [GitBook](http://www.gitbook.io/)
+* [JSON Editor Online](http://www.jsoneditoronline.org/)
 
 # <a id="shellscript">❤</a> Shell Script
 
