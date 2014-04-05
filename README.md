@@ -228,6 +228,7 @@
 * [Porque você deve aprender Vim hoje](http://pt.slideshare.net/PedroFranceschi/palestra-vim)
 * [Vim Sheets](https://gist.github.com/vitorbritto/9983723#file-vim-md)
 * [My Favorite Vim Plugins](http://el-tramo.be/blog/my-favorite-vim-plugins/)
+* [Converting tabs to spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 
 ### Vim Plugins
 
