@@ -241,6 +241,7 @@
 * [vim-auto-save](https://github.com/vim-scripts/vim-auto-save)
 * [prefixer.vim](https://github.com/vim-scripts/prefixer.vim)
 * [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
+* [NERDTree](https://github.com/scrooloose/nerdtree)
 
 ## Sublime Text 3
 
