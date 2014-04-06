@@ -73,6 +73,7 @@
 * [Pure JavaScript](http://vimeo.com/49384334)
 * [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
 * [Become a Professional JavaScript Developer](https://tutsplus.com/2013/05/become-a-professional-javascript-developer/)
+* [Functional JavaScript - MDN](https://developer.mozilla.org/en-US/docs/functional-javascript)
 
 # <a id="nodejs">❤</a> Node.JS
 
