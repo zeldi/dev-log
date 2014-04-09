@@ -166,6 +166,7 @@
 * Overflow: [CSS-tricks](http://css-tricks.com/almanac/properties/o/overflow/) and [MDN](https://developer.mozilla.org/pt-BR/docs/CSS/overflow)
 * [An Event Apart: SVG is for Everybody](http://www.lukew.com/ff/entry.asp?1859)
 * [The Magic Of CSS](http://adamschwartz.co/magic-of-css/)
+* [Font Size Idea: px at the Root, rem for Components, em for Text Elements](http://css-tricks.com/rems-ems/)
 
 # <a id="webdesign">❤</a> Web Design
 
