@@ -88,6 +88,7 @@
 * [Intro to Node.js, Express.js, MongoDB for Beginners](https://www.youtube.com/watch?v=e23EJMy1PdA)
 * [How is TJ Holowaychuk so insanely productive?](http://www.quora.com/TJ-Holowaychuk-1/How-is-TJ-Holowaychuk-so-insanely-productive)
 * [Hosting compatible with Node](https://github.com/joyent/node/wiki/Node-Hosting)
+* [Node.js em Produção: Case Webcast](http://vizir.com.br/2013/12/node-js-em-producao-case-webcast/)
 
 # <a id="angularjs">❤</a> Angular.JS
 
