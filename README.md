@@ -171,6 +171,7 @@
 * [An Event Apart: SVG is for Everybody](http://www.lukew.com/ff/entry.asp?1859)
 * [The Magic Of CSS](http://adamschwartz.co/magic-of-css/)
 * [Font Size Idea: px at the Root, rem for Components, em for Text Elements](http://css-tricks.com/rems-ems/)
+* [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 # <a id="webdesign">❤</a> Web Design
 
