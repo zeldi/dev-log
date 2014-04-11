@@ -199,6 +199,10 @@
 | **[Lesson 1 - What is design? Why is it important?](http://hackdesign.org/lessons/1)** |  |
 |  |  |
 
+## Inspiration
+
+* [HTML5 Up](http://html5up.net/)
+
 # <a id="tools">❤</a> Tools
 
 ## Gulp
