@@ -112,6 +112,7 @@
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 * [13 Steps to AngularJS Modularization](http://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/?utm_source=javascriptweekly&utm_medium=email)
 * [Opiniões de usuários do AngularJS](https://gist.github.com/ericdouglas/9923327)
+* [Protractor for AngularJS](http://ramonvictor.github.io/protractor/slides/#/)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
