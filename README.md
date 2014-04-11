@@ -382,6 +382,7 @@
 * [You Can Do Amazing Things](https://www.youtube.com/watch?v=8zya2Ge5Vqs)
 * [Don’t Worry. We All Feel Overwhelmed](https://tutsplus.com/2012/08/dont-worry-we-all-feel-overwhelmed/)
 * [Acervo online reúne materiais gratuitos sobre linguagens, sistemas e ciências da computação](http://info.abril.com.br/noticias/it-solutions/2014/04/acervo-online-reune-materiais-gratuitos-sobre-linguagens-sistemas-e-ciencias-da-computacao.shtml)
+* [WHAT TO WRITE](http://jacobian.org/writing/what-to-write/)
 
 ## Unix Tips
 
