@@ -76,6 +76,7 @@
 * [Functional JavaScript - MDN](https://developer.mozilla.org/en-US/docs/functional-javascript)
 * [What to Read to Get Up to Speed in JavaScript](http://blog.reybango.com/2010/12/15/what-to-read-to-get-up-to-speed-in-javascript/)
 * [Learn to write pefrect JavaScript with LINT](https://medium.com/cool-code-pal/6f0b56c6a562)
+* [Refactoring JavaScript](http://vimeo.com/44773887)
 
 # <a id="nodejs">❤</a> Node.JS
 
