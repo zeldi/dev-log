@@ -385,6 +385,7 @@
 * [Acervo online reúne materiais gratuitos sobre linguagens, sistemas e ciências da computação](http://info.abril.com.br/noticias/it-solutions/2014/04/acervo-online-reune-materiais-gratuitos-sobre-linguagens-sistemas-e-ciencias-da-computacao.shtml)
 * [WHAT TO WRITE](http://jacobian.org/writing/what-to-write/)
 * [TECHNICAL STYLE](http://jacobian.org/writing/technical-style/)
+* [YOU NEED AN EDITOR](http://jacobian.org/writing/editors/)
 * [Resenha crítica do livro "Fora de Série" de Malcolm Gladwell](http://www.midializado.com.br/2010/11/resenha-critica-do-livro-fora-de-serie.html)
 * [Resenha crítica do livro Blink de Malcolm Gladwell](http://www.midializado.com.br/2013/03/resenha-resumo-livro-blink-malcolm-gladwell.html)
 * [Resumo do livro "O Ponto da Virada" de Malcolm Gladwell](http://www.midializado.com.br/2011/07/resumo-do-livro-o-ponto-da-virada-de.html)
