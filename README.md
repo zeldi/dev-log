@@ -390,6 +390,7 @@
 * [Resenha crítica do livro Blink de Malcolm Gladwell](http://www.midializado.com.br/2013/03/resenha-resumo-livro-blink-malcolm-gladwell.html)
 * [Resumo do livro "O Ponto da Virada" de Malcolm Gladwell](http://www.midializado.com.br/2011/07/resumo-do-livro-o-ponto-da-virada-de.html)
 * [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
+* [The Psychology of Language: Which Words Matter the Most When We Talk](http://blog.bufferapp.com/which-words-matter-the-most-when-we-talk-the-psychology-of-language)
 
 ## Unix Tips
 
