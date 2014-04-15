@@ -78,6 +78,7 @@
 * [Learn to write pefrect JavaScript with LINT](https://medium.com/cool-code-pal/6f0b56c6a562)
 * [Refactoring JavaScript](http://vimeo.com/44773887)
 * [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+* [NaN and Infinity in JavaScript](http://www.2ality.com/2012/02/nan-infinity.html)
 
 # <a id="nodejs">❤</a> Node.JS
 
