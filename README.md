@@ -393,6 +393,7 @@
 * [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 * [The Psychology of Language: Which Words Matter the Most When We Talk](http://blog.bufferapp.com/which-words-matter-the-most-when-we-talk-the-psychology-of-language)
 * [The Science of Scientific Writing](http://www.americanscientist.org/issues/id.877,y.0,no.,content.true,page.1,css.print/issue.aspx)
+* [DO MORE AND HAVE FUN WITH TIME MANAGEMENT](http://pomodorotechnique.com/)
 
 ## Unix Tips
 
