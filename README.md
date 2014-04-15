@@ -81,6 +81,7 @@
 * [NaN and Infinity in JavaScript](http://www.2ality.com/2012/02/nan-infinity.html)
 * [Why `isNaN` is broken.](https://gist.github.com/kitcambridge/1086528)
 * [Creating multiline strings in JavaScript](http://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript)
+* [switch MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
 # <a id="nodejs">❤</a> Node.JS
 
