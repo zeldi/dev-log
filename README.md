@@ -79,6 +79,7 @@
 * [Refactoring JavaScript](http://vimeo.com/44773887)
 * [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
 * [NaN and Infinity in JavaScript](http://www.2ality.com/2012/02/nan-infinity.html)
+* [Why `isNaN` is broken.](https://gist.github.com/kitcambridge/1086528)
 
 # <a id="nodejs">❤</a> Node.JS
 
