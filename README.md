@@ -304,6 +304,7 @@
 * [Leanpub](https://leanpub.com/)
 * [GitBook](http://www.gitbook.io/)
 * [JSON Editor Online](http://www.jsoneditoronline.org/)
+* [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
 
 # <a id="shellscript">❤</a> Shell Script
 
