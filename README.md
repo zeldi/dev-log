@@ -96,6 +96,7 @@
 * [Hosting compatible with Node](https://github.com/joyent/node/wiki/Node-Hosting)
 * [Node.js em Produção: Case Webcast](http://vizir.com.br/2013/12/node-js-em-producao-case-webcast/)
 * [How I Setup Angular + Node Projects](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
+* [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
 
 # <a id="angularjs">❤</a> Angular.JS
 
