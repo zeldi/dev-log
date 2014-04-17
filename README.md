@@ -268,6 +268,7 @@
 * [prefixer.vim](https://github.com/vim-scripts/prefixer.vim)
 * [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
 * [NERDTree](https://github.com/scrooloose/nerdtree)
+* [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 
 ## Sublime Text 3
 
