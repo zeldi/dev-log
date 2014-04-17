@@ -83,6 +83,7 @@
 * [Creating multiline strings in JavaScript](http://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript)
 * [switch MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 * [Most popular JavaScript keywords](http://ariya.ofilabs.com/2012/03/most-popular-javascript-keywords.html)
+* [Truthy and Falsy: When All is Not Equal in JavaScript](http://www.sitepoint.com/javascript-truthy-falsy/)
 
 # <a id="nodejs">❤</a> Node.JS
 
