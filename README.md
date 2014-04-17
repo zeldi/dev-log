@@ -82,6 +82,7 @@
 * [Why `isNaN` is broken.](https://gist.github.com/kitcambridge/1086528)
 * [Creating multiline strings in JavaScript](http://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript)
 * [switch MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+* [Most popular JavaScript keywords](http://ariya.ofilabs.com/2012/03/most-popular-javascript-keywords.html)
 
 # <a id="nodejs">❤</a> Node.JS
 
