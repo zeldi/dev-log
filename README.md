@@ -412,6 +412,7 @@
 * [Learn before going to sleep, remember better](http://www.2ality.com/2012/03/learning-and-sleep.html)
 * [A Pragmatic Quick Reference](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [You are not your code](http://jondavidjohn.com/you-are-not-your-code/)
+* [O programador brasileiro e as oportunidades no exterior](https://medium.com/p/a78266b2660)
 
 ## Unix Tips
 
