@@ -414,6 +414,10 @@
 * [15 Practical Linux cURL Command Examples](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [copy and move a file](http://cmgm.stanford.edu/classes/unix/cp.html)
 
+## PodCasts
+
+* [ZOFE #13: O Êxodo Frontendiano](http://zofe.com.br/posts/o-exodo-frontendiano/)
+
 ## Motivational
 
 * [How Bad Do You Want It](https://www.youtube.com/watch?v=uggp6syKMFI)
