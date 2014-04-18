@@ -84,6 +84,7 @@
 * [switch MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 * [Most popular JavaScript keywords](http://ariya.ofilabs.com/2012/03/most-popular-javascript-keywords.html)
 * [Truthy and Falsy: When All is Not Equal in JavaScript](http://www.sitepoint.com/javascript-truthy-falsy/)
+* [EchoJS](http://www.echojs.com/)
 
 # <a id="nodejs">❤</a> Node.JS
 
@@ -99,6 +100,8 @@
 * [Node.js em Produção: Case Webcast](http://vizir.com.br/2013/12/node-js-em-producao-case-webcast/)
 * [How I Setup Angular + Node Projects](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
 * [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+* [NodeJS is Human](http://jondavidjohn.com/nodejs-is-human/)
+* [NodeCloud](http://www.nodecloud.org/)
 
 # <a id="angularjs">❤</a> Angular.JS
 
@@ -408,6 +411,7 @@
 * [Four rules for living your life](http://www.2ality.com/2012/04/rules-for-life.html)
 * [Learn before going to sleep, remember better](http://www.2ality.com/2012/03/learning-and-sleep.html)
 * [A Pragmatic Quick Reference](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
+* [You are not your code](http://jondavidjohn.com/you-are-not-your-code/)
 
 ## Unix Tips
 
