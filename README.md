@@ -407,6 +407,7 @@
 * [DO MORE AND HAVE FUN WITH TIME MANAGEMENT](http://pomodorotechnique.com/)
 * [Four rules for living your life](http://www.2ality.com/2012/04/rules-for-life.html)
 * [Learn before going to sleep, remember better](http://www.2ality.com/2012/03/learning-and-sleep.html)
+* [A Pragmatic Quick Reference](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
 
 ## Unix Tips
 
