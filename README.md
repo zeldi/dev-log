@@ -416,6 +416,7 @@
 * [A Pragmatic Quick Reference](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [You are not your code](http://jondavidjohn.com/you-are-not-your-code/)
 * [O programador brasileiro e as oportunidades no exterior](https://medium.com/p/a78266b2660)
+* [Estas músicas te deixarão concentrado, dizem neurocientistas](http://exame.abril.com.br/tecnologia/noticias/estas-musicas-te-deixarao-concentrado-dizem-neurocientistas)
 
 ## Unix Tips
 
