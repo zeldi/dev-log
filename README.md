@@ -260,6 +260,7 @@
 * [Vim Sheets](https://gist.github.com/vitorbritto/9983723#file-vim-md)
 * [My Favorite Vim Plugins](http://el-tramo.be/blog/my-favorite-vim-plugins/)
 * [Converting tabs to spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
+* [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
 
 ### Vim Plugins
 
