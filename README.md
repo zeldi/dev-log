@@ -103,7 +103,7 @@
 * [NodeJS is Human](http://jondavidjohn.com/nodejs-is-human/)
 * [NodeCloud](http://www.nodecloud.org/)
 * [Learn Node](http://learnnode.com/)
-* [NodeJS Learning](https://github.com/ericdouglas/NodeJS-Learning)
+* [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
 # <a id="angularjs">❤</a> Angular.JS
 
