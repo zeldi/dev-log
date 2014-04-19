@@ -102,6 +102,8 @@
 * [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
 * [NodeJS is Human](http://jondavidjohn.com/nodejs-is-human/)
 * [NodeCloud](http://www.nodecloud.org/)
+* [Learn Node](http://learnnode.com/)
+* [NodeJS Learning](https://github.com/ericdouglas/NodeJS-Learning)
 
 # <a id="angularjs">❤</a> Angular.JS
 
