@@ -318,6 +318,7 @@
 * [GitBook](http://www.gitbook.io/)
 * [JSON Editor Online](http://www.jsoneditoronline.org/)
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
+* [8 ferramentas grátis para medir a velocidade do seu site](http://verticis.com.br/blog/tutoriais/8-ferramentas-gratis-para-medir-a-velocidade-do-seu-site/)
 
 # <a id="shellscript">❤</a> Shell Script
 
