@@ -105,6 +105,7 @@
 * [NodeCloud](http://www.nodecloud.org/)
 * [Learn Node](http://learnnode.com/)
 * [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
+* [What is NodeJS](http://thejackalofjavascript.com/nodejs/)
 
 # <a id="angularjs">❤</a> Angular.JS
 
