@@ -85,6 +85,7 @@
 * [Most popular JavaScript keywords](http://ariya.ofilabs.com/2012/03/most-popular-javascript-keywords.html)
 * [Truthy and Falsy: When All is Not Equal in JavaScript](http://www.sitepoint.com/javascript-truthy-falsy/)
 * [EchoJS](http://www.echojs.com/)
+* [Array.prototype.concat()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 
 # <a id="nodejs">❤</a> Node.JS
 
