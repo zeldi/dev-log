@@ -87,6 +87,10 @@
 * [EchoJS](http://www.echojs.com/)
 * [Array.prototype.concat()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 
+## ECMAScript 6
+
+* [Intro to ES6 and traceur.js](https://egghead.io/lessons/intro-to-es6-and-traceur-js)
+
 # <a id="nodejs">❤</a> Node.JS
 
 * [Absolute Beginners Guide to Node.JS](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
