@@ -429,6 +429,7 @@
 * [You are not your code](http://jondavidjohn.com/you-are-not-your-code/)
 * [O programador brasileiro e as oportunidades no exterior](https://medium.com/p/a78266b2660)
 * [Estas músicas te deixarão concentrado, dizem neurocientistas](http://exame.abril.com.br/tecnologia/noticias/estas-musicas-te-deixarao-concentrado-dizem-neurocientistas)
+* [A origem da Escola Pública](https://www.youtube.com/watch?v=Z1afuFwvKQ0)
 
 ## Unix Tips
 
