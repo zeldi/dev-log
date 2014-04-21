@@ -169,6 +169,10 @@
 * [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
 * [Form `novalidate` attribute](https://developer.mozilla.org/pt-BR/docs/HTML/Element/form)
 
+## SEO
+
+* [Checklist SEO](http://www.agenciamestre.com/checklist-seo/)
+
 # <a id="css">❤</a> CSS
 
 * [font property - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
