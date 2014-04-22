@@ -111,6 +111,7 @@
 * [Learn Node](http://learnnode.com/)
 * [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 * [What is NodeJS](http://thejackalofjavascript.com/nodejs/)
+* [Callbacks or Promises?](http://www.linkedin.com/groups/Callbacks-or-Promises-3769732.S.5864256686264434690?view=&item=5864256686264434690&type=member&gid=3769732&trk=eml-b2_anet_digest-null-5-null&fromEmail=fromEmail&ut=0bI4Bf6ySJB6c1)
 
 # <a id="angularjs">❤</a> Angular.JS
 
