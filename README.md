@@ -396,10 +396,12 @@
 * [O que um bom desenvolvedor Front-End precisa saber?](http://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber/#.Ux-LCnVdVRQ)
 * [Faculdade de Informática. Fazer ou não fazer?](http://leandrooriente.com/faculdade-de-informatica-fazer-ou-nao-fazer/)
 * [What makes a hero?](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
+
 * **Coding Style**
  * [Felipe Fialho - Coding Style](http://www.felipefialho.com/coding-style/)
  * [Front-End Style Guide](http://pedronauck.com/frontend-styleguide/)
- * [Ghost – A simples e perfeita plataforma para publicações](http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/)
+
+* [Ghost – A simples e perfeita plataforma para publicações](http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/)
  * [Starting An Open-Source Project](http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/)
  * [Creating Project Pages manually - Github](https://help.github.com/articles/creating-project-pages-manually)
  * [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
