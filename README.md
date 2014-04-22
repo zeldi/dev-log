@@ -315,6 +315,11 @@
 * [Install Monaco Font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 * [Como gravar áudio a partir do microfone no Ubuntu](http://www.edivaldobrito.com.br/como-gravar-sua-voz-a-partir-do-microfone-no-ubuntu/)
 
+## English
+
+* [WordReference](http://www.wordreference.com/)
+* [Free Translation](http://www.freetranslation.com/)
+
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
