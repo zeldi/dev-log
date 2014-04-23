@@ -440,6 +440,7 @@
 * [Estas músicas te deixarão concentrado, dizem neurocientistas](http://exame.abril.com.br/tecnologia/noticias/estas-musicas-te-deixarao-concentrado-dizem-neurocientistas)
 * [A origem da Escola Pública](https://www.youtube.com/watch?v=Z1afuFwvKQ0)
 * [Como a Idade faz nosso cérebro florecer](http://revistaepoca.globo.com/Revista/Epoca/0,,EMI245598-15257,00-COMO+A+IDADE+FAZ+NOSSO+CEREBRO+FLORESCER.html)
+* [Os problemas de design do novo padrão de navegação da Globo.com](https://medium.com/p/d05718daaeb1)
 
 ## Learn English
 
