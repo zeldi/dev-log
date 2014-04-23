@@ -275,6 +275,7 @@
 * [My Favorite Vim Plugins](http://el-tramo.be/blog/my-favorite-vim-plugins/)
 * [Converting tabs to spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 * [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
+* [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
 
 ### Vim Plugins
 
