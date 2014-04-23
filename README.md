@@ -317,11 +317,6 @@
 * [Install Monaco Font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 * [Como gravar áudio a partir do microfone no Ubuntu](http://www.edivaldobrito.com.br/como-gravar-sua-voz-a-partir-do-microfone-no-ubuntu/)
 
-## English
-
-* [WordReference](http://www.wordreference.com/)
-* [Free Translation](http://www.freetranslation.com/)
-
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
@@ -338,6 +333,7 @@
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
 * [8 ferramentas grátis para medir a velocidade do seu site](http://verticis.com.br/blog/tutoriais/8-ferramentas-gratis-para-medir-a-velocidade-do-seu-site/)
 * [myJSON](http://myjson.com/)
+* [Mocky - Mock your HTTP responses to test your REST API](http://www.mocky.io/)
 
 # <a id="shellscript">❤</a> Shell Script
 
@@ -442,6 +438,11 @@
 * [Estas músicas te deixarão concentrado, dizem neurocientistas](http://exame.abril.com.br/tecnologia/noticias/estas-musicas-te-deixarao-concentrado-dizem-neurocientistas)
 * [A origem da Escola Pública](https://www.youtube.com/watch?v=Z1afuFwvKQ0)
 * [Como a Idade faz nosso cérebro florecer](http://revistaepoca.globo.com/Revista/Epoca/0,,EMI245598-15257,00-COMO+A+IDADE+FAZ+NOSSO+CEREBRO+FLORESCER.html)
+
+## Learn English
+
+* [WordReference](http://www.wordreference.com/)
+* [Free Translation](http://www.freetranslation.com/)
 * [Tradução: Por que você não deve codificar em Português](http://www.akitaonrails.com/2008/7/31/tradu-o-por-que-voc-n-o-deve-codificar-em-portugu-s#.U1bweuZdX5Ytr)
 * [Off Topic: Seja Arrogante!](http://www.akitaonrails.com/2007/4/14/off-topic-seja-arrogante#.U1b3j3Wx0Tc)
 
