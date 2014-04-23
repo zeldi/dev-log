@@ -88,6 +88,7 @@
 * [Array.prototype.concat()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 * [V8 Resources](http://mrale.ph/v8/resources.html#practical--optimization)
 * [Functional JavaScript, Part 1: Introduction](http://tech.pro/tutorial/1953/functional-javascript-part-1-introduction)
+* [Functional JavaScript, Part 2: What makes a language "functional"?](http://tech.pro/tutorial/2009/functional-javascript-part-2-what-makes-a-language-functional)
 
 ## ECMAScript 6
 
