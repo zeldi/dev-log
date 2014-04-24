@@ -444,6 +444,7 @@
 * [A origem da Escola Pública](https://www.youtube.com/watch?v=Z1afuFwvKQ0)
 * [Como a Idade faz nosso cérebro florecer](http://revistaepoca.globo.com/Revista/Epoca/0,,EMI245598-15257,00-COMO+A+IDADE+FAZ+NOSSO+CEREBRO+FLORESCER.html)
 * [Os problemas de design do novo padrão de navegação da Globo.com](https://medium.com/p/d05718daaeb1)
+* [Disqus - Uma thread para mais de uma URL](http://blog.da2k.com.br/2014/03/22/disqus-uma-thread-para-mais-de-uma-url/) - [Solução para Hexo](https://gist.github.com/ericdouglas/11257385)
 
 ## Learn English
 
