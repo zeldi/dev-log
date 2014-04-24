@@ -117,6 +117,7 @@
 * [Callbacks or Promises?](http://www.linkedin.com/groups/Callbacks-or-Promises-3769732.S.5864256686264434690?view=&item=5864256686264434690&type=member&gid=3769732&trk=eml-b2_anet_digest-null-5-null&fromEmail=fromEmail&ut=0bI4Bf6ySJB6c1)
 * [Enter the World of Node.js](http://www.sitepoint.com/enter-world-node-js/) - [SitePoint](http://www.sitepoint.com/javascript/nodejs-javascript/)
 * [Creating a HTTP Server in Node.js](http://www.sitepoint.com/creating-a-http-server-in-node-js/)
+* [MountainWest JavaScript 2014 - Error Handling in Node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA)
 
 # <a id="angularjs">❤</a> Angular.JS
 
