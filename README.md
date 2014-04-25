@@ -452,6 +452,7 @@
 * [protocol](http://searchnetworking.techtarget.com/definition/protocol)
 * [OSI (Open Systems Interconnection)](http://searchnetworking.techtarget.com/definition/OSI)
 * [Transmission Control Protocol/Internet Protocol (TCP/IP)](http://www.techopedia.com/definition/2460/transmission-control-protocolinternet-protocol-tcpip)
+* [Weeklys - Upgrade your brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)
 
 ## Learn English
 
