@@ -456,6 +456,7 @@
 * [Weeklys - Upgrade your brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)
 * [Mostre, em vez de contar](http://www.pinceladasdaweb.com.br/blog/2014/02/18/mostre-em-vez-de-contar/)
 * [Why Google doesn’t care about college degrees, in 5 quotes](http://venturebeat.com/2014/04/25/why-google-doesnt-care-about-college-degrees-in-5-quotes/)
+* [Pense offline!](http://blog.memoryleak.com.br/2014/04/22/pense-offline/)
 
 ## Learn English
 
