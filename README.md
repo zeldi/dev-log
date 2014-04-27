@@ -94,6 +94,7 @@
 ## ECMAScript 6
 
 * [Intro to ES6 and traceur.js](https://egghead.io/lessons/intro-to-es6-and-traceur-js)
+* [ES6 RIGHT NOW](http://johnkpaul.github.io/presentations/jsconf-br/es6-now/#/)
 
 # <a id="nodejs">❤</a> Node.JS
 
