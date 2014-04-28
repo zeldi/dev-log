@@ -219,6 +219,7 @@
 * [Unsplash - free fotos](http://unsplash.com/)
 * [Picjumbo - free fotos](http://picjumbo.com/)
 * [Backgrounds](http://graphicburger.com/backgrounds/)
+* [Resources - 190+ sites, apps & books that I recommend any designer should check out](https://medium.com/design-ux/799d16952a56)
 
 ## Responsive Web Design (RWD)
 
