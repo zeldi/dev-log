@@ -346,6 +346,7 @@
 * [myJSON](http://myjson.com/)
 * [Mocky - Mock your HTTP responses to test your REST API](http://www.mocky.io/)
 * [Icon Archive](http://www.iconarchive.com/)
+* [jpeg mini](http://www.jpegmini.com/)
 
 # <a id="shellscript">❤</a> Shell Script
 
