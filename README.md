@@ -347,6 +347,8 @@
 * [Mocky - Mock your HTTP responses to test your REST API](http://www.mocky.io/)
 * [Icon Archive](http://www.iconarchive.com/)
 * [jpeg mini](http://www.jpegmini.com/)
+* [Image Convert](http://image.online-convert.com/)
+* [Audio Convert](http://audio.online-convert.com/)
 
 # <a id="shellscript">❤</a> Shell Script
 
