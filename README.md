@@ -91,6 +91,7 @@
 * [Functional JavaScript, Part 2: What makes a language "functional"?](http://tech.pro/tutorial/2009/functional-javascript-part-2-what-makes-a-language-functional)
 * [USING DOWNLOAD ATTRIBUTE ON LINKS TO SAVE CANVAS AS PNG](http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/)
 * [The number one reason to build a javascript application: fast feedback](http://toranbillups.com/blog/archive/2014/04/27/The-number-one-reason-to-build-a-javascript-application-fast-feedback/)
+* [Master's Tips](https://www.youtube.com/watch?v=wxDBF3OOaRA)
 
 ## ECMAScript 6
 
