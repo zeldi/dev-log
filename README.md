@@ -329,6 +329,7 @@
 * [O que fazer após instalar o ElementaryOS Luna? - outro link](http://sejalivre.org/o-que-fazer-apos-instalar-o-elementaryos-luna/)
 * [Install Monaco Font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 * [Como gravar áudio a partir do microfone no Ubuntu](http://www.edivaldobrito.com.br/como-gravar-sua-voz-a-partir-do-microfone-no-ubuntu/)
+* [7 editores de vídeo para Linux](http://br.wwwhatsnew.com/2008/12/7-editores-de-video-para-linux/)
 
 ## Others
 * [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
