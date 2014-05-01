@@ -145,6 +145,7 @@
 * [13 Steps to AngularJS Modularization](http://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/?utm_source=javascriptweekly&utm_medium=email)
 * [Opiniões de usuários do AngularJS](https://gist.github.com/ericdouglas/9923327)
 * [Protractor for AngularJS](http://ramonvictor.github.io/protractor/slides/#/)
+* [Embular Part 1 - Comparing Ember and Angular](http://www.benlesh.com/2014/04/embular-part-1-comparing-ember-and.html?spref=tw)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
