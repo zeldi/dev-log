@@ -32,6 +32,8 @@
 
 * **[Miscellaneous](#-miscellaneous)**
 
+* **[Meteor](#-meteor)**
+
 
 # <a id="javascript">❤</a> JavaScript
 
@@ -498,3 +500,8 @@
 * [Why Do We Fall](https://www.youtube.com/watch?v=akDMSM1c18M)
 * [6 Secrets to Success](https://www.youtube.com/watch?v=PbyTvcYHXAY)
 * [Protect your Dream](https://www.youtube.com/watch?v=xLjvHyIKZbc)
+
+## Meteor
+
+* [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
+* [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
