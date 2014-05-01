@@ -32,7 +32,7 @@
 
 * **[Miscellaneous](#-miscellaneous)**
 
-* **[Meteor](#-meteor)**
+* **[Meteor](#meteor)**
 
 
 # <a id="javascript">❤</a> JavaScript
