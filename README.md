@@ -467,6 +467,8 @@
 * [Why Google doesn’t care about college degrees, in 5 quotes](http://venturebeat.com/2014/04/25/why-google-doesnt-care-about-college-degrees-in-5-quotes/)
 * [Pense offline!](http://blog.memoryleak.com.br/2014/04/22/pense-offline/)
 * [How to Be a Writer](https://medium.com/human-parts/dfdcf0c7b961)
+* [API Sex](https://www.youtube.com/watch?v=ja0-8cHf160)
+* [Interagindo com a web além do teclado e mouse](https://www.youtube.com/watch?v=81CBrplufO0)
 
 ## Learn English
 
