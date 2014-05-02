@@ -476,6 +476,7 @@
 * [Carreira em Programação - Codificar não é Programar](http://www.akitaonrails.com/2014/05/02/off-topic-carreira-em-programacao-codificar-nao-e-programar#.U2P2q3Wx0Tc)
 * [Devo fazer faculdade?](http://www.akitaonrails.com/2009/04/17/off-topic-devo-fazer-faculdade#.U2P5vnWx0Tc)
 * [Steve Jobs é burro (será?)](http://www.michelazzo.com.br/textos/steve-jobs-e-burro-sera)
+* [METEOR #4: BEST RESSOURCES TO BECOME A MASTER.](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
 
 ## Learn English
 
