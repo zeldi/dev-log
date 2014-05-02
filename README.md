@@ -473,6 +473,7 @@
 * [How to Be a Writer](https://medium.com/human-parts/dfdcf0c7b961)
 * [API Sex](https://www.youtube.com/watch?v=ja0-8cHf160)
 * [Interagindo com a web além do teclado e mouse](https://www.youtube.com/watch?v=81CBrplufO0)
+* [Carreira em Programação - Codificar não é Programar](http://www.akitaonrails.com/2014/05/02/off-topic-carreira-em-programacao-codificar-nao-e-programar#.U2P2q3Wx0Tc)
 
 ## Learn English
 
