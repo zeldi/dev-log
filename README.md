@@ -474,6 +474,8 @@
 * [API Sex](https://www.youtube.com/watch?v=ja0-8cHf160)
 * [Interagindo com a web além do teclado e mouse](https://www.youtube.com/watch?v=81CBrplufO0)
 * [Carreira em Programação - Codificar não é Programar](http://www.akitaonrails.com/2014/05/02/off-topic-carreira-em-programacao-codificar-nao-e-programar#.U2P2q3Wx0Tc)
+* [Devo fazer faculdade?](http://www.akitaonrails.com/2009/04/17/off-topic-devo-fazer-faculdade#.U2P5vnWx0Tc)
+* [Steve Jobs é burro (será?)](http://www.michelazzo.com.br/textos/steve-jobs-e-burro-sera)
 
 ## Learn English
 
