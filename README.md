@@ -94,6 +94,7 @@
 * [USING DOWNLOAD ATTRIBUTE ON LINKS TO SAVE CANVAS AS PNG](http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/)
 * [The number one reason to build a javascript application: fast feedback](http://toranbillups.com/blog/archive/2014/04/27/The-number-one-reason-to-build-a-javascript-application-fast-feedback/)
 * [Master's Tips](https://www.youtube.com/watch?v=wxDBF3OOaRA)
+* [O fantástico mundo do JavaScript](https://www.youtube.com/watch?v=Zn7B-X0y5qs)
 
 ## ECMAScript 6
 
@@ -214,6 +215,7 @@
 * [Centralizando elementos automaticamente na vertical e (ou) horizontal](http://codepen.io/LFeh/pen/LFHBG/)
 * [Responsive Modal Window Forms](http://www.pencilscoop.com/2014/03/responsive-modal-window-forms/)
 * [CSS2 table of properties](http://www.w3.org/TR/CSS21/propidx.html)
+* [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
 
 # <a id="webdesign">❤</a> Web Design
 
