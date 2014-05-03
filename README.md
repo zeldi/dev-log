@@ -478,6 +478,9 @@
 * [Devo fazer faculdade?](http://www.akitaonrails.com/2009/04/17/off-topic-devo-fazer-faculdade#.U2P5vnWx0Tc)
 * [Steve Jobs é burro (será?)](http://www.michelazzo.com.br/textos/steve-jobs-e-burro-sera)
 * [METEOR #4: BEST RESSOURCES TO BECOME A MASTER.](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
+* [Programação imperativa](http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa)
+* [Sub-rotina](http://pt.wikipedia.org/wiki/Sub-rotina)
+* [Programação modular](http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_modular)
 
 ## Learn English
 
