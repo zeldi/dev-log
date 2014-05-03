@@ -481,6 +481,7 @@
 * [Programação imperativa](http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa)
 * [Sub-rotina](http://pt.wikipedia.org/wiki/Sub-rotina)
 * [Programação modular](http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_modular)
+* [Programação Modular (Subprogramas)](http://www.efreire.uac.pt/IP/7ProgramacaoModular.pdf)
 
 ## Learn English
 
