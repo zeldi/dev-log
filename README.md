@@ -34,6 +34,8 @@
 
 * **[Meteor](#meteor)**
 
+* **[Python](#python)**
+
 
 # <a id="javascript">❤</a> JavaScript
 
@@ -517,3 +519,7 @@
 * [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 * [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
 * [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
+
+# Python
+
+* [python 3.3.0 syntax error](http://stackoverflow.com/questions/12713648/python-3-3-0-syntax-error)
