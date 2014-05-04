@@ -521,6 +521,7 @@
 * [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
 * [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d)
 * [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
+* [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
 
 # Python
 
