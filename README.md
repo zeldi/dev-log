@@ -519,6 +519,7 @@
 * [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 * [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
 * [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
+* [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d)
 
 # Python
 
