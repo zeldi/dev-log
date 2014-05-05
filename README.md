@@ -97,6 +97,7 @@
 * [The number one reason to build a javascript application: fast feedback](http://toranbillups.com/blog/archive/2014/04/27/The-number-one-reason-to-build-a-javascript-application-fast-feedback/)
 * [Master's Tips](https://www.youtube.com/watch?v=wxDBF3OOaRA)
 * [O fantástico mundo do JavaScript](https://www.youtube.com/watch?v=Zn7B-X0y5qs)
+* [Isomorphic Javascript](https://www.youtube.com/watch?v=cwu69kEb_gs)
 
 ## ECMAScript 6
 
@@ -522,6 +523,7 @@
 * [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d)
 * [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
 * [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
+* [Hands-on_ criando uma aplicação real-time com Meteor](https://www.youtube.com/watch?v=3_NoIPF_28k)
 
 # Python
 
