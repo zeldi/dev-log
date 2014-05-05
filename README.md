@@ -98,6 +98,7 @@
 * [Master's Tips](https://www.youtube.com/watch?v=wxDBF3OOaRA)
 * [O fantástico mundo do JavaScript](https://www.youtube.com/watch?v=Zn7B-X0y5qs)
 * [Isomorphic Javascript](https://www.youtube.com/watch?v=cwu69kEb_gs)
+* [Javascript: rompendo e criando novos paradigmas](https://www.youtube.com/watch?v=iuGcH_IiM34)
 
 ## ECMAScript 6
 
@@ -485,6 +486,7 @@
 * [Sub-rotina](http://pt.wikipedia.org/wiki/Sub-rotina)
 * [Programação modular](http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_modular)
 * [Programação Modular (Subprogramas)](http://www.efreire.uac.pt/IP/7ProgramacaoModular.pdf)
+* [Yeoman - Turbinando seu Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=YFtPdJUvUwc)
 
 ## Learn English
 
