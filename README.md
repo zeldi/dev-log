@@ -493,6 +493,7 @@
 * [When not to "Fork" on Github](http://blog.thanish.me/when-not-to-fork-on-github/)
 * [Um futuro chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 * [WEB DEVELOPMENT - SECRETS TO STARTING A CAREER in the Web Development Industry](https://www.youtube.com/watch?v=JilfXmI2IjQ)
+* [Why I went from Python to Go (and not node.js)](http://jordanorelli.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js)
 
 ## Learn English
 
