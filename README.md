@@ -490,6 +490,7 @@
 * [Programação Modular (Subprogramas)](http://www.efreire.uac.pt/IP/7ProgramacaoModular.pdf)
 * [Yeoman - Turbinando seu Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=YFtPdJUvUwc)
 * [When not to "Fork" on Github](http://blog.thanish.me/when-not-to-fork-on-github/)
+* [Um futuro chamado Web Components](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 
 ## Learn English
 
