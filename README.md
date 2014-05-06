@@ -32,7 +32,7 @@
 
 * **[Miscellaneous](#-miscellaneous)**
 
-* **[Meteor](#meteor)**
+* **[Meteor](#-meteor)**
 
 * **[Python](#python)**
 
@@ -153,6 +153,7 @@
 * [Opiniões de usuários do AngularJS](https://gist.github.com/ericdouglas/9923327)
 * [Protractor for AngularJS](http://ramonvictor.github.io/protractor/slides/#/)
 * [Embular Part 1 - Comparing Ember and Angular](http://www.benlesh.com/2014/04/embular-part-1-comparing-ember-and.html?spref=tw)
+* [Realtime com Angular JS and Socket IO](https://www.youtube.com/watch?v=5zcmBZ6mksM)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
@@ -522,7 +523,7 @@
 * [6 Secrets to Success](https://www.youtube.com/watch?v=PbyTvcYHXAY)
 * [Protect your Dream](https://www.youtube.com/watch?v=xLjvHyIKZbc)
 
-## Meteor
+# <a id="meteor">❤</a> Meteor
 
 * [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 * [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
