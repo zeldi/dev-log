@@ -361,6 +361,7 @@
 * [jpeg mini](http://www.jpegmini.com/)
 * [Image Convert](http://image.online-convert.com/)
 * [Audio Convert](http://audio.online-convert.com/)
+* [Devcasts](http://www.devcasts.io/)
 
 # <a id="shellscript">❤</a> Shell Script
 
