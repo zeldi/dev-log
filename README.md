@@ -298,6 +298,7 @@
 * [Converting tabs to spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 * [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
 * [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
+* [Isso não é intuitivo](http://blog.lambda3.com.br/2013/09/isso-nao-e-intuitivo/)
 
 ### Vim Plugins
 
