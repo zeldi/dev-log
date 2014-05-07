@@ -538,6 +538,8 @@
 * [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
 * [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
 * [Hands-on_ criando uma aplicação real-time com Meteor](https://www.youtube.com/watch?v=3_NoIPF_28k)
+* [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
+* [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 
 # Python
 
