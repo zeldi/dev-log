@@ -101,6 +101,7 @@
 * [Javascript: rompendo e criando novos paradigmas](https://www.youtube.com/watch?v=iuGcH_IiM34)
 * [`.split()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 * [`.match()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
+* [Learn RegExp](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
 
 ## ECMAScript 6
 
