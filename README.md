@@ -544,6 +544,7 @@
 * [Hands-on_ criando uma aplicação real-time com Meteor](https://www.youtube.com/watch?v=3_NoIPF_28k)
 * [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 * [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
+* [Crater.io - MeteorJS News](http://crater.io/)
 
 # Python
 
