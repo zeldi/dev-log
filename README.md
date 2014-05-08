@@ -100,6 +100,7 @@
 * [Isomorphic Javascript](https://www.youtube.com/watch?v=cwu69kEb_gs)
 * [Javascript: rompendo e criando novos paradigmas](https://www.youtube.com/watch?v=iuGcH_IiM34)
 * [`.split()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+* [`.match()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
 
 ## ECMAScript 6
 
