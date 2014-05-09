@@ -549,6 +549,7 @@
 * [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 * [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 * [Crater.io - MeteorJS News](http://crater.io/)
+* [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
 
 # Python
 
