@@ -133,6 +133,7 @@
 * [Creating a HTTP Server in Node.js](http://www.sitepoint.com/creating-a-http-server-in-node-js/)
 * [MountainWest JavaScript 2014 - Error Handling in Node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA)
 * [Installing NodeJS manually](http://stackoverflow.com/questions/17474687/npm-install-giving-error-installing-express/17475923#17475923)
+* [process.stdout](http://nodejs.org/api/process.html#process_process_stdout)
 
 # <a id="angularjs">❤</a> Angular.JS
 
