@@ -134,6 +134,7 @@
 * [MountainWest JavaScript 2014 - Error Handling in Node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA)
 * [Installing NodeJS manually](http://stackoverflow.com/questions/17474687/npm-install-giving-error-installing-express/17475923#17475923)
 * [process.stdout](http://nodejs.org/api/process.html#process_process_stdout)
+* [How To Read User Input With NodeJS](http://st-on-it.blogspot.com.br/2011/05/how-to-read-user-input-with-nodejs.html)
 
 # <a id="angularjs">❤</a> Angular.JS
 
