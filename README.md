@@ -503,6 +503,7 @@
 * [Why I went from Python to Go (and not node.js)](http://jordanorelli.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js)
 * [Hackertyper](http://hackertyper.com/)
 * [Se dinheiro não existisse?](https://www.youtube.com/watch?v=qmaq15qL7Q8)
+* [Mastery - And its great paradox](https://medium.com/writing-mad/f4c60298e654)
 
 ## Learn English
 
