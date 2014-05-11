@@ -552,6 +552,7 @@
 * [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 * [Crater.io - MeteorJS News](http://crater.io/)
 * [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
+* [Meteor-Studies](https://github.com/ericdouglas/Meteor-Studies)
 
 # Python
 
