@@ -196,6 +196,7 @@
 * [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
 * [Form `novalidate` attribute](https://developer.mozilla.org/pt-BR/docs/HTML/Element/form)
 * [`<audio>`](https://developer.mozilla.org/pt-BR/docs/HTML/Element/Audio)
+* [html5up](http://html5up.net/)
 
 ## SEO
 
