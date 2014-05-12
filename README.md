@@ -137,6 +137,7 @@
 * [process.stdout](http://nodejs.org/api/process.html#process_process_stdout)
 * [How To Read User Input With NodeJS](http://st-on-it.blogspot.com.br/2011/05/how-to-read-user-input-with-nodejs.html)
 * [Utilizando node.js para automação de build e deploy](https://www.youtube.com/watch?v=9iy5m8mGlS0)
+* [Processamento de linguagem natural](https://www.youtube.com/watch?v=BoUz4xoqRbY)
 
 # <a id="angularjs">❤</a> Angular.JS
 
