@@ -507,6 +507,11 @@
 * [Hackertyper](http://hackertyper.com/)
 * [Se dinheiro não existisse?](https://www.youtube.com/watch?v=qmaq15qL7Q8)
 * [Mastery - And its great paradox](https://medium.com/writing-mad/f4c60298e654)
+* [Estrutura de controle](http://pt.wikipedia.org/wiki/Estrutura_de_controle)
+* [Estrutura de repetição](http://pt.wikipedia.org/wiki/Estrutura_de_repeti%C3%A7%C3%A3o)
+* [Estrutura de seleção](http://pt.wikipedia.org/wiki/Estrutura_de_sele%C3%A7%C3%A3o)
+* [Estrutura seqüencial](http://pt.wikipedia.org/wiki/Estrutura_seq%C3%BCencial)
+* [Contador de programa](http://pt.wikipedia.org/wiki/Contador_de_programa)
 
 ## Learn English
 
