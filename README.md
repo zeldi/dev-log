@@ -103,6 +103,7 @@
 * [`.match()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
 * [Learn RegExp](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
 * [Organizando o JavaScript](https://www.youtube.com/watch?v=x9vDemjWmZQ)
+* [JavaScript Modular](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 
 ## ECMAScript 6
 
@@ -198,6 +199,7 @@
 * [Form `novalidate` attribute](https://developer.mozilla.org/pt-BR/docs/HTML/Element/form)
 * [`<audio>`](https://developer.mozilla.org/pt-BR/docs/HTML/Element/Audio)
 * [html5up](http://html5up.net/)
+* [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
 
 ## SEO
 
