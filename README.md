@@ -376,6 +376,7 @@
 * [Image Convert](http://image.online-convert.com/)
 * [Audio Convert](http://audio.online-convert.com/)
 * [Devcasts](http://www.devcasts.io/)
+* [snipplr](http://snipplr.com/)
 
 # <a id="shellscript">❤</a> Shell Script
 
