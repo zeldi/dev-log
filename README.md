@@ -344,6 +344,7 @@
   * [ignoring files](http://gitready.com/beginner/2009/01/19/ignoring-files.html), [node](http://www.gitignore.io/api/node), [sublime text](http://www.gitignore.io/api/sublimetext), [vim](http://www.gitignore.io/api/vim), [organize-js](https://github.com/diogomoretti/organize-js/blob/gh-pages/.gitignore)
   * [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
   * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+  * [How to remove/rename folder](http://stackoverflow.com/questions/1094269/whats-the-purpose-of-git-mv)
 
 ## elementaryOS
 
