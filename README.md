@@ -516,6 +516,7 @@
 * [Estrutura de seleção](http://pt.wikipedia.org/wiki/Estrutura_de_sele%C3%A7%C3%A3o)
 * [Estrutura seqüencial](http://pt.wikipedia.org/wiki/Estrutura_seq%C3%BCencial)
 * [Contador de programa](http://pt.wikipedia.org/wiki/Contador_de_programa)
+* [Produtividade: 7 passos para manter o foco](https://www.youtube.com/watch?v=Evf8oYZ86vo)
 
 ## Learn English
 
