@@ -200,6 +200,7 @@
 * [`<audio>`](https://developer.mozilla.org/pt-BR/docs/HTML/Element/Audio)
 * [html5up](http://html5up.net/)
 * [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
+* [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg)
 
 ## SEO
 
