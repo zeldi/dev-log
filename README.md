@@ -1,4 +1,4 @@
-![developer log](http://i.imgur.com/1gRYIem.png)
+![developer log](http://i.imgur.com/FLO5Sar.png)
 
 **The log of a developer's studies.**
 
