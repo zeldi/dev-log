@@ -524,6 +524,9 @@
 * [FrontinSampa - Tema Surpresa - Bernard de Luna e Zeno Rocha](https://www.youtube.com/watch?v=SOgriWRiefs)
 * [Qual é a melhor forma de aprender? Talvez os jovens estejam nos ensinando há algum tempo](http://www.eprofessor.com.br/index.php?option=com_content&view=article&id=45%3Aatualizacao2&catid=21%3Aatualizacao&Itemid=25&lang=br)
 * [A melhor forma de aprender](https://www.cerebromelhor.com.br/blog/template_permalink.asp?id=133)
+* [Esqueça o que você sabe sobre bons hábitos de estudo](http://www.cerebromelhor.com.br/blog/template_permalink.asp?id=113)
+* [Forget What You Know About Good Study Habits](http://www.nytimes.com/2010/09/07/health/views/07mind.html?pagewanted=2&_r=0)
+* [Exercising the Mind to Treat Attention Deficits](http://well.blogs.nytimes.com/2014/05/12/exercising-the-mind-to-treat-attention-deficits/?src=me)
 
 ## Learn English
 
