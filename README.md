@@ -534,6 +534,10 @@
 * [Maioria dos métodos de estudar para provas não funciona, diz estudo](http://www.bbc.co.uk/portuguese/noticias/2013/05/130520_estudo_tecnicas_pesquisa_rw.shtml)
 * [Hábitos Eficazes para um Estudo Eficaz](http://www.studygs.net/portuges/attmot4.htm)
 * [Já pensou em acelerar seu aprendizado? Conheça os métodos de estudo mais eficazes](http://www.fundaplub.org.br/site/noticia/ja-pensou-em-acelerar-seu-aprendizado-conheca-os-metodos-de-estudo-mais-eficazes/)
+* [5 Ways You can Learn Programming Faster](http://www.cprogramming.com/how_to_learn_to_program.html)
+* [What is the Best Way to Learn Programming?](http://www.codeconquest.com/best-way-to-learn-programming/)
+* [Ideas for Coding Projects](http://www.codeconquest.com/programming-projects/ideas-for-programming-projects/)
+* [How to Plan a Coding Project](http://www.codeconquest.com/programming-projects/how-to-plan-a-programming-project/)
 
 ## Learn English
 
