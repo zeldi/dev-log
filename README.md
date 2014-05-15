@@ -519,6 +519,7 @@
 * [Contador de programa](http://pt.wikipedia.org/wiki/Contador_de_programa)
 * [Produtividade: 7 passos para manter o foco](https://www.youtube.com/watch?v=Evf8oYZ86vo)
 * [Manifesto for Agile Software Development](http://agilemanifesto.org/iso/en/)
+* [FrontinSampa - Tema Surpresa - Bernard de Luna e Zeno Rocha](https://www.youtube.com/watch?v=SOgriWRiefs)
 
 ## Learn English
 
