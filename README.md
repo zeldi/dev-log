@@ -36,7 +36,7 @@
 
 * **[Python](#python)**
 
-* **[Web Components](#web-components) 
+* **[Web Components](#web-components)**
 
 
 # <a id="javascript">❤</a> JavaScript
