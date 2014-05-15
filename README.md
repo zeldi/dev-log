@@ -520,6 +520,7 @@
 * [Produtividade: 7 passos para manter o foco](https://www.youtube.com/watch?v=Evf8oYZ86vo)
 * [Manifesto for Agile Software Development](http://agilemanifesto.org/iso/en/)
 * [FrontinSampa - Tema Surpresa - Bernard de Luna e Zeno Rocha](https://www.youtube.com/watch?v=SOgriWRiefs)
+* [Qual é a melhor forma de aprender? Talvez os jovens estejam nos ensinando há algum tempo](http://www.eprofessor.com.br/index.php?option=com_content&view=article&id=45%3Aatualizacao2&catid=21%3Aatualizacao&Itemid=25&lang=br)
 
 ## Learn English
 
