@@ -538,6 +538,9 @@
 * [What is the Best Way to Learn Programming?](http://www.codeconquest.com/best-way-to-learn-programming/)
 * [Ideas for Coding Projects](http://www.codeconquest.com/programming-projects/ideas-for-programming-projects/)
 * [How to Plan a Coding Project](http://www.codeconquest.com/programming-projects/how-to-plan-a-programming-project/)
+* [How to Learn a Programming Language](http://www.wikihow.com/Learn-a-Programming-Language)
+* [What's the best way to learn code if you are just starting out?](http://programmers.stackexchange.com/questions/116219/whats-the-best-way-to-learn-code-if-you-are-just-starting-out)
+* [What are the best ways for a complete beginner to learn programming?](http://www.quora.com/Learning-to-Program/What-are-the-best-ways-for-a-complete-beginner-to-learn-programming)
 
 ## Learn English
 
