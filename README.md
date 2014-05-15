@@ -527,6 +527,10 @@
 * [Esqueça o que você sabe sobre bons hábitos de estudo](http://www.cerebromelhor.com.br/blog/template_permalink.asp?id=113)
 * [Forget What You Know About Good Study Habits](http://www.nytimes.com/2010/09/07/health/views/07mind.html?pagewanted=2&_r=0)
 * [Exercising the Mind to Treat Attention Deficits](http://well.blogs.nytimes.com/2014/05/12/exercising-the-mind-to-treat-attention-deficits/?src=me)
+* [Reservas Funcionais](https://www.cerebromelhor.com.br/reservas_funcionais.asp)
+* [Plasticidade Cerebral](https://www.cerebromelhor.com.br/plasticidade_cerebral.asp)
+* [Aprendizado](https://www.cerebromelhor.com.br/aprendizado.asp)
+* [Divisão de tarefas (especialização funcional)](https://www.cerebromelhor.com.br/divisao_tarefas.asp)
 
 ## Learn English
 
