@@ -533,6 +533,7 @@
 * [Divisão de tarefas (especialização funcional)](https://www.cerebromelhor.com.br/divisao_tarefas.asp)
 * [Maioria dos métodos de estudar para provas não funciona, diz estudo](http://www.bbc.co.uk/portuguese/noticias/2013/05/130520_estudo_tecnicas_pesquisa_rw.shtml)
 * [Hábitos Eficazes para um Estudo Eficaz](http://www.studygs.net/portuges/attmot4.htm)
+* [Já pensou em acelerar seu aprendizado? Conheça os métodos de estudo mais eficazes](http://www.fundaplub.org.br/site/noticia/ja-pensou-em-acelerar-seu-aprendizado-conheca-os-metodos-de-estudo-mais-eficazes/)
 
 ## Learn English
 
