@@ -541,6 +541,7 @@
 * [How to Learn a Programming Language](http://www.wikihow.com/Learn-a-Programming-Language)
 * [What's the best way to learn code if you are just starting out?](http://programmers.stackexchange.com/questions/116219/whats-the-best-way-to-learn-code-if-you-are-just-starting-out)
 * [What are the best ways for a complete beginner to learn programming?](http://www.quora.com/Learning-to-Program/What-are-the-best-ways-for-a-complete-beginner-to-learn-programming)
+* [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
 
 ## Learn English
 
