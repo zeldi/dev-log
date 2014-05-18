@@ -381,6 +381,7 @@
 * [Audio Convert](http://audio.online-convert.com/)
 * [Devcasts](http://www.devcasts.io/)
 * [snipplr](http://snipplr.com/)
+* [Some online terminals](http://repl.it/)
 
 # <a id="shellscript">❤</a> Shell Script
 
