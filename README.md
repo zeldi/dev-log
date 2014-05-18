@@ -556,13 +556,14 @@
   * [Oxford Dictionaries](http://www.oxforddictionaries.com/)
   * [Linguee](http://www.linguee.com.br/)
 
-## Unix Tips
+## Unix/Linux Tips
 
 * [UNIX Command To Rename A File](http://www.cyberciti.biz/faq/unix-command-rename-file/)
 * [15 Practical Linux cURL Command Examples](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [copy and move a file](http://cmgm.stanford.edu/classes/unix/cp.html)
 * [Mount an Iso in Three Steps](http://voices.yahoo.com/linux-mount-iso-three-steps-without-downloading-4267347.html?cat=15)
 * [keyboard shortcut for pasting on terminal window](http://askubuntu.com/questions/202459/keyboard-shortcut-for-pasting-on-terminal-window)
+* [Mozilla Firefox Nightly - Instalação fácil no Ubuntu](http://www.vivaolinux.com.br/dica/Mozilla-Firefox-Nightly-Instalacao-facil-no-Ubuntu)
 
 ## PodCasts
 
