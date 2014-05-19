@@ -546,6 +546,7 @@
 * [50 ways that MIT has transformed computer science](https://www.csail.mit.edu/node/2223)
 * [101 frases inspiradoras](http://viverdeblog.com/frases-de-marketing/)
 * [Prodigy prof skipped school until he started college at 12](http://newsoffice.mit.edu/2003/demaine-0226)
+* [How Does One Become A Professor At Universities Such As Harvard, Stanford, Caltech, And MIT?](http://www.forbes.com/sites/quora/2012/04/13/how-does-one-become-a-professor-at-universities-such-as-harvard-stanford-caltech-and-mit/)
 
 ## Learn English
 
