@@ -545,6 +545,7 @@
 * [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
 * [50 ways that MIT has transformed computer science](https://www.csail.mit.edu/node/2223)
 * [101 frases inspiradoras](http://viverdeblog.com/frases-de-marketing/)
+* [Prodigy prof skipped school until he started college at 12](http://newsoffice.mit.edu/2003/demaine-0226)
 
 ## Learn English
 
