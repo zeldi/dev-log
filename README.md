@@ -141,6 +141,7 @@
 * [How To Read User Input With NodeJS](http://st-on-it.blogspot.com.br/2011/05/how-to-read-user-input-with-nodejs.html)
 * [Utilizando node.js para automação de build e deploy](https://www.youtube.com/watch?v=9iy5m8mGlS0)
 * [Processamento de linguagem natural](https://www.youtube.com/watch?v=BoUz4xoqRbY)
+* [Node.js: JavaScript com Google V8 no servidor](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 
 # <a id="angularjs">❤</a> Angular.JS
 
@@ -253,6 +254,7 @@
 * [5 Really Useful Responsive Web Design Patterns](http://designshack.net/articles/css/5-really-useful-responsive-web-design-patterns/)
 * [GRID - A simple guide to responsive design](http://www.adamkaplan.me/grid/)
 * [A Web Mobile: Programe para um mundo de muitos dispositivos](http://www.casadocodigo.com.br/products/livro-web-mobile)
+* [Responsive Web Design e a Ubiquidade da Web](https://www.youtube.com/watch?v=9PQgEl8dOAY)
 
 ## UX/UI
 
