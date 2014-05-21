@@ -142,6 +142,7 @@
 * [Utilizando node.js para automação de build e deploy](https://www.youtube.com/watch?v=9iy5m8mGlS0)
 * [Processamento de linguagem natural](https://www.youtube.com/watch?v=BoUz4xoqRbY)
 * [Node.js: JavaScript com Google V8 no servidor](https://www.youtube.com/watch?v=B0hc7hmpCD4)
+* [Business Case For NodeJS](https://powerpoint.office.live.com/p/PowerPointView.aspx?FBsrc=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Ffile_preview.php%3Fid%3D799411080092803%26time%3D1400702189%26metadata&access_token=100002410547090%3AAVLc_FQHhkCb2-Nc-XbtpCaYo4EzFURD-yRjV_6-IF9poQ&title=the-business-case-for-node-16-9-140301202545-phpapp02.ppt)
 
 # <a id="angularjs">❤</a> Angular.JS
 
