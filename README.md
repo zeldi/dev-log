@@ -554,6 +554,7 @@
 * [How Does One Become A Professor At Universities Such As Harvard, Stanford, Caltech, And MIT?](http://www.forbes.com/sites/quora/2012/04/13/how-does-one-become-a-professor-at-universities-such-as-harvard-stanford-caltech-and-mit/)
 * [When You Don’t Know What You Are Doing](https://medium.com/better-humans/b8a29a9c2659)
 * [UI - DROPS: SMALL AND EFFECTIVE IDEAS!](http://ui-drops.tumblr.com/post/86305035408/login-screen#comments)
+* [Programar é uma merda](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-11-programar-e-uma-merda/)
 
 ## Learn English
 
