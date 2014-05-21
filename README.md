@@ -555,6 +555,7 @@
 * [When You Don’t Know What You Are Doing](https://medium.com/better-humans/b8a29a9c2659)
 * [UI - DROPS: SMALL AND EFFECTIVE IDEAS!](http://ui-drops.tumblr.com/post/86305035408/login-screen#comments)
 * [Programar é uma merda](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-11-programar-e-uma-merda/)
+* [Porque você devia aprender a programar](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-7-porque-voce-devia-aprender-a-programar-2/)
 
 ## Learn English
 
