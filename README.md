@@ -315,6 +315,7 @@
 * [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
 * [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
 * [Isso não é intuitivo](http://blog.lambda3.com.br/2013/09/isso-nao-e-intuitivo/)
+* [Vim Colorscheme Gallery](http://cocopon.me/app/vim-color-gallery/)
 
 ### Vim Plugins
 
@@ -331,6 +332,7 @@
 * [NERDTree](https://github.com/scrooloose/nerdtree)
 * [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 * [vim-airline](https://github.com/bling/vim-airline)
+* [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 
 ## Sublime Text 3
 
