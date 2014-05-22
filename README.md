@@ -239,6 +239,7 @@
 * [Responsive Modal Window Forms](http://www.pencilscoop.com/2014/03/responsive-modal-window-forms/)
 * [CSS2 table of properties](http://www.w3.org/TR/CSS21/propidx.html)
 * [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
+* [Atomic Design Behavior com AngularJs](http://nomadev.com.br/atomic-design-com-angularjs/)
 
 # <a id="webdesign">❤</a> Web Design
 
