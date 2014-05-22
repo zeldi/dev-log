@@ -564,6 +564,7 @@
 * [Porque você devia aprender a programar](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-7-porque-voce-devia-aprender-a-programar-2/)
 * [Frontend com Acessibilidade](https://www.youtube.com/watch?v=hmw0bFD7GHw)
 * [Como aprender uma nova língua em 30 dias](http://www.administradores.com.br/artigos/carreira/como-aprender-uma-nova-lingua-em-30-dias/77556/)
+* [Too Busy? 7 Ways To Increase Leisure Time, According To Science](http://www.bakadesuyo.com/2014/04/busy)
 
 ## Learn English
 
