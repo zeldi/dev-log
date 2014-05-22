@@ -559,6 +559,7 @@
 * [UI - DROPS: SMALL AND EFFECTIVE IDEAS!](http://ui-drops.tumblr.com/post/86305035408/login-screen#comments)
 * [Programar é uma merda](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-11-programar-e-uma-merda/)
 * [Porque você devia aprender a programar](http://altdrop.com.br/cotidiano/colunas/palavras-do-rei-7-porque-voce-devia-aprender-a-programar-2/)
+* [Frontend com Acessibilidade](https://www.youtube.com/watch?v=hmw0bFD7GHw)
 
 ## Learn English
 
