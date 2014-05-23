@@ -565,6 +565,7 @@
 * [Frontend com Acessibilidade](https://www.youtube.com/watch?v=hmw0bFD7GHw)
 * [Como aprender uma nova língua em 30 dias](http://www.administradores.com.br/artigos/carreira/como-aprender-uma-nova-lingua-em-30-dias/77556/)
 * [Too Busy? 7 Ways To Increase Leisure Time, According To Science](http://www.bakadesuyo.com/2014/04/busy)
+* [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 ## Learn English
 
