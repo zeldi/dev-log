@@ -570,6 +570,7 @@
 * [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 * [Toda semana 2 alunos anônimos entram de fininho na sala de aula para impressionar a todos](http://awebic.com/cultura/toda-semana-2-alunos-anonimos-entram-de-fininho-na-sala-de-aula-para-explodir-mente-de-todos/)
 * [Counting Stars on GitHub](http://adereth.github.io/blog/2013/12/23/counting-stars-on-github/)
+* [How To Read Technical Books](http://meteortips.com/read-technical-books/)
 
 ## Learn English
 
