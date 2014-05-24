@@ -253,6 +253,7 @@
 * [Picjumbo - free fotos](http://picjumbo.com/)
 * [Backgrounds](http://graphicburger.com/backgrounds/)
 * [Resources - 190+ sites, apps & books that I recommend any designer should check out](https://medium.com/design-ux/799d16952a56)
+* [(Web) Design para desenvolvedores](https://www.eventials.com/locaweb/nando-vieira-web-design-para-desenvolvedores/)
 
 ## Responsive Web Design (RWD)
 
