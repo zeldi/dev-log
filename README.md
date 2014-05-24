@@ -569,6 +569,7 @@
 * [Too Busy? 7 Ways To Increase Leisure Time, According To Science](http://www.bakadesuyo.com/2014/04/busy)
 * [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 * [Toda semana 2 alunos anônimos entram de fininho na sala de aula para impressionar a todos](http://awebic.com/cultura/toda-semana-2-alunos-anonimos-entram-de-fininho-na-sala-de-aula-para-explodir-mente-de-todos/)
+* [Counting Stars on GitHub](http://adereth.github.io/blog/2013/12/23/counting-stars-on-github/)
 
 ## Learn English
 
