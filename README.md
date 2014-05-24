@@ -107,6 +107,7 @@
 * [Organizando o JavaScript](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 * [JavaScript Modular](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
+* [Understanding web pages better](http://googlewebmastercentral.blogspot.com.br/2014/05/understanding-web-pages-better.html)
 
 ## ECMAScript 6
 
