@@ -572,6 +572,7 @@
 * [Counting Stars on GitHub](http://adereth.github.io/blog/2013/12/23/counting-stars-on-github/)
 * [How To Read Technical Books](http://meteortips.com/read-technical-books/)
 * [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](http://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy)
+* [I Have No Talent](http://www.railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
 
 ## Learn English
 
