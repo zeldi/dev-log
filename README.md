@@ -575,6 +575,7 @@
 * [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](http://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy)
 * [I Have No Talent](http://www.railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
 * [You Have To Get Good Before You Get Better](http://danshipper.com/you-have-to-get-good-before-you-get-better)
+* [What I Learned Sitting Next to @fat](https://medium.com/building-bowery/99b38a428c07)
 
 ## Learn English
 
