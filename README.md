@@ -576,6 +576,7 @@
 * [I Have No Talent](http://www.railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
 * [You Have To Get Good Before You Get Better](http://danshipper.com/you-have-to-get-good-before-you-get-better)
 * [What I Learned Sitting Next to @fat](https://medium.com/building-bowery/99b38a428c07)
+* [Why don’t students remember what they’ve learned?](http://pragmaticreform.wordpress.com/2013/11/16/memory/)
 
 ## Learn English
 
