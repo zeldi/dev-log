@@ -147,6 +147,7 @@
 * [Node.js: JavaScript com Google V8 no servidor](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 * [Business Case For NodeJS](https://powerpoint.office.live.com/p/PowerPointView.aspx?FBsrc=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Ffile_preview.php%3Fid%3D799411080092803%26time%3D1400702189%26metadata&access_token=100002410547090%3AAVLc_FQHhkCb2-Nc-XbtpCaYo4EzFURD-yRjV_6-IF9poQ&title=the-business-case-for-node-16-9-140301202545-phpapp02.ppt)
 * [6 Tips For Hiring a NodeJS Developer](https://gun.io/blog/6-tips-for-hiring-a-node-js-developer/)
+* [Node.js Developer Roadmap: How to Be a Node.js Developer](http://www.tutorialindustry.com/how-to-be-a-nodejs-developer)
 
 # <a id="angularjs">❤</a> Angular.JS
 
