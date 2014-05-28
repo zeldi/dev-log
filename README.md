@@ -578,6 +578,7 @@
 * [You Have To Get Good Before You Get Better](http://danshipper.com/you-have-to-get-good-before-you-get-better)
 * [What I Learned Sitting Next to @fat](https://medium.com/building-bowery/99b38a428c07)
 * [Why don’t students remember what they’ve learned?](http://pragmaticreform.wordpress.com/2013/11/16/memory/)
+* [What learning strategies do people who are "quick learners" follow](http://www.quora.com/Learning/What-learning-strategies-do-people-who-are-quick-learners-follow)
 
 ## Learn English
 
