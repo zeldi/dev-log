@@ -581,6 +581,7 @@
 * [What learning strategies do people who are "quick learners" follow](http://www.quora.com/Learning/What-learning-strategies-do-people-who-are-quick-learners-follow)
 * [Você é o único responsável pela sua formação… e pelo seu destino!](http://www.administradores.com.br/artigos/academico/voce-e-o-unico-responsavel-pela-sua-formacao-e-pelo-seu-destino/77394/)
 * [WHY I DECIDED TO BECOME A SOFTWARE ENGINEER: FIT MATTERS](http://www.choskim.me/why-i-decided-to-become-a-software-developer-a-personal-statement/)
+* [VOCÊ DEVIA ESTUDAR MENOS CÓDIGO E MAIS METEOROLOGIA](http://bernarddeluna.com/conceito/voce-devia-estudar-menos-codigo-e-mais-meteorologia/)
 
 ## Learn English
 
