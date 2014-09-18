@@ -365,6 +365,7 @@
   * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
   * [How to remove/rename folder](http://stackoverflow.com/questions/1094269/whats-the-purpose-of-git-mv)
 * [Setting your email in Git](https://help.github.com/articles/setting-your-email-in-git)
+* [My .gitconfig](https://gist.github.com/ericdouglas/f4d9d3c38be627f8d080)
 
 ## elementaryOS
 
