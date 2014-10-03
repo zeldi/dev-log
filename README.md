@@ -326,6 +326,7 @@ m
 * [How do I indent multiple lines quickly in vi?](http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi)
 * [Isso não é intuitivo](http://blog.lambda3.com.br/2013/09/isso-nao-e-intuitivo/)
 * [Vim Colorscheme Gallery](http://cocopon.me/app/vim-color-gallery/)
+* [Refresh NerdTree](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
 
 ### Vim Plugins
 
