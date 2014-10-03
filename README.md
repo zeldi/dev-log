@@ -108,6 +108,7 @@ m
 * [JavaScript Modular](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
 * [Understanding web pages better](http://googlewebmastercentral.blogspot.com.br/2014/05/understanding-web-pages-better.html)
+* [Why I Don't Want Your JavaScript Framework but I Love You](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you)
 
 ## ECMAScript 6
 
