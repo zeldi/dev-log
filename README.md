@@ -328,6 +328,7 @@ m
 * [Isso não é intuitivo](http://blog.lambda3.com.br/2013/09/isso-nao-e-intuitivo/)
 * [Vim Colorscheme Gallery](http://cocopon.me/app/vim-color-gallery/)
 * [Refresh NerdTree](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
+* [Using tab pages](http://vim.wikia.com/wiki/Using_tab_pages)
 
 ### Vim Plugins
 
