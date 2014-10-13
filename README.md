@@ -370,6 +370,7 @@ m
   * [How to remove/rename folder](http://stackoverflow.com/questions/1094269/whats-the-purpose-of-git-mv)
 * [Setting your email in Git](https://help.github.com/articles/setting-your-email-in-git)
 * [My .gitconfig](https://gist.github.com/ericdouglas/f4d9d3c38be627f8d080)
+* [My .gitignore](https://gist.github.com/ericdouglas/b8d9ebcc510e9802e9cd)
 * [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 ## elementaryOS
