@@ -330,6 +330,7 @@ m
 * [Vim Colorscheme Gallery](http://cocopon.me/app/vim-color-gallery/)
 * [Refresh NerdTree](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
 * [Using tab pages](http://vim.wikia.com/wiki/Using_tab_pages)
+* [Change 4 spaces to 2 spaces indentation - Vim](https://gist.github.com/ericdouglas/72621cb47b368297feaa)
 
 ### Vim Plugins
 
