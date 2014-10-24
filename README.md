@@ -174,6 +174,11 @@ m
 * [Protractor for AngularJS](http://ramonvictor.github.io/protractor/slides/#/)
 * [Embular Part 1 - Comparing Ember and Angular](http://www.benlesh.com/2014/04/embular-part-1-comparing-ember-and.html?spref=tw)
 * [Realtime com Angular JS and Socket IO](https://www.youtube.com/watch?v=5zcmBZ6mksM)
+* [Developing With AngularJS? Forget jQuery Exists](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
+* [Build custom directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)
+* [A Practical Guide to AngularJS Directives - Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+* [A Practical Guide to AngularJS Directives - Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
+* [AngularJS DOM manipulation with jqLite](https://www.youtube.com/watch?v=kOtXHs1EISw)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
