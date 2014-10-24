@@ -109,6 +109,8 @@ m
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
 * [Understanding web pages better](http://googlewebmastercentral.blogspot.com.br/2014/05/understanding-web-pages-better.html)
 * [Why I Don't Want Your JavaScript Framework but I Love You](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you)
+* [JavaScript retrieving the text of the selected option in select element](http://stackoverflow.com/questions/610336/javascript-retrieving-the-text-of-the-selected-option-in-select-element)
+* [How to remove spaces from a string using JavaScript?](http://stackoverflow.com/questions/5963182/how-to-remove-spaces-from-a-string-using-javascript)
 
 ## ECMAScript 6
 
@@ -179,6 +181,13 @@ m
 * [A Practical Guide to AngularJS Directives - Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 * [A Practical Guide to AngularJS Directives - Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
 * [AngularJS DOM manipulation with jqLite](https://www.youtube.com/watch?v=kOtXHs1EISw)
+* [AngularJS Style Guide - Todd Motto](https://github.com/toddmotto/angularjs-styleguide)
+* [AngularJS and scope.$apply](http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
+* [ng-repeat list in Angular is not updated when a model element is spliced from the model array](http://stackoverflow.com/questions/15475601/ng-repeat-list-in-angular-is-not-updated-when-a-model-element-is-spliced-from-th)
+* [Angular.js view doesn't update when nested $scope array is updated](http://stackoverflow.com/questions/16039076/angular-js-view-doesnt-update-when-nested-scope-array-is-updated)
+* [AngularJS watch array of objects for data change](http://stackoverflow.com/questions/17417597/angularjs-watch-array-of-objects-for-data-change)
+* [ng-if](https://docs.angularjs.org/api/ng/directive/ngIf)
+* [Passing parameter to ng-click directive, within custom directive](http://stackoverflow.com/questions/18479096/angular-js-passing-parameter-to-ng-click-directive-within-custom-directive)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
