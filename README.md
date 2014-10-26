@@ -15,7 +15,7 @@
 * **[CSS](#-css)**
 
 * **[Web Design](#-web-design)**
-m
+
 * **[Tools](#-tools)**
 
 * **[Shell Script](#-shell-script)**
@@ -225,6 +225,7 @@ m
 * [html5up](http://html5up.net/)
 * [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
 * [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg)
+* [W3C - Forms](http://www.w3.org/TR/html5/forms.html)
 
 ## SEO
 
@@ -387,6 +388,7 @@ m
 * [My .gitconfig](https://gist.github.com/ericdouglas/f4d9d3c38be627f8d080)
 * [My .gitignore](https://gist.github.com/ericdouglas/b8d9ebcc510e9802e9cd)
 * [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+* [Merge changes from remote github repository to your local repository](http://stackoverflow.com/questions/867831/merge-changes-from-remote-github-repository-to-your-local-repository)
 
 ## elementaryOS
 
@@ -607,6 +609,8 @@ m
 * [WHY I DECIDED TO BECOME A SOFTWARE ENGINEER: FIT MATTERS](http://www.choskim.me/why-i-decided-to-become-a-software-developer-a-personal-statement/)
 * [VOCÊ DEVIA ESTUDAR MENOS CÓDIGO E MAIS METEOROLOGIA](http://bernarddeluna.com/conceito/voce-devia-estudar-menos-codigo-e-mais-meteorologia/)
 * [Como os poderosos planejam o dia](http://www.administradores.com.br/artigos/carreira/como-os-poderosos-planejam-o-dia-e-o-que-voce-deve-aprender-com-eles/74417/)
+* [Um Brasileiro na Bocoup](https://medium.com/@leobalter/um-brasileiro-na-bocoup-1b0f0fb9a9eb)
+* [Partindo pra Boston em 7 meses](https://medium.com/@leobalter/partindo-pra-boston-em-7-meses-be88ff131d30)
 
 ## Learn English
 
