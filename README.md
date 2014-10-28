@@ -111,6 +111,9 @@
 * [Why I Don't Want Your JavaScript Framework but I Love You](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you)
 * [JavaScript retrieving the text of the selected option in select element](http://stackoverflow.com/questions/610336/javascript-retrieving-the-text-of-the-selected-option-in-select-element)
 * [How to remove spaces from a string using JavaScript?](http://stackoverflow.com/questions/5963182/how-to-remove-spaces-from-a-string-using-javascript)
+* [How do I add a class to a given element?](http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element)
+* [Drag and Drop for AngularJS](http://codef0rmer.github.io/angular-dragdrop/#/)
+* [ui-sortable](https://github.com/angular-ui/ui-sortable)
 
 ## ECMAScript 6
 
@@ -155,13 +158,6 @@
 # <a id="angularjs">❤</a> Angular.JS
 
 * [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
-* [Study of "Recipes With AngularJS"](https://leanpub.com/recipes-with-angular-js/read)
-  * **Chapter 1**
-    * Recipe 1: [gist 1](https://gist.github.com/eoop/8690984) - [gist2](https://gist.github.com/eoop/8691039)
-    * Recipe 2: [gist 1](https://gist.github.com/eoop/8691517) - [gist2](https://gist.github.com/eoop/8691541)
-    * Recipe 3: [gist 1](https://gist.github.com/eoop/8692874)
-    * Recipe 4: [gist 1](https://gist.github.com/eoop/8717042)
-    
 * [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [AngularJS-Learning - Complete list of resources](https://github.com/jmcunningham/AngularJS-Learning)
 * [angular-resources](https://github.com/distilledhype/angular-resources)
@@ -190,24 +186,7 @@
 * [Passing parameter to ng-click directive, within custom directive](http://stackoverflow.com/questions/18479096/angular-js-passing-parameter-to-ng-click-directive-within-custom-directive)
 * [How can AngularJS bind to list of checkbox values?](http://stackoverflow.com/questions/14514461/how-can-angularjs-bind-to-list-of-checkbox-values)
 * [How can I pass variables between controllers?](http://stackoverflow.com/questions/12008908/how-can-i-pass-variables-between-controllers)
-
-## [Egghead.io Lessons](https://egghead.io/)
-| Video | Code |
-| --- | :---: |
-| [1. Binding](https://egghead.io/lessons/angularjs-binding) | [gist](https://gist.github.com/ericdouglas/9315555) |
-| [2. Controllers](https://egghead.io/lessons/angularjs-controllers) | [gist](https://gist.github.com/ericdouglas/9315751) |
-| [3. Dot](https://egghead.io/lessons/angularjs-the-dot) | [gist](https://gist.github.com/ericdouglas/9315829) |
-| [4. Sharing Data Between Controllers](https://egghead.io/lessons/angularjs-sharing-data-between-controllers) | [gist](https://gist.github.com/ericdouglas/9316042) |
-| [5. Defining a Method on the Scope](https://egghead.io/lessons/angularjs-defining-a-method-on-the-scope) | [gist](https://gist.github.com/ericdouglas/9316234) |
-| [6. Filters](https://egghead.io/lessons/angularjs-filters) | [gist](https://gist.github.com/ericdouglas/9316687) |
-| [8. ngRepeat and Filtering Data](https://egghead.io/lessons/angularjs-ngrepeat-and-filtering-data) | [gist](https://gist.github.com/ericdouglas/9331865) |
-| [9. Built-in Filters](https://egghead.io/lessons/angularjs-built-in-filters) | [gist](https://gist.github.com/ericdouglas/9353935) |
-| [10. First Directive](https://egghead.io/lessons/angularjs-first-directive) | [gist](https://gist.github.com/ericdouglas/9354100) |
-| [11. Directives Restrictions](https://egghead.io/lessons/angularjs-directive-restrictions) | [gist](https://gist.github.com/ericdouglas/9354380) |
-| [12. Basic Behaviors](https://egghead.io/lessons/angularjs-basic-behaviors) | [gist](https://gist.github.com/ericdouglas/9354715) |
-| [13. Useful Behaviors](https://egghead.io/lessons/angularjs-useful-behaviors) | [gist](https://gist.github.com/ericdouglas/9354852) |
-| [14. Directives Talking to Controllers](https://egghead.io/lessons/angularjs-directives-talking-to-controllers) | [gist](https://gist.github.com/ericdouglas/9373658) |
-| [15. Directive to Directive](https://egghead.io/lessons/angularjs-directive-to-directive-communication) | [gist](https://gist.github.com/ericdouglas/9374024) |
+* [Native drag and drop in AngularJS](http://blog.parkji.co.uk/2013/08/11/native-drag-and-drop-in-angularjs.html)
 
 # <a id="mean">❤</a> MEAN
 
@@ -228,6 +207,9 @@
 * [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
 * [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg)
 * [W3C - Forms](http://www.w3.org/TR/html5/forms.html)
+* [Native HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
+* [MDN - Drag and drop](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Drag_and_drop)
+* [A 5 Minute Overview of All New JavaScript APIs in HTML5](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html#fbid=ZD5hvPCMGJZ)
 
 ## SEO
 
@@ -613,6 +595,7 @@
 * [Como os poderosos planejam o dia](http://www.administradores.com.br/artigos/carreira/como-os-poderosos-planejam-o-dia-e-o-que-voce-deve-aprender-com-eles/74417/)
 * [Um Brasileiro na Bocoup](https://medium.com/@leobalter/um-brasileiro-na-bocoup-1b0f0fb9a9eb)
 * [Partindo pra Boston em 7 meses](https://medium.com/@leobalter/partindo-pra-boston-em-7-meses-be88ff131d30)
+* [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26)
 
 ## Learn English
 
