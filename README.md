@@ -188,6 +188,8 @@
 * [AngularJS watch array of objects for data change](http://stackoverflow.com/questions/17417597/angularjs-watch-array-of-objects-for-data-change)
 * [ng-if](https://docs.angularjs.org/api/ng/directive/ngIf)
 * [Passing parameter to ng-click directive, within custom directive](http://stackoverflow.com/questions/18479096/angular-js-passing-parameter-to-ng-click-directive-within-custom-directive)
+* [How can AngularJS bind to list of checkbox values?](http://stackoverflow.com/questions/14514461/how-can-angularjs-bind-to-list-of-checkbox-values)
+* [How can I pass variables between controllers?](http://stackoverflow.com/questions/12008908/how-can-i-pass-variables-between-controllers)
 
 ## [Egghead.io Lessons](https://egghead.io/)
 | Video | Code |
