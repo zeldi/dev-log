@@ -112,8 +112,7 @@
 * [JavaScript retrieving the text of the selected option in select element](http://stackoverflow.com/questions/610336/javascript-retrieving-the-text-of-the-selected-option-in-select-element)
 * [How to remove spaces from a string using JavaScript?](http://stackoverflow.com/questions/5963182/how-to-remove-spaces-from-a-string-using-javascript)
 * [How do I add a class to a given element?](http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element)
-* [Drag and Drop for AngularJS](http://codef0rmer.github.io/angular-dragdrop/#/)
-* [ui-sortable](https://github.com/angular-ui/ui-sortable)
+* [How to remove a property from a JavaScript object](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
 
 ## ECMAScript 6
 
@@ -154,6 +153,7 @@
 * [Business Case For NodeJS](https://powerpoint.office.live.com/p/PowerPointView.aspx?FBsrc=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Ffile_preview.php%3Fid%3D799411080092803%26time%3D1400702189%26metadata&access_token=100002410547090%3AAVLc_FQHhkCb2-Nc-XbtpCaYo4EzFURD-yRjV_6-IF9poQ&title=the-business-case-for-node-16-9-140301202545-phpapp02.ppt)
 * [6 Tips For Hiring a NodeJS Developer](https://gun.io/blog/6-tips-for-hiring-a-node-js-developer/)
 * [Node.js Developer Roadmap: How to Be a Node.js Developer](http://www.tutorialindustry.com/how-to-be-a-nodejs-developer)
+* [js-xlsx](https://github.com/SheetJS/js-xlsx)
 
 # <a id="angularjs">❤</a> Angular.JS
 
@@ -188,6 +188,9 @@
 * [How can I pass variables between controllers?](http://stackoverflow.com/questions/12008908/how-can-i-pass-variables-between-controllers)
 * [Native drag and drop in AngularJS](http://blog.parkji.co.uk/2013/08/11/native-drag-and-drop-in-angularjs.html)
 * [Esclarecendo alguns mitos sobre o AngularJS](https://medium.com/@cironunesdev/esclarecendo-alguns-mitos-sobre-o-angularjs-1643d4317e75)
+* [Drag and Drop for AngularJS](http://codef0rmer.github.io/angular-dragdrop/#/)
+* [ui-sortable](https://github.com/angular-ui/ui-sortable)
+* [RIP AngularJS! Oh Sorry, RIP $scope, ng-controller, DDO, jqLite and whatever you like in AngularJS](http://www.sivalabs.in/2014/10/rip-angularjs-oh-sorry-rip-scope-ng.html)
 
 # <a id="mean">❤</a> MEAN
 
@@ -375,6 +378,8 @@
 * [My .gitignore](https://gist.github.com/ericdouglas/b8d9ebcc510e9802e9cd)
 * [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 * [Merge changes from remote github repository to your local repository](http://stackoverflow.com/questions/867831/merge-changes-from-remote-github-repository-to-your-local-repository)
+* [Switching Branches Without Committing](http://www.gitguys.com/topics/switching-branches-without-committing/)
+* [Force Git to overwrite local files on pull](http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull)
 
 ## elementaryOS
 
