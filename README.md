@@ -187,6 +187,7 @@
 * [How can AngularJS bind to list of checkbox values?](http://stackoverflow.com/questions/14514461/how-can-angularjs-bind-to-list-of-checkbox-values)
 * [How can I pass variables between controllers?](http://stackoverflow.com/questions/12008908/how-can-i-pass-variables-between-controllers)
 * [Native drag and drop in AngularJS](http://blog.parkji.co.uk/2013/08/11/native-drag-and-drop-in-angularjs.html)
+* [Esclarecendo alguns mitos sobre o AngularJS](https://medium.com/@cironunesdev/esclarecendo-alguns-mitos-sobre-o-angularjs-1643d4317e75)
 
 # <a id="mean">❤</a> MEAN
 
@@ -244,6 +245,7 @@
 * [CSS2 table of properties](http://www.w3.org/TR/CSS21/propidx.html)
 * [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Atomic Design Behavior com AngularJs](http://nomadev.com.br/atomic-design-com-angularjs/)
+* [Twitter Bootstrap: aprenda a usar de uma maneira mais inteligente com Gulp e LESS](http://blog.rafamello.com/bootstrap-inteligente)
 
 # <a id="webdesign">❤</a> Web Design
 
@@ -596,6 +598,7 @@
 * [Um Brasileiro na Bocoup](https://medium.com/@leobalter/um-brasileiro-na-bocoup-1b0f0fb9a9eb)
 * [Partindo pra Boston em 7 meses](https://medium.com/@leobalter/partindo-pra-boston-em-7-meses-be88ff131d30)
 * [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26)
+* [Remote Hackers](http://remotehackers.com/)
 
 ## Learn English
 
