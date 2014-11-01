@@ -113,6 +113,7 @@
 * [How to remove spaces from a string using JavaScript?](http://stackoverflow.com/questions/5963182/how-to-remove-spaces-from-a-string-using-javascript)
 * [How do I add a class to a given element?](http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element)
 * [How to remove a property from a JavaScript object](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
+* [Javascript : remove accents/diacritics in strings](http://stackoverflow.com/questions/990904/javascript-remove-accents-diacritics-in-strings)
 
 ## ECMAScript 6
 
@@ -191,6 +192,9 @@
 * [Drag and Drop for AngularJS](http://codef0rmer.github.io/angular-dragdrop/#/)
 * [ui-sortable](https://github.com/angular-ui/ui-sortable)
 * [RIP AngularJS! Oh Sorry, RIP $scope, ng-controller, DDO, jqLite and whatever you like in AngularJS](http://www.sivalabs.in/2014/10/rip-angularjs-oh-sorry-rip-scope-ng.html)
+* [How to Use a Filter in a Controller in AngularJS](http://blog.tompawlak.org/use-filter-in-controller-angularjs)
+* [Angular JS - Angular UI Router - Reloading current state - refresh data](http://stackoverflow.com/questions/21714655/angular-js-angular-ui-router-reloading-current-state-refresh-data)
+* [AngularJS 2.0 Details Emerge](http://www.infoq.com/news/2014/10/angular-2-atscript)
 
 # <a id="mean">❤</a> MEAN
 
