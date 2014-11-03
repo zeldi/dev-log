@@ -218,6 +218,7 @@
 * [Native HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 * [MDN - Drag and drop](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Drag_and_drop)
 * [A 5 Minute Overview of All New JavaScript APIs in HTML5](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html#fbid=ZD5hvPCMGJZ)
+* [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s&list=PLRAVCSU_HVYu-zlRaqArF8Ytwz1jlMOIM)
 
 ## SEO
 
@@ -465,6 +466,9 @@
 * [MongoDB University](https://education.mongodb.com)
 * [MoooooooongoDB](http://caba.re/moooooooongodb/)
 * [Install MongoDB on Ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
+* [sort()](http://docs.mongodb.org/manual/reference/method/cursor.sort/)
+* [dropDatabase](http://docs.mongodb.org/manual/reference/command/dropDatabase/)
+* [$unset](http://docs.mongodb.org/manual/reference/operator/update/unset/)
 
 # <a id="miscellaneous">❤</a> Miscellaneous
 
