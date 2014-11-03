@@ -195,6 +195,9 @@
 * [How to Use a Filter in a Controller in AngularJS](http://blog.tompawlak.org/use-filter-in-controller-angularjs)
 * [Angular JS - Angular UI Router - Reloading current state - refresh data](http://stackoverflow.com/questions/21714655/angular-js-angular-ui-router-reloading-current-state-refresh-data)
 * [AngularJS 2.0 Details Emerge](http://www.infoq.com/news/2014/10/angular-2-atscript)
+* [Less AngularJS, more Javascript](https://medium.com/@angularjsdev/less-angularjs-more-javascript-ab756cfb81)
+* [A sneak peek at the radically new Angular 2.0](http://jaxenter.com/angular-2-0-112094.html)
+* [Angular 2.0 announcement backfires](http://jaxenter.com/angular-2-0-announcement-backfires-112127.html)
 
 # <a id="mean">❤</a> MEAN
 
@@ -612,6 +615,7 @@
 * [Partindo pra Boston em 7 meses](https://medium.com/@leobalter/partindo-pra-boston-em-7-meses-be88ff131d30)
 * [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26)
 * [Remote Hackers](http://remotehackers.com/)
+* [Getting Started with Ember.js](http://gofullstack.com/getting-started-with-ember-js)
 
 ## Learn English
 
