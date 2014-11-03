@@ -198,6 +198,8 @@
 * [Less AngularJS, more Javascript](https://medium.com/@angularjsdev/less-angularjs-more-javascript-ab756cfb81)
 * [A sneak peek at the radically new Angular 2.0](http://jaxenter.com/angular-2-0-112094.html)
 * [Angular 2.0 announcement backfires](http://jaxenter.com/angular-2-0-announcement-backfires-112127.html)
+* [ng-europe, Angular 1.3, and beyond](http://angularjs.blogspot.com.br/2014/10/ng-europe-angular-13-and-beyond.html)
+* [Why I Think Angular 2 Will Still Be Angular](http://teropa.info/blog/2014/11/01/why-i-think-angular-2-will-still-be-angular.html)
 
 # <a id="mean">❤</a> MEAN
 
