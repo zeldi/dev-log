@@ -114,6 +114,7 @@
 * [How do I add a class to a given element?](http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element)
 * [How to remove a property from a JavaScript object](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
 * [Javascript : remove accents/diacritics in strings](http://stackoverflow.com/questions/990904/javascript-remove-accents-diacritics-in-strings)
+* [“javascript:void(0);” vs “return false” vs “preventDefault()”](http://stackoverflow.com/questions/3498492/javascriptvoid0-vs-return-false-vs-preventdefault)
 
 ## ECMAScript 6
 
@@ -200,6 +201,7 @@
 * [Angular 2.0 announcement backfires](http://jaxenter.com/angular-2-0-announcement-backfires-112127.html)
 * [ng-europe, Angular 1.3, and beyond](http://angularjs.blogspot.com.br/2014/10/ng-europe-angular-13-and-beyond.html)
 * [Why I Think Angular 2 Will Still Be Angular](http://teropa.info/blog/2014/11/01/why-i-think-angular-2-will-still-be-angular.html)
+* [Encapsulating jquery ui components as angularjs directives](http://stackoverflow.com/questions/18022484/encapsulating-jquery-ui-components-as-angularjs-directives)
 
 # <a id="mean">❤</a> MEAN
 
@@ -618,6 +620,7 @@
 * [Scrum: seu time já deveria estar em outra](https://medium.com/@jcemer/scrum-seu-time-ja-deveria-estar-em-outra-4b11715e2a26)
 * [Remote Hackers](http://remotehackers.com/)
 * [Getting Started with Ember.js](http://gofullstack.com/getting-started-with-ember-js)
+* [MEAN vs Meteor](http://www.quora.com/Which-do-you-prefer-and-why-MEAN-stack-or-MeteorJS)
 
 ## Learn English
 
