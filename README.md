@@ -621,6 +621,7 @@
 * [Remote Hackers](http://remotehackers.com/)
 * [Getting Started with Ember.js](http://gofullstack.com/getting-started-with-ember-js)
 * [MEAN vs Meteor](http://www.quora.com/Which-do-you-prefer-and-why-MEAN-stack-or-MeteorJS)
+* [Universidade dos EUA oferece graduação online e gratuita](http://noticias.terra.com.br/educacao/universidade-dos-eua-oferece-graduacao-online-e-gratuita,81fe4783c1779410VgnVCM10000098cceb0aRCRD.html)
 
 ## Learn English
 
