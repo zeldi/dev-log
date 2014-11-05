@@ -226,6 +226,7 @@
 * [MDN - Drag and drop](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Drag_and_drop)
 * [A 5 Minute Overview of All New JavaScript APIs in HTML5](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html#fbid=ZD5hvPCMGJZ)
 * [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s&list=PLRAVCSU_HVYu-zlRaqArF8Ytwz1jlMOIM)
+* [Porque utilizar tabelas para layout é estupide](http://www.plasmadesign.com.br/stupidtables/everything.html)
 
 ## SEO
 
@@ -622,6 +623,7 @@
 * [Getting Started with Ember.js](http://gofullstack.com/getting-started-with-ember-js)
 * [MEAN vs Meteor](http://www.quora.com/Which-do-you-prefer-and-why-MEAN-stack-or-MeteorJS)
 * [Universidade dos EUA oferece graduação online e gratuita](http://noticias.terra.com.br/educacao/universidade-dos-eua-oferece-graduacao-online-e-gratuita,81fe4783c1779410VgnVCM10000098cceb0aRCRD.html)
+* [How I Read Programming Books](http://www.simplyahmazing.com/2013/01/how-i-read-programming-books.html)
 
 ## Learn English
 
