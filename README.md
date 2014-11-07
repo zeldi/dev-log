@@ -115,6 +115,7 @@
 * [How to remove a property from a JavaScript object](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
 * [Javascript : remove accents/diacritics in strings](http://stackoverflow.com/questions/990904/javascript-remove-accents-diacritics-in-strings)
 * [“javascript:void(0);” vs “return false” vs “preventDefault()”](http://stackoverflow.com/questions/3498492/javascriptvoid0-vs-return-false-vs-preventdefault)
+* [q](https://github.com/kriskowal/q)
 
 ## ECMAScript 6
 
@@ -202,6 +203,9 @@
 * [ng-europe, Angular 1.3, and beyond](http://angularjs.blogspot.com.br/2014/10/ng-europe-angular-13-and-beyond.html)
 * [Why I Think Angular 2 Will Still Be Angular](http://teropa.info/blog/2014/11/01/why-i-think-angular-2-will-still-be-angular.html)
 * [Encapsulating jquery ui components as angularjs directives](http://stackoverflow.com/questions/18022484/encapsulating-jquery-ui-components-as-angularjs-directives)
+* [angucomplete-alt](https://github.com/ghiden/angucomplete-alt)
+* [expressions in style tags](https://github.com/angular/angular.js/issues/2387)
+* [ngStyle](https://docs.angularjs.org/api/ng/directive/ngStyle)
 
 # <a id="mean">❤</a> MEAN
 
@@ -624,6 +628,7 @@
 * [MEAN vs Meteor](http://www.quora.com/Which-do-you-prefer-and-why-MEAN-stack-or-MeteorJS)
 * [Universidade dos EUA oferece graduação online e gratuita](http://noticias.terra.com.br/educacao/universidade-dos-eua-oferece-graduacao-online-e-gratuita,81fe4783c1779410VgnVCM10000098cceb0aRCRD.html)
 * [How I Read Programming Books](http://www.simplyahmazing.com/2013/01/how-i-read-programming-books.html)
+* [Guide for Technical Development - Google Education](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
 
 ## Learn English
 
