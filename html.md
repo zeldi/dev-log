@@ -1,0 +1,18 @@
+# <a id="html">❤</a> HTML
+
+* [Dive Into HTML](http://diveintohtml5.com.br/)
+* [Livro Caelum: HTML, CSS e JavaScript](http://www.caelum.com.br/apostila-html-css-javascript/)
+* [HTML5 HTML5 PLEASE](http://html5please.com/)
+* [Effeckts.css](http://h5bp.github.io/Effeckt.css/)
+* [100 CSS and JavaScript tutorials to boost your skills](http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
+* [Form `novalidate` attribute](https://developer.mozilla.org/pt-BR/docs/HTML/Element/form)
+* [`<audio>`](https://developer.mozilla.org/pt-BR/docs/HTML/Element/Audio)
+* [html5up](http://html5up.net/)
+* [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
+* [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg)
+* [W3C - Forms](http://www.w3.org/TR/html5/forms.html)
+* [Native HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
+* [MDN - Drag and drop](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Drag_and_drop)
+* [A 5 Minute Overview of All New JavaScript APIs in HTML5](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html#fbid=ZD5hvPCMGJZ)
+* [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s&list=PLRAVCSU_HVYu-zlRaqArF8Ytwz1jlMOIM)
+* [Porque utilizar tabelas para layout é estupide](http://www.plasmadesign.com.br/stupidtables/everything.html)
