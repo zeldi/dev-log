@@ -15,3 +15,4 @@
 * [Merge changes from remote github repository to your local repository](http://stackoverflow.com/questions/867831/merge-changes-from-remote-github-repository-to-your-local-repository)
 * [Switching Branches Without Committing](http://www.gitguys.com/topics/switching-branches-without-committing/)
 * [Force Git to overwrite local files on pull](http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull)
+* [Git - how delete file from remote repository](http://stackoverflow.com/questions/9701238/git-how-delete-file-from-remote-repository)
