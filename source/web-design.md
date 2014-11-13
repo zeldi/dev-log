@@ -14,3 +14,4 @@
 ## Inspiration
 
 * [HTML5 Up](http://html5up.net/)
+* [Drag and Drop Interaction Ideas](http://tympanus.net/Development/DragDropInteractions/index.html)

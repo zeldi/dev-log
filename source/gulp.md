@@ -12,3 +12,4 @@
 * [My first gulp adventure](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
 * [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 * [My gulpfile.js](https://gist.github.com/ericdouglas/8855147)
+* [Gulpfile with Livereload, Nodemon, and other features](https://gist.github.com/Hendrixer/9939346)

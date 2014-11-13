@@ -47,3 +47,5 @@
 * [expressions in style tags](https://github.com/angular/angular.js/issues/2387)
 * [ngStyle](https://docs.angularjs.org/api/ng/directive/ngStyle)
 * [ng-repeat with no sort? How?!](https://groups.google.com/forum/#!topic/angular/N87uqMfwcTs)
+* [AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
+* [$provide](https://docs.angularjs.org/api/auto/service/$provide)
