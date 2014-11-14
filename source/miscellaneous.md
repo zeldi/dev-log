@@ -148,3 +148,4 @@
 * [Browser Uploads to S3 using HTML POST Forms](http://aws.amazon.com/articles/1434)
 * [Full Stack developer - who are they?](https://www.linkedin.com/pulse/article/20140829154614-644987-full-stack-developer-who-are-they)
 * [What you should expect from a Full Stack Developer in Year 2015](https://www.linkedin.com/pulse/article/20141109150649-644987-what-you-should-expect-from-a-full-stack-developer-in-year-2015)
+* [Comment-Driven Development](http://www.sitepoint.com/comment-driven-development/)

@@ -49,3 +49,5 @@
 * [ng-repeat with no sort? How?!](https://groups.google.com/forum/#!topic/angular/N87uqMfwcTs)
 * [AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
 * [$provide](https://docs.angularjs.org/api/auto/service/$provide)
+* [Angular Underscore](https://github.com/floydsoft/angular-underscore)
+* [AtScript Primer](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127)

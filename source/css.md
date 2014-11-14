@@ -28,3 +28,5 @@
 * [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Atomic Design Behavior com AngularJs](http://nomadev.com.br/atomic-design-com-angularjs/)
 * [Twitter Bootstrap: aprenda a usar de uma maneira mais inteligente com Gulp e LESS](http://blog.rafamello.com/bootstrap-inteligente)
+* [Sobre organização de componentes com pré-processadores](http://www.felipefialho.com/blog/2013/sobre-organizacao-de-componentes-com-pre-processadores/#.VGaP43W9_VM)
+* [Falando em organização CSS...](http://www.felipefialho.com/blog/2014/falando-em-organizacao-css/#.VGaS8XW9_VP)

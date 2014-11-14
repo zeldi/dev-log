@@ -7,3 +7,4 @@
 
 * [Vintageous](https://github.com/guillermooo/Vintageous)
 * [spacegray - theme](https://github.com/kkga/spacegray)
+* [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
