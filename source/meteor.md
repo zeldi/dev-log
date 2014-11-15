@@ -15,3 +15,4 @@
 * [Meteor-Studies](https://github.com/ericdouglas/Meteor-Studies)
 * [Meteor Devshop London - April](https://www.meteor.com/blog/2014/06/03/meteor-famous-mobile)
 * [Does Meteor Scale?](https://meteorhacks.com/does-meteor-scale.html)
+* [Your Meteor app probably doesn’t need Angular](https://medium.com/space-camp/your-meteor-app-probably-doesnt-need-angular-13986a0323f6)

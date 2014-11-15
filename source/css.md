@@ -30,3 +30,7 @@
 * [Twitter Bootstrap: aprenda a usar de uma maneira mais inteligente com Gulp e LESS](http://blog.rafamello.com/bootstrap-inteligente)
 * [Sobre organização de componentes com pré-processadores](http://www.felipefialho.com/blog/2013/sobre-organizacao-de-componentes-com-pre-processadores/#.VGaP43W9_VM)
 * [Falando em organização CSS...](http://www.felipefialho.com/blog/2014/falando-em-organizacao-css/#.VGaS8XW9_VP)
+* [CSS escalável - Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
+* [CSS escalável - Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
+* [CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
+* [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
