@@ -6,3 +6,4 @@
 * [Mounting an ISO Image in Linux](https://gist.github.com/ericdouglas/7880bdd7a20e1ad40802)
 * [keyboard shortcut for pasting on terminal window](http://askubuntu.com/questions/202459/keyboard-shortcut-for-pasting-on-terminal-window)
 * [Mozilla Firefox Nightly - Instalação fácil no Ubuntu](http://www.vivaolinux.com.br/dica/Mozilla-Firefox-Nightly-Instalacao-facil-no-Ubuntu)
+* [How To Customize Linux Mint / Ubuntu Terminal](http://www.ihaveapc.com/2011/07/how-to-customize-linux-mint-ubuntu-terminal/)

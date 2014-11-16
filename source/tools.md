@@ -23,3 +23,4 @@
 * [Devcasts](http://www.devcasts.io/)
 * [snipplr](http://snipplr.com/)
 * [Some online terminals](http://repl.it/)
+* [https://about.gitlab.com/](https://about.gitlab.com/)
