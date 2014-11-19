@@ -152,3 +152,4 @@
 * [Longe de casa, há mais de uma semana](https://medium.com/brasil/longe-de-casa-a-mais-de-uma-semana-c4f1e38f9957)
 * [Comunidades são organismos livres](https://medium.com/@leobetosouza/comunidades-sao-organismos-livres-851d7c5919e6)
 * [Frontinsampa 2014 - O Poder está no frontend](https://www.youtube.com/watch?v=cmT3clnhbiQ)
+* [Menos tensão no choque cultural](https://medium.com/@leobalter/menos-tensao-no-choque-cultural-12803b703e4)

@@ -54,3 +54,5 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 * [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 * [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+* [ng-docs: date](https://docs.angularjs.org/api/ng/filter/date)
+* [How to set div width using ng-style](http://stackoverflow.com/questions/20287241/how-to-set-div-width-using-ng-style)
