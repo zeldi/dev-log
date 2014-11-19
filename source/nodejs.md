@@ -33,3 +33,4 @@
 * [Node.js Developer Roadmap: How to Be a Node.js Developer](http://www.tutorialindustry.com/how-to-be-a-nodejs-developer)
 * [js-xlsx](https://github.com/SheetJS/js-xlsx)
 * [When I have to read a module written in CoffeeScript](http://nodejsreactions.tumblr.com/post/99062009952/when-i-have-to-read-a-module-written-in-coffeescript)
+* [Node Version Manager](https://github.com/creationix/nvm)

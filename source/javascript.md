@@ -76,3 +76,4 @@
 * [“javascript:void(0);” vs “return false” vs “preventDefault()”](http://stackoverflow.com/questions/3498492/javascriptvoid0-vs-return-false-vs-preventdefault)
 * [q](https://github.com/kriskowal/q)
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+* [Use Lo-Dash Instead of Underscore](http://joefleming.net/posts/use-lodash-instead-of-underscore/)
