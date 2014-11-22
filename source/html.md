@@ -16,3 +16,4 @@
 * [A 5 Minute Overview of All New JavaScript APIs in HTML5](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html#fbid=ZD5hvPCMGJZ)
 * [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s&list=PLRAVCSU_HVYu-zlRaqArF8Ytwz1jlMOIM)
 * [Porque utilizar tabelas para layout é estupide](http://www.plasmadesign.com.br/stupidtables/everything.html)
+* [What is the max size of localStorage values?](http://stackoverflow.com/questions/2989284/what-is-the-max-size-of-localstorage-values)

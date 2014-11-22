@@ -153,3 +153,6 @@
 * [Comunidades são organismos livres](https://medium.com/@leobetosouza/comunidades-sao-organismos-livres-851d7c5919e6)
 * [Frontinsampa 2014 - O Poder está no frontend](https://www.youtube.com/watch?v=cmT3clnhbiQ)
 * [Menos tensão no choque cultural](https://medium.com/@leobalter/menos-tensao-no-choque-cultural-12803b703e4)
+* [Sobre se livrar de uma hipertensão e um câncer](https://medium.com/@diegoeis/sobre-se-livrar-de-uma-hipertensao-e-um-cancer-bacbf370dbe)
+* [Website Style Guide Resources](http://styleguides.io/)
+* [O que designers tem a aprender com desenvolvedores?](https://medium.com/@pedro_designer/o-que-designers-tem-a-aprender-com-desenvolvedores-dbdd365c14ea)

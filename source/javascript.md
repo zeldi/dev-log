@@ -77,3 +77,4 @@
 * [q](https://github.com/kriskowal/q)
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
 * [Use Lo-Dash Instead of Underscore](http://joefleming.net/posts/use-lodash-instead-of-underscore/)
+* [How to short circuit Array.forEach like calling break](http://stackoverflow.com/questions/2641347/how-to-short-circuit-array-foreach-like-calling-break)
