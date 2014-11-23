@@ -16,3 +16,5 @@
 * [Switching Branches Without Committing](http://www.gitguys.com/topics/switching-branches-without-committing/)
 * [Force Git to overwrite local files on pull](http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull)
 * [Git - how delete file from remote repository](http://stackoverflow.com/questions/9701238/git-how-delete-file-from-remote-repository)
+* [Creating Project Pages manually](https://help.github.com/articles/creating-project-pages-manually/)
+* [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)

@@ -156,3 +156,4 @@
 * [Sobre se livrar de uma hipertensão e um câncer](https://medium.com/@diegoeis/sobre-se-livrar-de-uma-hipertensao-e-um-cancer-bacbf370dbe)
 * [Website Style Guide Resources](http://styleguides.io/)
 * [O que designers tem a aprender com desenvolvedores?](https://medium.com/@pedro_designer/o-que-designers-tem-a-aprender-com-desenvolvedores-dbdd365c14ea)
+* [Você devia ensinar o que sabe (mesmo não sendo um especialista)](http://papodehomem.com.br/voce-devia-ensinar-o-que-sabe-mesmo-nao-sendo-um-especialista/)

@@ -56,3 +56,4 @@
 * [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 * [ng-docs: date](https://docs.angularjs.org/api/ng/filter/date)
 * [How to set div width using ng-style](http://stackoverflow.com/questions/20287241/how-to-set-div-width-using-ng-style)
+* [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma?utm_source=javascriptweekly&utm_medium=email#/1-unit-testing-basics)
