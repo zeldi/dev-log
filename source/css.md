@@ -35,3 +35,4 @@
 * [CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
 * [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
 * [ITCSS: pensando em uma arquitetura CSS](http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/)
+* [PACE - Automatic page load progress bar](http://github.hubspot.com/pace/docs/welcome/)

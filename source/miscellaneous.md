@@ -157,3 +157,5 @@
 * [Website Style Guide Resources](http://styleguides.io/)
 * [O que designers tem a aprender com desenvolvedores?](https://medium.com/@pedro_designer/o-que-designers-tem-a-aprender-com-desenvolvedores-dbdd365c14ea)
 * [Você devia ensinar o que sabe (mesmo não sendo um especialista)](http://papodehomem.com.br/voce-devia-ensinar-o-que-sabe-mesmo-nao-sendo-um-especialista/)
+* [Murphy's law for programmers](http://www.bymichaellancaster.com/blog/murphys-law-for-programming-programmers/)
+* [Tocar é como “exercício físico” para o cérebro](http://guitarload.com.br/noticia/tocar-e-como-exercicio-fisico-para-o-cerebro.html)
