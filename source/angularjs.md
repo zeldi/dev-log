@@ -57,3 +57,4 @@
 * [ng-docs: date](https://docs.angularjs.org/api/ng/filter/date)
 * [How to set div width using ng-style](http://stackoverflow.com/questions/20287241/how-to-set-div-width-using-ng-style)
 * [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma?utm_source=javascriptweekly&utm_medium=email#/1-unit-testing-basics)
+* [ngChecked](https://docs.angularjs.org/api/ng/directive/ngChecked)
