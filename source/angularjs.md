@@ -58,3 +58,6 @@
 * [How to set div width using ng-style](http://stackoverflow.com/questions/20287241/how-to-set-div-width-using-ng-style)
 * [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma?utm_source=javascriptweekly&utm_medium=email#/1-unit-testing-basics)
 * [ngChecked](https://docs.angularjs.org/api/ng/directive/ngChecked)
+* [Working with select using Angular's ng-options](http://stackoverflow.com/questions/13047923/working-with-select-using-angulars-ng-options)
+* [angularjs value vs factory](http://stackoverflow.com/questions/16026096/angularjs-value-vs-factory)
+* [ngClass](https://docs.angularjs.org/api/ng/directive/ngClass)
