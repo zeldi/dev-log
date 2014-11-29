@@ -24,9 +24,17 @@
 * [Refresh NerdTree](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
 * [Using tab pages](http://vim.wikia.com/wiki/Using_tab_pages)
 * [Change 4 spaces to 2 spaces indentation - Vim](https://gist.github.com/ericdouglas/72621cb47b368297feaa)
+* [How to use Vim auto-complete](https://docs.oseems.com/general/application/vim/enable-auto-complete)
+* [Vim Essential Plugin: SnipMate](https://code.tutsplus.com/tutorials/vim-essential-plugin-snipmate--net-19356)
+* [Toggle auto-indenting for code paste](http://vim.wikia.com/wiki/Toggle_auto-indenting_for_code_paste)
+* [Indent multiple lines quickly in vi](http://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
+* [Learning Vim in 2014](http://benmccormick.org/tag/learning-vim-in-2014/)
+* [Accessing the system clipboard - need to install vim-gnome!!!](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
+* [Folding](http://vim.wikia.com/wiki/Folding)
 
 ## Vim Plugins
 
+* [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 * [Emmet-vim](https://github.com/mattn/emmet-vim/)
@@ -41,3 +49,5 @@
 * [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 * [vim-airline](https://github.com/bling/vim-airline)
 * [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
+* [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+* [vim-snipmate](https://github.com/garbas/vim-snipmate)

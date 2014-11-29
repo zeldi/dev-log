@@ -159,3 +159,6 @@
 * [Você devia ensinar o que sabe (mesmo não sendo um especialista)](http://papodehomem.com.br/voce-devia-ensinar-o-que-sabe-mesmo-nao-sendo-um-especialista/)
 * [Murphy's law for programmers](http://www.bymichaellancaster.com/blog/murphys-law-for-programming-programmers/)
 * [Tocar é como “exercício físico” para o cérebro](http://guitarload.com.br/noticia/tocar-e-como-exercicio-fisico-para-o-cerebro.html)
+* [Get that job at Google](http://steve-yegge.blogspot.com.br/2008/03/get-that-job-at-google.html)
+* [The Principle of Least Power](http://blog.codinghorror.com/the-principle-of-least-power/)
+* [Design Patterns can be evil](http://blog.feliperibeiro.com/design-patterns-can-be-evil/)
