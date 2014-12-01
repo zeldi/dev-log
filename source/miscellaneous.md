@@ -162,3 +162,4 @@
 * [Get that job at Google](http://steve-yegge.blogspot.com.br/2008/03/get-that-job-at-google.html)
 * [The Principle of Least Power](http://blog.codinghorror.com/the-principle-of-least-power/)
 * [Design Patterns can be evil](http://blog.feliperibeiro.com/design-patterns-can-be-evil/)
+* [Porque você deveria aprender várias linguagens de programação](http://elcio.com.br/aprender-varias-linguagens-de-programacao/)
