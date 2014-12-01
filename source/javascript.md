@@ -80,3 +80,4 @@
 * [How to short circuit Array.forEach like calling break](http://stackoverflow.com/questions/2641347/how-to-short-circuit-array-foreach-like-calling-break)
 * [toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)
 * [algorithms.js](https://github.com/felipernb/algorithms.js)
+* [Calculate distance between 2 GPS coordinates](http://stackoverflow.com/questions/365826/calculate-distance-between-2-gps-coordinates)

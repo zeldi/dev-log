@@ -31,6 +31,7 @@
 * [Learning Vim in 2014](http://benmccormick.org/tag/learning-vim-in-2014/)
 * [Accessing the system clipboard - need to install vim-gnome!!!](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 * [Folding](http://vim.wikia.com/wiki/Folding)
+* [How to comment multiple lines at once](http://unix.stackexchange.com/questions/120615/how-to-comment-multiple-lines-at-once)
 
 ## Vim Plugins
 
