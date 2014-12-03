@@ -15,4 +15,7 @@
 1. [$cordovaFile](http://ngcordova.com/docs/#File)
 1. [ngCordova $cordovaFile save file](http://forum.ionicframework.com/t/ngcordova-cordovafile-save-file-to-camera-roll/10409)
 1. [Cordova File Plugin](http://plugins.cordova.io/#/package/org.apache.cordova.file)
+1. [$ionicLoading](http://ionicframework.com/docs/api/service/$ionicLoading/)
+1. []()
+1. []()
 1. []()
