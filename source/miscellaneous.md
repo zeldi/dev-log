@@ -163,3 +163,7 @@
 * [The Principle of Least Power](http://blog.codinghorror.com/the-principle-of-least-power/)
 * [Design Patterns can be evil](http://blog.feliperibeiro.com/design-patterns-can-be-evil/)
 * [Porque você deveria aprender várias linguagens de programação](http://elcio.com.br/aprender-varias-linguagens-de-programacao/)
+* [Doping natural: atletas que dormem mais horas têm desempenho superior](http://globoesporte.globo.com/programas/esporte-espetacular/noticia/2014/11/doping-natural-atletas-que-dormem-mais-horas-tem-desempenho-superior.html)
+* [About latitude and longitude](http://msdn.microsoft.com/en-us/library/aa578799.aspx)
+* [Estudo comprova que meditação pode de fato alterar as células do corpo](http://www.hypeness.com.br/2014/11/estudo-comprova-que-meditacao-pode-de-fato-alterar-as-celulas-do-corpo/)
+* [Calculate distance, bearing and more between Latitude/Longitude points](http://www.movable-type.co.uk/scripts/latlong.html)
