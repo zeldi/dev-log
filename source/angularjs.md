@@ -61,3 +61,8 @@
 * [Working with select using Angular's ng-options](http://stackoverflow.com/questions/13047923/working-with-select-using-angulars-ng-options)
 * [angularjs value vs factory](http://stackoverflow.com/questions/16026096/angularjs-value-vs-factory)
 * [ngClass](https://docs.angularjs.org/api/ng/directive/ngClass)
+* [AngularJS Best Practices #001: Constants](http://twofuckingdevelopers.com/2014/06/angularjs-best-practices-001-constants/)
+* [ngDialog](https://github.com/likeastore/ngDialog)
+* []()
+* []()
+* []()

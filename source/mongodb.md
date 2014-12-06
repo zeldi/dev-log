@@ -7,3 +7,8 @@
 * [dropDatabase](http://docs.mongodb.org/manual/reference/command/dropDatabase/)
 * [$unset](http://docs.mongodb.org/manual/reference/operator/update/unset/)
 * [Importing JSON file using mongimport](http://stackoverflow.com/questions/16500127/importing-json-file-using-mongimport-keep-getting-unexpected-identifier)
+* [mongorestore](http://docs.mongodb.org/manual/reference/program/mongorestore/)
+* []()
+* []()
+* []()
+* []()
