@@ -12,6 +12,7 @@
 * [Why Dribbble Isn’t That Horibbble](https://medium.com/design-ux/why-dribbble-isnt-that-horibbble-862d9dbc8d07)
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html)
 * [Essa ótima série de GIFs explica conceitos do design responsivo](http://www.brainstorm9.com.br/52963/design/essa-otima-serie-de-gifs-explica-alguns-conceitos-design-responsivo/)
+* [flatuicolors](http://flatuicolors.com/)
 
 ## Inspiration
 
