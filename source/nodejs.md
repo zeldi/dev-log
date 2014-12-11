@@ -37,6 +37,6 @@
 * [Before the Drama](http://hueniverse.com/2014/12/04/before-the-drama/)
 * [io.js](https://gist.github.com/maxogden/d96123138522c84cdb25)
 * [Fragmentation](https://medium.com/node-js-javascript/fragmentation-7e87d28f60fe)
-* []()
+* [Node.js is forked, not f***ed](http://wesleyio.tumblr.com/post/104637877991/node-js-is-forked-not-f-ed?utm_source=nodeweekly&utm_medium=email)
 * []()
 * []()
