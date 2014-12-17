@@ -70,5 +70,8 @@
 * [angularjs: ng-repeat's 'track by' expression](http://stackoverflow.com/questions/22761340/angularjs-ng-repeats-track-by-expression)
 * [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications?utm_source=javascriptweekly&utm_medium=email)
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS](https://medium.com/make-your-own-apps/facebooks-new-react-javascript-library-tutorial-rewritten-in-angularjs-e71bcedc36b)
+* [instacode haha](http://instacod.es/96979)
+* [ngKeypress](https://docs.angularjs.org/api/ng/directive/ngKeypress)
+* []()
 * []()
 * []()
