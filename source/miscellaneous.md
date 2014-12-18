@@ -194,7 +194,7 @@
 * [Júnior, pleno ou sênior: você sabe lidar com essa classificação?](http://www.administradores.com.br/noticias/carreira/junior-pleno-ou-senior-voce-sabe-lidar-com-essa-classificacao/52132/)
 * [instacod.es](http://instacod.es/)
 * [Right Relevance - awesome curated lists](http://rightrelevance.com/)
-* []()
+* [You Too May Be A Victim Of Developaralysis](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/?utm_content=buffer2d6aa&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * []()
 * []()
 * []()
