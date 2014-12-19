@@ -39,6 +39,6 @@
 * [Fragmentation](https://medium.com/node-js-javascript/fragmentation-7e87d28f60fe)
 * [Node.js is forked, not f***ed](http://wesleyio.tumblr.com/post/104637877991/node-js-is-forked-not-f-ed?utm_source=nodeweekly&utm_medium=email)
 * [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications?utm_source=nodeweekly&utm_medium=email)
-* []()
+* [The Node Way](http://thenodeway.io/)
 * []()
 * []()
