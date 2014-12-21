@@ -18,3 +18,8 @@
 * [Git - how delete file from remote repository](http://stackoverflow.com/questions/9701238/git-how-delete-file-from-remote-repository)
 * [Creating Project Pages manually](https://help.github.com/articles/creating-project-pages-manually/)
 * [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)
+* [Git Basics - Tagging](http://git-scm.com/book/en/v2/Git-Basics-Tagging)
+* [Creating Releases](https://help.github.com/articles/creating-releases/)
+* []()
+* []()
+* []()
