@@ -40,5 +40,8 @@
 * [Node.js is forked, not f***ed](http://wesleyio.tumblr.com/post/104637877991/node-js-is-forked-not-f-ed?utm_source=nodeweekly&utm_medium=email)
 * [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications?utm_source=nodeweekly&utm_medium=email)
 * [The Node Way](http://thenodeway.io/)
+* [Netflix Queimado pelo Express.js](http://www.infoq.com/br/news/2014/12/expressjs-burned-netflix)
+* []()
+* []()
 * []()
 * []()
