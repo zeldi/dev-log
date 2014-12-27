@@ -44,7 +44,7 @@
 * [How I Work Around The require(“../../../../../../../”) Problem In NodeJS](http://lostechies.com/derickbailey/2014/02/20/how-i-work-around-the-require-problem-in-nodejs/)
 * [Creating and publishing a nodejs module](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
 * [NodeICO](https://nodei.co/)
-* []()
+* [Better local require() paths for Node.js](https://gist.github.com/branneman/8048520)
 * []()
 * []()
 * []()

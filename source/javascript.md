@@ -94,7 +94,7 @@
 * [Arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 * [[].forEach.call](http://stackoverflow.com/questions/16053357/what-does-foreach-call-do-in-javascript)
 * [Make a “click” event fire programmatically](http://stackoverflow.com/questions/210643/in-javascript-can-i-make-a-click-event-fire-programmatically-for-a-file-input)
-* []()
+* [@use JSDoc](http://usejsdoc.org/tags-param.html)
 * []()
 * []()
 * []()
