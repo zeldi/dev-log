@@ -45,7 +45,7 @@
 * [Creating and publishing a nodejs module](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
 * [NodeICO](https://nodei.co/)
 * [Better local require() paths for Node.js](https://gist.github.com/branneman/8048520)
-* []()
+* [Why code in Node.js often get rejected by SoundCloud](http://pt.slideshare.net/pcalcado/why-code-in-nodejs-often-get-rejected-by-soundcloud?next_slideshow=1)
 * []()
 * []()
 * []()
