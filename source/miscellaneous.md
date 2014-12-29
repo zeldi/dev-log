@@ -208,7 +208,7 @@
 * [Practicing Slowness & Being Present](http://zenhabits.net/practice/)
 * [Overwhelmed by All the Changes You Want to Make](http://zenhabits.net/marathon/)
 * [The Brain’s Fast Mode](http://zenhabits.net/whoosh/)
-* [Being a noob](http://blog.millermedeiros.com/noob/)
+* [Being a noob](http://blog.millermedeiros.com/noob/ )
 * []()
 * []()
 * []()
