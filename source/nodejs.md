@@ -46,6 +46,6 @@
 * [NodeICO](https://nodei.co/)
 * [Better local require() paths for Node.js](https://gist.github.com/branneman/8048520)
 * [Why code in Node.js often get rejected by SoundCloud](http://pt.slideshare.net/pcalcado/why-code-in-nodejs-often-get-rejected-by-soundcloud?next_slideshow=1)
-* []()
+* [npm’s year in numbers: 2014](http://blog.npmjs.org/post/106746762635/npms-year-in-numbers-2014?utm_source=nodeweekly&utm_medium=email)
 * []()
 * []()
