@@ -18,3 +18,10 @@
 
 * [HTML5 Up](http://html5up.net/)
 * [Drag and Drop Interaction Ideas](http://tympanus.net/Development/DragDropInteractions/index.html)
+* [10 best admin templates for your next web project](http://shivrajchari.com/blog/10-best-admin-templates-for-your-next-web-project/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()

@@ -209,7 +209,7 @@
 * [Overwhelmed by All the Changes You Want to Make](http://zenhabits.net/marathon/)
 * [The Brain’s Fast Mode](http://zenhabits.net/whoosh/)
 * [Being a noob](http://blog.millermedeiros.com/noob/ )
-* []()
+* [Novo Simples Nacional já está valendo](http://www.administradores.com.br/noticias/empreendedorismo/novo-simples-nacional-ja-esta-valendo/96732/)
 * []()
 * []()
 * []()
