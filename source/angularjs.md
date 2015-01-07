@@ -75,6 +75,7 @@
 * [filters on ng-model in an input](http://stackoverflow.com/questions/14419651/filters-on-ng-model-in-an-input)
 * [AngularJS ngClass conditional](http://stackoverflow.com/questions/16529825/angularjs-ngclass-conditional)
 * [ngMouseup](https://docs.angularjs.org/api/ng/directive/ngMouseup)
+* [A better way to learn angularjs](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
 * []()
 * []()
 * []()
