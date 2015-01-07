@@ -74,7 +74,7 @@
 * [ngKeypress](https://docs.angularjs.org/api/ng/directive/ngKeypress)
 * [filters on ng-model in an input](http://stackoverflow.com/questions/14419651/filters-on-ng-model-in-an-input)
 * [AngularJS ngClass conditional](http://stackoverflow.com/questions/16529825/angularjs-ngclass-conditional)
-* []()
+* [ngMouseup](https://docs.angularjs.org/api/ng/directive/ngMouseup)
 * []()
 * []()
 * []()
