@@ -102,7 +102,7 @@
 * [Don't Make Javascript Equality Look Worse Than It Is](http://strilanc.com/visualization/2014/03/27/Better-JS-Equality-Table.html)
 * [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 2/3](http://blog.da2k.com.br/2015/01/04/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-2-3/)
 * [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 3/3](http://blog.da2k.com.br/2015/01/05/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-3-3/)
-* []()
+* [Javascript - Medindo o tempo de suas instruções](http://blog.da2k.com.br/2015/01/08/javascript-medindo-o-tempo-de-suas-instrucoes/)
 * []()
 * []()
 * []()
