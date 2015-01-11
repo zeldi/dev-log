@@ -48,7 +48,7 @@
 * [Why code in Node.js often get rejected by SoundCloud](http://pt.slideshare.net/pcalcado/why-code-in-nodejs-often-get-rejected-by-soundcloud?next_slideshow=1)
 * [npm’s year in numbers: 2014](http://blog.npmjs.org/post/106746762635/npms-year-in-numbers-2014?utm_source=nodeweekly&utm_medium=email)
 * [Support](https://github.com/RisingStack/support)
-* []()
+* [Node.js Algorithm Modules](https://github.com/tejasmanohar/npm-algos?utm_source=nodeweekly&utm_medium=email)
 * []()
 * []()
 * []()
