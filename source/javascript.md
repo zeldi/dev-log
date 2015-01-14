@@ -104,7 +104,7 @@
 * [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 3/3](http://blog.da2k.com.br/2015/01/05/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-3-3/)
 * [Javascript - Medindo o tempo de suas instruções](http://blog.da2k.com.br/2015/01/08/javascript-medindo-o-tempo-de-suas-instrucoes/)
 * [Code Coverage em Javascript](http://blog.da2k.com.br/2015/01/07/code-coverage-em-javascript/)
-* []()
+* [You're Missing the Point of Promises](https://gist.github.com/domenic/3889970)
 * []()
 * []()
 * []()
