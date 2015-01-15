@@ -10,5 +10,7 @@
 * [mongorestore](http://docs.mongodb.org/manual/reference/program/mongorestore/)
 * [Create an Auto-Incrementing Sequence Field](http://docs.mongodb.org/manual/tutorial/create-an-auto-incrementing-field/)
 * [Auto Increment with MongoDB](http://shiflett.org/blog/2010/jul/auto-increment-with-mongodb)
+* [$in](http://docs.mongodb.org/manual/reference/operator/query/in/)
+* []()
 * []()
 * []()
