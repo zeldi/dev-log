@@ -20,6 +20,6 @@
 * [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)
 * [Git Basics - Tagging](http://git-scm.com/book/en/v2/Git-Basics-Tagging)
 * [Creating Releases](https://help.github.com/articles/creating-releases/)
-* []()
+* [Segredos do Github - Variáveis](http://blog.da2k.com.br/2015/01/16/segredos-do-github-variaveis/)
 * []()
 * []()

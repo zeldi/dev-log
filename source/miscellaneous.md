@@ -212,6 +212,6 @@
 * [Novo Simples Nacional já está valendo](http://www.administradores.com.br/noticias/empreendedorismo/novo-simples-nacional-ja-esta-valendo/96732/)
 * [Cientistas comprovam a reencarnação humana](http://www.duniverso.com.br/cientistas-comprovam-reencarnacao-humana/)
 * [Pensando TDD com Javascript](http://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
-* []()
+* [Como ser um dev frontend usando Linux](http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/)
 * []()
 * []()

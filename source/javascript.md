@@ -105,7 +105,7 @@
 * [Javascript - Medindo o tempo de suas instruções](http://blog.da2k.com.br/2015/01/08/javascript-medindo-o-tempo-de-suas-instrucoes/)
 * [Code Coverage em Javascript](http://blog.da2k.com.br/2015/01/07/code-coverage-em-javascript/)
 * [You're Missing the Point of Promises](https://gist.github.com/domenic/3889970)
-* []()
+* [Check if an object has a property](http://stackoverflow.com/questions/135448/how-do-i-check-if-an-object-has-a-property-in-javascript)
 * []()
 * []()
 * []()

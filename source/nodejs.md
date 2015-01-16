@@ -52,7 +52,7 @@
 * [How-to Compose Node.js Promises with Q](http://strongloop.com/strongblog/how-to-compose-node-js-promises-with-q/)
 * [Promises in Node.js with Q – An Alternative to Callbacks](http://strongloop.com/strongblog/promises-in-node-js-with-q-an-alternative-to-callbacks/)
 * [Linking promises](http://bahmutov.calepin.co/linking-promises.html)
-* []()
+* [Building With Node.js At LinkedIn](https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/)
 * []()
 * []()
 * []()
