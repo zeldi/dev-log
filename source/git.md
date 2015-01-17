@@ -21,5 +21,5 @@
 * [Git Basics - Tagging](http://git-scm.com/book/en/v2/Git-Basics-Tagging)
 * [Creating Releases](https://help.github.com/articles/creating-releases/)
 * [Segredos do Github - Variáveis](http://blog.da2k.com.br/2015/01/16/segredos-do-github-variaveis/)
-* []()
+* [Segredos do Github - Tabelas e Task lists](http://blog.da2k.com.br/2015/01/17/segredos-do-github-tabelas-e-task-lists/)
 * []()
