@@ -81,7 +81,7 @@
 * [Who has moved away from AngularJS? To what and why?](https://www.linkedin.com/groups/Who-has-moved-away-from-121615.S.5960933116385193985?view=&item=5960933116385193985&type=member&gid=121615&trk=eml-b2_anet_digest-hero-10-hero-disc-disc-0&midToken=AQHJuXlEFghw0A&fromEmail=fromEmail&ut=3lKfQI3xl7tmA1)
 * [Date filter](https://docs.angularjs.org/api/ng/filter/date)
 * [AngularJS passing data to $http.get request](http://stackoverflow.com/questions/13760070/angularjs-passing-data-to-http-get-request)
-* []()
+* [angular morris chart](https://angular-morris-chart.stpa.co/)
 * []()
 * []()
 * []()
