@@ -53,6 +53,6 @@
 * [Promises in Node.js with Q – An Alternative to Callbacks](http://strongloop.com/strongblog/promises-in-node-js-with-q-an-alternative-to-callbacks/)
 * [Linking promises](http://bahmutov.calepin.co/linking-promises.html)
 * [Building With Node.js At LinkedIn](https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/)
-* []()
+* [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
 * []()
 * []()
