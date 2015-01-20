@@ -110,6 +110,6 @@
 * [Iterate over object](http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members)
 * [Iterate over object with Object.keys()](http://stackoverflow.com/a/5737192) - [code](http://jsbin.com/pemezujiku/1/edit)
 * [Most elegant way to clone a JavaScript object](http://stackoverflow.com/questions/728360/most-elegant-way-to-clone-a-javascript-object)
-* []()
+* [Date.prototype.toISOString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString)
 * []()
 * []()
