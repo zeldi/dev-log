@@ -82,6 +82,6 @@
 * [Date filter](https://docs.angularjs.org/api/ng/filter/date)
 * [AngularJS passing data to $http.get request](http://stackoverflow.com/questions/13760070/angularjs-passing-data-to-http-get-request)
 * [angular morris chart](https://angular-morris-chart.stpa.co/)
-* []()
-* []()
+* [3 Simple Tips for Using UI-Router](https://scotch.io/tutorials/3-simple-tips-for-using-ui-router)
+* [URL Routing - ui-router](https://github.com/angular-ui/ui-router/wiki/URL-Routing#url-parameters)
 * []()
