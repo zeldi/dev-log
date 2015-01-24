@@ -217,6 +217,6 @@
 * [Improve Your Reputation on Stack Overflow with Filters](http://blog.gadr.me/stack-overflow-habit/)
 * [Meu dia a dia como desenvolvedor Front-End](http://www.felipefialho.com/blog/2015/meu-dia-a-dia-como-dev-frontend/#.VL9T01Xd_VM)
 * [The Contentment Habit](http://zenhabits.net/miraculous/)
-* []()
+* [Não saia da entrevista de emprego sem fazer estas perguntas](http://exame.abril.com.br/carreira/noticias/nao-saia-da-entrevista-de-emprego-sem-fazer-estas-perguntas)
 * []()
 * []()
