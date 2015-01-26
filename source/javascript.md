@@ -114,6 +114,6 @@
 * [Online JavaScript Tutor](http://jstutor.herokuapp.com/#mode=display)
 * [How to get current epoch/unix time in JS](http://stackoverflow.com/questions/9575790/how-to-get-current-epoch-unix-time-in-js)
 * [moment-precise-range](https://github.com/codebox/moment-precise-range)
-* []()
+* [How to start with JavaScript](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 * []()
 * []()
