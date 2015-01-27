@@ -8,5 +8,8 @@
 1. [Population](http://mongoosejs.com/docs/populate.html)
 1. [Select fields in deep population](https://github.com/LearnBoost/mongoose/issues/1377#issuecomment-20471748)
 1. [How to optimize this query with $and and $or](http://stackoverflow.com/questions/13437499/how-to-optimize-this-query-with-and-and-or)
+1. [.sort()](http://mongoosejs.com/docs/api.html#query_Query-sort)
+1. [.skip()](http://mongoosejs.com/docs/api.html#query_Query-skip)
+1. [.limit()](http://mongoosejs.com/docs/api.html#query_Query-limit)
 1. []()
 1. []()
