@@ -219,7 +219,7 @@
 * [The Contentment Habit](http://zenhabits.net/miraculous/)
 * [Não saia da entrevista de emprego sem fazer estas perguntas](http://exame.abril.com.br/carreira/noticias/nao-saia-da-entrevista-de-emprego-sem-fazer-estas-perguntas)
 * [The Coding Love - Epic gifs for developers](http://thecodinglove.com/)
-* []()
+* [Como me tornei um Front-End](http://www.jkury.com/como-me-tornei-um-frontend/)
 * []()
 * []()
 * []()

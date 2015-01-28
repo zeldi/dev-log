@@ -9,3 +9,4 @@
   * [dictionary.com](http://dictionary.reference.com/)
   * [Oxford Dictionaries](http://www.oxforddictionaries.com/)
   * [Linguee](http://www.linguee.com.br/)
+* [Inglês. Sim, você precisa saber.](http://viniciusdacal.com/ingles/2015/01/22/ingles-sim-voce-precisa-aprender.html)
