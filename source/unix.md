@@ -8,7 +8,7 @@
 * [Mozilla Firefox Nightly - Instalação fácil no Ubuntu](http://www.vivaolinux.com.br/dica/Mozilla-Firefox-Nightly-Instalacao-facil-no-Ubuntu)
 * [How To Customize Linux Mint / Ubuntu Terminal](http://www.ihaveapc.com/2011/07/how-to-customize-linux-mint-ubuntu-terminal/)
 * [Permission drwxrwxr -x [duplicate]](http://askubuntu.com/questions/409076/permission-drwxrwxr-x)
-* []()
+* [Descobrindo que processo está consumindo mais memória](http://www.vivaolinux.com.br/dica/Descobrindo-que-processo-esta-consumindo-mais-memoria)
 * []()
 * []()
 * []()
