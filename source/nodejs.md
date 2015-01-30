@@ -55,7 +55,7 @@
 * [Building With Node.js At LinkedIn](https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/)
 * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
 * [Projetos usando Node.js](https://www.facebook.com/groups/nodejsbrasil/permalink/599080660225225/)
-* []()
+* [NoSQL - Arquitetura híbrida para uma rede social](http://nomadev.com.br/nosql-arquitetura-h%C3%ADbrida-para-uma-rede-social/)
 * []()
 * []()
 * []()

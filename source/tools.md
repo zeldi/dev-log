@@ -1,6 +1,5 @@
 # Tools
 
-* [Testes Scinronizados entre Dispositivos Móveis](http://www.vitorbritto.com.br/blog/testes-sincronizados-entre-dispositivos-moveis/)
 * [LayoutIt - Free Interface Builder](http://www.layoutit.com/)
 * [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 * [Subtle Patterns](http://subtlepatterns.com/)
@@ -26,7 +25,7 @@
 * [https://about.gitlab.com/](https://about.gitlab.com/)
 * [StackShare - The top stacks and combinations of tools and services](http://stackshare.io/stacks)
 * [Code Coverage - Blanket.js](http://blanketjs.org/)
-* []()
+* [Slack](https://slack.com/)
 * []()
 * []()
 * []()
