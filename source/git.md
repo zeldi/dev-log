@@ -23,7 +23,7 @@
 * [Segredos do Github - Variáveis](http://blog.da2k.com.br/2015/01/16/segredos-do-github-variaveis/)
 * [Segredos do Github - Tabelas e Task lists](http://blog.da2k.com.br/2015/01/17/segredos-do-github-tabelas-e-task-lists/)
 * [Segredos do Github - Imagens](http://blog.da2k.com.br/2015/01/26/segredos-do-github-imagens/)
-* []()
+* [Segredos do Github - mantendo a ordem no seu repositório](http://blog.da2k.com.br/2015/02/01/segredos-do-github-mantendo-a-ordem-no-seu-repositorio/)
 * []()
 * []()
 * []()
