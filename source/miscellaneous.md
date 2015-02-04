@@ -222,6 +222,6 @@
 * [Como me tornei um Front-End](http://www.jkury.com/como-me-tornei-um-frontend/)
 * [Seu código não é uma obra prima](http://www.jkury.com/seu-codigo-nao-e-uma-obra-prima/)
 * [Porque os jovens profissionais da geração Y estão infelizes](https://demografiaunicamp.wordpress.com/2013/10/30/porque-os-jovens-profissionais-da-geracao-y-estao-infelizes/)
-* []()
+* [Programadores PHP: 10 Coisas que você NÃO deve Fazer!](https://medium.com/@hernandev/programadores-php-10-coisas-que-voce-nao-deve-fazer-67a537029cbb)
 * []()
 * []()
