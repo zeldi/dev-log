@@ -1,4 +1,10 @@
 # UX/UI
 
-* [GoodUI](http://www.goodui.org/)
-* [Stop creating products, start creating experiences](https://medium.com/@bernarddeluna/stop-creating-products-start-creating-experiences-9dad6c1ea1e8)
+1. [GoodUI](http://www.goodui.org/)
+1. [Stop creating products, start creating experiences](https://medium.com/@bernarddeluna/stop-creating-products-start-creating-experiences-9dad6c1ea1e8)
+1. [A importância em mostrar progresso no desenvolvimento front-end de um produto](http://arquiteturadeinformacao.com/mercado-e-carreira/a-importancia-em-mostrar-progresso-no-desenvolvimento-front-end-de-um-produto/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()

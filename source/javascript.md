@@ -116,7 +116,7 @@
 * [moment-precise-range](https://github.com/codebox/moment-precise-range)
 * [How to start with JavaScript](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 * [Creating multiples objects from a map](https://gist.github.com/ericdouglas/6816c63c9801b696ce02)
-* []()
+* [Server-First Apps are a Good Idea](http://ponyfoo.com/articles/server-first-apps)
 * []()
 * []()
 * []()
