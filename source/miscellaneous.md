@@ -224,7 +224,7 @@
 * [Porque os jovens profissionais da geração Y estão infelizes](https://demografiaunicamp.wordpress.com/2013/10/30/porque-os-jovens-profissionais-da-geracao-y-estao-infelizes/)
 * [Programadores PHP: 10 Coisas que você NÃO deve Fazer!](https://medium.com/@hernandev/programadores-php-10-coisas-que-voce-nao-deve-fazer-67a537029cbb)
 * [A mente de Artur Avila](http://super.abril.com.br/ciencia/mente-artur-avila-823281.shtml?utm_source=redesabril_jovem&utm_medium=twitter&utm_campaign=redesabril_super&fb_action_ids=10153002257393895&fb_action_types=og.likes)
-* []()
+* [DEVO FAZER FACULDADE?](http://willianjusten.com.br/devo-fazer-faculdade/)
 * []()
 * []()
 * []()

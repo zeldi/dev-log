@@ -1,6 +1,7 @@
 # <a id="nodejs">❤</a> Node.JS
 
 * [NodeJS Docs](http://nodejs.org/api/)
+* [Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
 * [Absolute Beginners Guide to Node.JS](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 * [Node.js In Action](http://www.infoq.com/articles/nodejs-in-action/)
 * [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
@@ -56,6 +57,5 @@
 * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
 * [Projetos usando Node.js](https://www.facebook.com/groups/nodejsbrasil/permalink/599080660225225/)
 * [NoSQL - Arquitetura híbrida para uma rede social](http://nomadev.com.br/nosql-arquitetura-h%C3%ADbrida-para-uma-rede-social/)
-* []()
 * []()
 * []()
