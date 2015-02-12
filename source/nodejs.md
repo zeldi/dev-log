@@ -58,7 +58,7 @@
 * [Projetos usando Node.js](https://www.facebook.com/groups/nodejsbrasil/permalink/599080660225225/)
 * [NoSQL - Arquitetura híbrida para uma rede social](http://nomadev.com.br/nosql-arquitetura-h%C3%ADbrida-para-uma-rede-social/)
 * [Nodejitsu joins GoDaddy](http://blog.nodejitsu.com/nodejitsu-joins-godaddy/)
-* []()
+* [Joyent Moves to Establish Node.js Foundation](https://www.joyent.com/about/press/joyent-moves-to-establish-nodejs-foundation)
 * []()
 * []()
 * []()
