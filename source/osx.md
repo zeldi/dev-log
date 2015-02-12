@@ -6,3 +6,8 @@
 1. []()
 1. []()
 1. []()
+
+## Essentials
+
+* [Homebrew - The missing package manager for OS X](http://brew.sh/)
+* [iTerm2](http://iterm2.com/)
