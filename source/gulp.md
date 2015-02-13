@@ -13,3 +13,4 @@
 * [LIVERELOAD MAGIC, GULP STYLE!](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 * [My gulpfile.js](https://gist.github.com/ericdouglas/8855147)
 * [Gulpfile with Livereload, Nodemon, and other features](https://gist.github.com/Hendrixer/9939346)
+* [Gulpfile example](https://gist.github.com/demisx/beef93591edc1521330a)

@@ -225,6 +225,6 @@
 * [Programadores PHP: 10 Coisas que você NÃO deve Fazer!](https://medium.com/@hernandev/programadores-php-10-coisas-que-voce-nao-deve-fazer-67a537029cbb)
 * [A mente de Artur Avila](http://super.abril.com.br/ciencia/mente-artur-avila-823281.shtml?utm_source=redesabril_jovem&utm_medium=twitter&utm_campaign=redesabril_super&fb_action_ids=10153002257393895&fb_action_types=og.likes)
 * [DEVO FAZER FACULDADE?](http://willianjusten.com.br/devo-fazer-faculdade/)
-* []()
+* [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 * []()
 * []()
