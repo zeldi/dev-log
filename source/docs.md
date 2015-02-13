@@ -1,0 +1,16 @@
+# Docs
+
+1. [Documentation is freaking awesome](http://warpspire.com/talks/documentation/)
+1. [Teach, Don’t Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
+1. [WRITING GREAT DOCUMENTATION](http://jacobian.org/writing/great-documentation/)
+1. [The Science of Scientific Writing](http://www.americanscientist.org/issues/id.877,y.0,no.,content.true,page.1,css.print/issue.aspx)
+1. [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/)
+1. [GitHub Developer (inspiration)](https://developer.github.com/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
