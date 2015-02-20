@@ -26,6 +26,6 @@
 * [StackShare - The top stacks and combinations of tools and services](http://stackshare.io/stacks)
 * [Code Coverage - Blanket.js](http://blanketjs.org/)
 * [Slack](https://slack.com/)
-* []()
+* [RequestBin - Inspect HTTP Requests](http://requestb.in/)
 * []()
 * []()
