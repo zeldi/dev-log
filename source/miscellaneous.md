@@ -227,4 +227,8 @@
 * [DEVO FAZER FACULDADE?](http://willianjusten.com.br/devo-fazer-faculdade/)
 * [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 * [Open Source como base](https://medium.com/brasil/open-source-como-base-2136b6890d)
+* [Entenda por que Steve Jobs era tão duro com funcionários da Apple](http://info.abril.com.br/noticias/carreira/2015/02/entenda-por-que-steve-jobs-era-tao-cruel-com-funcionarios-da-apple.shtml)
+* []()
+* []()
+* []()
 * []()

@@ -8,7 +8,7 @@
 * [Fui rejeitado por Harvard 10 vezes, diz fundador do Alibaba](http://exame.abril.com.br/carreira/noticias/fui-rejeitado-por-harvard-10-vezes-diz-fundador-do-alibaba)
 * [Jorge Paulo Lemann - O que aprendi em Harvard (1/2)](https://www.youtube.com/watch?v=rhaeYj7cln0)
 * [Jorge Paulo Lemann - O que aprendi em Harvard (2/2)](https://www.youtube.com/watch?v=UnnGa_iCm74)
-* []()
+* [6 verdades chocantes que irão fazer de você uma pessoa melhor](http://www.libertarianismo.org/index.php/artigos/6-verdades-chocantes-que-irao-fazer-de-voce-uma-pessoa-melhor/)
 * []()
 * []()
 * []()
