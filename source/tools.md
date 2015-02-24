@@ -27,5 +27,5 @@
 * [Code Coverage - Blanket.js](http://blanketjs.org/)
 * [Slack](https://slack.com/)
 * [RequestBin - Inspect HTTP Requests](http://requestb.in/)
-* []()
+* [POSTMAN package app](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
 * []()
