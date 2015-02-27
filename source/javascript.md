@@ -119,7 +119,7 @@
 * [Server-First Apps are a Good Idea](http://ponyfoo.com/articles/server-first-apps)
 * [WAT](https://www.destroyallsoftware.com/talks/wat)
 * [[ Javascript ] BEST PRACTICES](http://www.devbattles.com/en/sand/post-793-%5B+Javascript+%5D+BEST+PRACTICES)
-* []()
+* [Javascript - como funcionam as funções recursivas](http://blog.da2k.com.br/2015/02/27/javascript-como-funcionam-as-funcoes-recursivas/)
 * []()
 * []()
 * []()
