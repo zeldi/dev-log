@@ -121,6 +121,6 @@
 * [[ Javascript ] BEST PRACTICES](http://www.devbattles.com/en/sand/post-793-%5B+Javascript+%5D+BEST+PRACTICES)
 * [Javascript - como funcionam as funções recursivas](http://blog.da2k.com.br/2015/02/27/javascript-como-funcionam-as-funcoes-recursivas/)
 * [Frontend lindo usando Babel para rodar ES6](http://udgwebdev.com/frontend-lindo-usando-babel-para-rodar-es6/)
-* []()
+* [Stabilizing ECMAScript 2015 (ES6): Teaming up with TC39 and Google on Test262](http://bocoup.com/weblog/stabilizing-es6')
 * []()
 * []()
