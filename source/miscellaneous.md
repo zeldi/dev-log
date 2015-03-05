@@ -236,7 +236,7 @@
 * [Computação cognitiva, a próxima fronteira no exercício da tecnologia do futuro‬](http://www.valor.com.br/video/3971692731001/computacao-cognitiva-a-proxima-fronteira-no-exercicio-da-tecnologia-do-futuro)
 * [‘Internet das Coisas’: entenda o conceito e o que muda com a tecnologia](http://www.techtudo.com.br/noticias/noticia/2014/08/internet-das-coisas-entenda-o-conceito-e-o-que-muda-com-tecnologia.html)
 * [O que é Computação em Nuvens?](http://www.tecmundo.com.br/computacao-em-nuvem/738-o-que-e-computacao-em-nuvens-.htm)
-* []()
+* [Área de TI em alta no Canadá](http://www.canadaparabrasileiros.com/blog/2015/03/area-de-ti-em-alta-no-canada/)
 * []()
 * []()
 * []()
