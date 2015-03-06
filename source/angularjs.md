@@ -87,6 +87,6 @@
 * [Use $setPristine() in an AngularJS form](http://stackoverflow.com/questions/22088904/how-can-i-do-validation-and-use-setpristine-in-an-angularjs-form)
 * [ng-form-validation](https://github.com/ericdouglas/ng-form-validation)
 * [Dynamic validation and name in a form with AngularJS](http://stackoverflow.com/questions/14378401/dynamic-validation-and-name-in-a-form-with-angularjs)
-* []()
+* [Angular 2.0](https://angular.io/)
 * []()
 * []()
