@@ -123,7 +123,7 @@
 * [Frontend lindo usando Babel para rodar ES6](http://udgwebdev.com/frontend-lindo-usando-babel-para-rodar-es6/)
 * [Stabilizing ECMAScript 2015 (ES6): Teaming up with TC39 and Google on Test262](http://bocoup.com/weblog/stabilizing-es6')
 * [ECMAScript 6](http://rauchg.com/2015/ecmascript-6)
-* []()
+* [A JS framework on every table](http://www.allenpike.com/2015/javascript-framework-fatigue)
 * []()
 * []()
 * []()
