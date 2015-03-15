@@ -238,7 +238,7 @@
 * [O que é Computação em Nuvens?](http://www.tecmundo.com.br/computacao-em-nuvem/738-o-que-e-computacao-em-nuvens-.htm)
 * [Área de TI em alta no Canadá](http://www.canadaparabrasileiros.com/blog/2015/03/area-de-ti-em-alta-no-canada/)
 * [Atom: solução para a guerra dos editores?](http://www.infoq.com/br/presentations/atom-solucao-para-a-guerra-dos-editores)
-* []()
+* [Become a speaker](http://weareallaweso.me/for_speakers/)
 * []()
 * []()
 * []()
