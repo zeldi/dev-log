@@ -239,7 +239,7 @@
 * [Área de TI em alta no Canadá](http://www.canadaparabrasileiros.com/blog/2015/03/area-de-ti-em-alta-no-canada/)
 * [Atom: solução para a guerra dos editores?](http://www.infoq.com/br/presentations/atom-solucao-para-a-guerra-dos-editores)
 * [Become a speaker](http://weareallaweso.me/for_speakers/)
-* []()
+* [Detect a valid credit card](http://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number)
 * []()
 * []()
 * []()
