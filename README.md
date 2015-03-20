@@ -2,6 +2,10 @@
 
 **The log of a developer's studies.**
 
+* **[AngularJS](/angularjs.md)**
+* **[api](/api.md)**
+* **[Appgyver](/appgyver.md)**
+
 * **[JavaScript](#-javascript)**
 
 * **[ECMAScript 6]()**
