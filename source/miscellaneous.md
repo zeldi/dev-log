@@ -240,7 +240,7 @@
 * [Atom: solução para a guerra dos editores?](http://www.infoq.com/br/presentations/atom-solucao-para-a-guerra-dos-editores)
 * [Become a speaker](http://weareallaweso.me/for_speakers/)
 * [Detect a valid credit card](http://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number)
-* []()
+* [TED e DOC: saiba a diferença entre elas](https://www.konkero.com.br/banco/conta-corrente/ted-e-doc-saiba-a-diferenca-entre-eles)
 * []()
 * []()
 * []()
