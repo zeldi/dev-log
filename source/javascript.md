@@ -124,7 +124,7 @@
 1. [Stabilizing ECMAScript 2015 (ES6): Teaming up with TC39 and Google on Test262](http://bocoup.com/weblog/stabilizing-es6')
 1. [ECMAScript 6](http://rauchg.com/2015/ecmascript-6)
 1. [A JS framework on every table](http://www.allenpike.com/2015/javascript-framework-fatigue)
-1. []()
+1. [Check if a variable is an array in JavaScript](http://stackoverflow.com/questions/767486/how-do-you-check-if-a-variable-is-an-array-in-javascript)
 1. []()
 1. []()
 1. []()
