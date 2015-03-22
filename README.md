@@ -39,26 +39,26 @@
 1. **[Mongoose](/source/mongoose.md)**
 1. **[Motivational](/source/motivational.md)**
 1. **[NativeScript](/source/nativescript.md)**
-1. **[Node.js](/source/.md)**
-1. **[NoSQL](/source/.md)**
-1. **[OSX](/source/.md)**
-1. **[Phonegap](/source/.md)**
-1. **[Podcasts](/source/.md)**
-1. **[Python](/source/.md)**
-1. **[React.js](/source/.md)**
-1. **[REST](/source/.md)**
-1. **[Responsive Web Design](/source/.md)**
-1. **[SEO](/source/.md)**
-1. **[ShellScript](/source/.md)**
-1. **[Social Media](/source/.md)**
-1. **[Software Craftsmanship](/source/.md)**
-1. **[Software Engineering](/source/.md)**
-1. **[SQL](/source/.md)**
-1. **[Stylus](/source/.md)**
-1. **[Sublime Text](/source/.md)**
-1. **[Tools](/source/.md)**
-1. **[UNIX](/source/.md)**
-1. **[UX/UI](/source/.md)**
-1. **[Vim](/source/.md)**
-1. **[Web Components](/source/.md)**
-1. **[Web Design](/source/.md)**
+1. **[Node.js](/source/nodejs.md)**
+1. **[NoSQL](/source/nosql.md)**
+1. **[OSX](/source/osx.md)**
+1. **[Phonegap](/source/phonegap.md)**
+1. **[Podcasts](/source/podcasts.md)**
+1. **[Python](/source/python.md)**
+1. **[React.js](/source/reactJS.md)**
+1. **[REST](/source/rest.md)**
+1. **[Responsive Web Design](/source/rwd.md)**
+1. **[SEO](/source/seo.md)**
+1. **[ShellScript](/source/shell-script.md)**
+1. **[Social Media](/source/social-media.md)**
+1. **[Software Craftsmanship](/source/software-craftsmanship.md)**
+1. **[Software Engineering](/source/software-engineering.md)**
+1. **[SQL](/source/sql.md)**
+1. **[Stylus](/source/stylus.md)**
+1. **[Sublime Text](/source/sublime-text.md)**
+1. **[Tools](/source/tools.md)**
+1. **[UNIX](/source/unix.md)**
+1. **[UX/UI](/source/ux-ui.md)**
+1. **[Vim](/source/vim.md)**
+1. **[Web Components](/source/web-components.md)**
+1. **[Web Design](/source/web-design.md)**
