@@ -1,5 +1,5 @@
-# <a id="shellscript">❤</a> Shell Script
+# Shell Script
 
-* [Shelling Out - Learn the shell early in your programming journey](https://medium.com/web-design-code/ea49638415fd)
-* [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)
-* [Dicas de shell: find](http://elcio.com.br/dicas-de-shell-find/)
+1. [Shelling Out - Learn the shell early in your programming journey](https://medium.com/web-design-code/ea49638415fd)
+1. [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)
+1. [Dicas de shell: find](http://elcio.com.br/dicas-de-shell-find/)

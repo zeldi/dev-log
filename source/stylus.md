@@ -1,4 +1,4 @@
-# <a id="stylus">❤</a> Stylus
+# Stylus
 
 1. [Learn Stylus](http://learnboost.github.io/stylus/)
 1. [Try Stylus Online!](http://learnboost.github.io/stylus/try.html#)

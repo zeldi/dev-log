@@ -1,3 +1,3 @@
-# <a id="nosql">❤</a> NoSQL
+# NoSQL
 
-* [NoSQL Essencial - livro](http://www.novateceditora.com.br/livros/nosql-essencial/)
+1. [NoSQL Essencial - livro](http://www.novateceditora.com.br/livros/nosql-essencial/)
