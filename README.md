@@ -2,63 +2,63 @@
 
 **The log of a developer's studies.**
 
-* **[AngularJS](/source/angularjs.md)**
-* **[API](source/api.md)**
-* **[Appgyver](/source/appgyver.md)**
-* **[Aurelia](/source/aurelia.md)**
-* **[AWS](/source/aws.md)**
-* **[BDD](/source/bdd.md)**
-* **[Bower](/source/bower.md)**
-* **[Browserify](/source/browserify.md)**
-* **[Chai](/source/chai.md)**
-* **[CI](/source/ci.md)**
-* **[Cordova](/source/cordova.md)**
-* **[CSS](/source/css.md)**
-* **[DevOps](/source/devops.md)**
-* **[Docs](/source/docs.md)**
-* **[ES6](/source/ecmascript6.md)**
-* **[ElementaryOS](/source/elementary-os.md)**
-* **[English](/source/english.md)**
-* **[Git](/source/git.md)**
-* **[Gulp](/source/gulp.md)**
-* **[HTML](/source/html.md)**
-* **[HTTP](/source/http.md)**
-* **[io.js](/source/iojs.md)**
-* **[Ionic](/source/ionic.md)**
-* **[Jade](/source/jade.md)**
-* **[Jasmine](/source/jasmine.md)**
-* **[JavaScript](/source/javascript.md)**
-* **[Jobs](/source/jobs.md)**
-* **[JSON](/source/json.md)**
-* **[Linux](/source/linux.md)**
-* **[MEAN](/source/mean.md)**
-* **[Meteor](/source/meteor.md)**
-* **[Miscellaneous](/source/miscellaneous.md)**
-* **[Mocha](/source/mocha.md)**
-* **[MongoDB](/source/mongodb.md)**
-* **[Mongoose](/source/mongoose.md)**
-* **[Motivational](/source/motivational.md)**
-* **[NativeScript](/source/nativescript.md)**
-* **[Node.js](/source/.md)**
-* **[NoSQL](/source/.md)**
-* **[OSX](/source/.md)**
-* **[Phonegap](/source/.md)**
-* **[Podcasts](/source/.md)**
-* **[Python](/source/.md)**
-* **[React.js](/source/.md)**
-* **[REST](/source/.md)**
-* **[Responsive Web Design](/source/.md)**
-* **[SEO](/source/.md)**
-* **[ShellScript](/source/.md)**
-* **[Social Media](/source/.md)**
-* **[Software Craftsmanship](/source/.md)**
-* **[Software Engineering](/source/.md)**
-* **[SQL](/source/.md)**
-* **[Stylus](/source/.md)**
-* **[Sublime Text](/source/.md)**
-* **[Tools](/source/.md)**
-* **[UNIX](/source/.md)**
-* **[UX/UI](/source/.md)**
-* **[Vim](/source/.md)**
-* **[Web Components](/source/.md)**
-* **[Web Design](/source/.md)**
+1. **[AngularJS](/source/angularjs.md)**
+1. **[API](source/api.md)**
+1. **[Appgyver](/source/appgyver.md)**
+1. **[Aurelia](/source/aurelia.md)**
+1. **[AWS](/source/aws.md)**
+1. **[BDD](/source/bdd.md)**
+1. **[Bower](/source/bower.md)**
+1. **[Browserify](/source/browserify.md)**
+1. **[Chai](/source/chai.md)**
+1. **[CI](/source/ci.md)**
+1. **[Cordova](/source/cordova.md)**
+1. **[CSS](/source/css.md)**
+1. **[DevOps](/source/devops.md)**
+1. **[Docs](/source/docs.md)**
+1. **[ES6](/source/ecmascript6.md)**
+1. **[ElementaryOS](/source/elementary-os.md)**
+1. **[English](/source/english.md)**
+1. **[Git](/source/git.md)**
+1. **[Gulp](/source/gulp.md)**
+1. **[HTML](/source/html.md)**
+1. **[HTTP](/source/http.md)**
+1. **[io.js](/source/iojs.md)**
+1. **[Ionic](/source/ionic.md)**
+1. **[Jade](/source/jade.md)**
+1. **[Jasmine](/source/jasmine.md)**
+1. **[JavaScript](/source/javascript.md)**
+1. **[Jobs](/source/jobs.md)**
+1. **[JSON](/source/json.md)**
+1. **[Linux](/source/linux.md)**
+1. **[MEAN](/source/mean.md)**
+1. **[Meteor](/source/meteor.md)**
+1. **[Miscellaneous](/source/miscellaneous.md)**
+1. **[Mocha](/source/mocha.md)**
+1. **[MongoDB](/source/mongodb.md)**
+1. **[Mongoose](/source/mongoose.md)**
+1. **[Motivational](/source/motivational.md)**
+1. **[NativeScript](/source/nativescript.md)**
+1. **[Node.js](/source/.md)**
+1. **[NoSQL](/source/.md)**
+1. **[OSX](/source/.md)**
+1. **[Phonegap](/source/.md)**
+1. **[Podcasts](/source/.md)**
+1. **[Python](/source/.md)**
+1. **[React.js](/source/.md)**
+1. **[REST](/source/.md)**
+1. **[Responsive Web Design](/source/.md)**
+1. **[SEO](/source/.md)**
+1. **[ShellScript](/source/.md)**
+1. **[Social Media](/source/.md)**
+1. **[Software Craftsmanship](/source/.md)**
+1. **[Software Engineering](/source/.md)**
+1. **[SQL](/source/.md)**
+1. **[Stylus](/source/.md)**
+1. **[Sublime Text](/source/.md)**
+1. **[Tools](/source/.md)**
+1. **[UNIX](/source/.md)**
+1. **[UX/UI](/source/.md)**
+1. **[Vim](/source/.md)**
+1. **[Web Components](/source/.md)**
+1. **[Web Design](/source/.md)**
