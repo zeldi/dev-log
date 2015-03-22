@@ -1,4 +1,4 @@
-# ❤ Angular.JS
+# Angular.JS
 
 1. [Traduz-ai (AngularJS)](https://github.com/eoop/traduz-ai#angularjs)
 1. [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM)
