@@ -24,7 +24,7 @@
 1. [Segredos do Github - Tabelas e Task lists](http://blog.da2k.com.br/2015/01/17/segredos-do-github-tabelas-e-task-lists/)
 1. [Segredos do Github - Imagens](http://blog.da2k.com.br/2015/01/26/segredos-do-github-imagens/)
 1. [Segredos do Github - mantendo a ordem no seu repositório](http://blog.da2k.com.br/2015/02/01/segredos-do-github-mantendo-a-ordem-no-seu-repositorio/)
-1. []()
+1. [GIT: PUSH A LOCAL BRANCH TO A DIFFERENT REMOTE BRANCH](http://blog.supermatter.com/post/761870270/git-push-a-local-branch-to-a-different-remote-branch)
 1. []()
 1. []()
 1. []()
