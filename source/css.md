@@ -38,5 +38,5 @@
 1. [PACE - Automatic page load progress bar](http://github.hubspot.com/pace/docs/welcome/)
 1. [css-pre](http://csspre.com/compare)
 1. [The Best Way to Learn CSS](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
-1. []()
+1. [Prevent line break in table cells](https://css-tricks.com/forums/topic/prevent-line-break-in-table-cells/)
 1. []()
