@@ -62,7 +62,7 @@
 1. [Govern Node Right](http://nodegovernance.io/)
 1. [how-to-npm](https://www.npmjs.com/package/how-to-npm)
 1. [json-server](https://www.npmjs.com/package/json-server)
-1. []()
+1. [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 1. []()
 1. []()
 1. []()
