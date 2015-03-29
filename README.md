@@ -22,6 +22,7 @@
 1. **[English](/source/english.md)**
 1. **[Git](/source/git.md)**
 1. **[Gulp](/source/gulp.md)**
+1. **[Hapi.js](/hapijs.md)**
 1. **[HTML](/source/html.md)**
 1. **[HTTP](/source/http.md)**
 1. **[io.js](/source/iojs.md)**
