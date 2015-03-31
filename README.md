@@ -41,6 +41,8 @@
 1. **[Mongoose](/source/mongoose.md)**
 1. **[Motivational](/source/motivational.md)**
 1. **[NativeScript](/source/nativescript.md)**
+1. **[Networks](/source/networks.md)**
+1. **[NGINX](/source/nginx.md)**
 1. **[Node.js](/source/nodejs.md)**
 1. **[NoSQL](/source/nosql.md)**
 1. **[OSX](/source/osx.md)**
