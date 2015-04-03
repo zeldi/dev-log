@@ -60,6 +60,7 @@
 1. **[SQL](/source/sql.md)**
 1. **[Stylus](/source/stylus.md)**
 1. **[Sublime Text](/source/sublime-text.md)**
+1. **[SVG](/source/svg.md)**
 1. **[Tools](/source/tools.md)**
 1. **[UNIX](/source/unix.md)**
 1. **[UX/UI](/source/ux-ui.md)**
