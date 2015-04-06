@@ -21,7 +21,7 @@
 1. [Hapi.js in Action - source code](https://github.com/mtharrison/Hapi.js-in-action)
 1. [Boilerplate Hapi server example. Node.js, Hapi, and Swig](https://github.com/poeticninja/hapi-ninja)
 1. [An example of a restful api built using hapi.js](https://github.com/rcorral/hapi-restful-api-example)
-1. []()
+1. [Sample codes - boilerplate](http://hapijs.com/plugins#Boilerplate)
 1. []()
 1. []()
 1. []()

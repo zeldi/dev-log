@@ -32,6 +32,13 @@
 1. [Accessing the system clipboard - need to install vim-gnome!!!](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 1. [Folding](http://vim.wikia.com/wiki/Folding)
 1. [How to comment multiple lines at once](http://unix.stackexchange.com/questions/120615/how-to-comment-multiple-lines-at-once)
+1. [Making Parenthesis And Brackets Handling Easier](http://vim.wikia.com/wiki/Making_Parenthesis_And_Brackets_Handling_Easier)
+1. [Duplicate a whole line in Vim](http://stackoverflow.com/questions/73319/duplicate-a-whole-line-in-vim)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ## Vim Plugins
 

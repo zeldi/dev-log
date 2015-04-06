@@ -7,6 +7,7 @@
 1. **[Appgyver](/source/appgyver.md)**
 1. **[Aurelia](/source/aurelia.md)**
 1. **[AWS](/source/aws.md)**
+1. **[Back-end](/source/back-end.md)**
 1. **[BDD](/source/bdd.md)**
 1. **[Bower](/source/bower.md)**
 1. **[Browserify](/source/browserify.md)**
@@ -20,6 +21,7 @@
 1. **[Elasticsearch](/source/elasticsearch.md)**
 1. **[ElementaryOS](/source/elementary-os.md)**
 1. **[English](/source/english.md)**
+1. **[Front-end](/source/front-end.md)**
 1. **[Git](/source/git.md)**
 1. **[Gulp](/source/gulp.md)**
 1. **[Hapi.js](/source/hapijs.md)**

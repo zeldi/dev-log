@@ -243,7 +243,7 @@
 1. [TED e DOC: saiba a diferença entre elas](https://www.konkero.com.br/banco/conta-corrente/ted-e-doc-saiba-a-diferenca-entre-eles)
 1. [Uma longa noite aprendendo](http://mel-meow.com/uma-longa-noite-aprendendo/)
 1. [Sobre como começar na área de desenvolvimento](https://medium.com/@eminetto/sobre-como-come%C3%A7ar-na-%C3%A1rea-de-desenvolvimento-26a3ce6781)
-1. []()
+1. [The Secret To Never Being Frustrated Again](http://www.bakadesuyo.com/2015/04/frustrated)
 1. []()
 1. []()
 1. []()
