@@ -12,6 +12,7 @@
 1. **[Bower](/source/bower.md)**
 1. **[Browserify](/source/browserify.md)**
 1. **[Chai](/source/chai.md)**
+1. **[Challenges](/source/challenges.md)**
 1. **[CI](/source/ci.md)**
 1. **[Cordova](/source/cordova.md)**
 1. **[CSS](/source/css.md)**
