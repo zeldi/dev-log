@@ -244,7 +244,7 @@
 1. [Uma longa noite aprendendo](http://mel-meow.com/uma-longa-noite-aprendendo/)
 1. [Sobre como começar na área de desenvolvimento](https://medium.com/@eminetto/sobre-como-come%C3%A7ar-na-%C3%A1rea-de-desenvolvimento-26a3ce6781)
 1. [The Secret To Never Being Frustrated Again](http://www.bakadesuyo.com/2015/04/frustrated)
-1. []()
+1. [8 Tried & True Tips For Learning How To Code](http://www.makeuseof.com/tag/8-tried-and-true-tips-for-learning-how-to-code/)
 1. []()
 1. []()
 1. []()
