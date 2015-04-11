@@ -128,7 +128,7 @@
 1. [Create a form dynamically](http://stackoverflow.com/questions/6964927/how-to-create-a-form-dynamically-via-javascript)
 1. [Twenty Years with JavaScript](http://zeke.sikelianos.com/posts/twenty-years-with-javascript)
 1. [v8-git-mirror](https://github.com/v8/v8-git-mirror)
-1. []()
+1. [Number.isNaN()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN)
 1. []()
 1. []()
 1. []()
