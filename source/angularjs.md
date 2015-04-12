@@ -89,7 +89,7 @@
 1. [Dynamic validation and name in a form with AngularJS](http://stackoverflow.com/questions/14378401/dynamic-validation-and-name-in-a-form-with-angularjs)
 1. [Angular 2.0](https://angular.io/)
 1. [3 Simple Tips for Using UI-Router](https://scotch.io/tutorials/3-simple-tips-for-using-ui-router)
-1. []()
+1. [$on and $broadcast in angular](http://stackoverflow.com/questions/19446755/on-and-broadcast-in-angular)
 1. []()
 1. []()
 1. []()
