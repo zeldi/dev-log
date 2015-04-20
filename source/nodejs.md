@@ -65,7 +65,7 @@
 1. [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 1. [Why You Should Start Using Microservices](http://blog.risingstack.com/why-you-should-start-using-microservices/)
 1. [Node.js, can't open files. Error: ENOENT](http://stackoverflow.com/questions/13541948/node-js-cant-open-files-error-enoent-stat-path-to-file)
-1. []()
+1. [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 1. []()
 1. []()
 1. []()

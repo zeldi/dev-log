@@ -20,3 +20,12 @@
 1. []()
 1. []()
 1. []()
+
+## Plugins
+
+1. [gulp-strip-code](https://www.npmjs.com/package/gulp-strip-code)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
