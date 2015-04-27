@@ -247,7 +247,7 @@
 1. [8 Tried & True Tips For Learning How To Code](http://www.makeuseof.com/tag/8-tried-and-true-tips-for-learning-how-to-code/)
 1. [How to play blackjack](https://www.youtube.com/watch?v=A21FQ9UpOhE)
 1. [5 Secrets To Always Making A Good First Impression](http://www.bakadesuyo.com/2015/04/first-impression)
-1. []()
+1. [Autodidactism - The Power Of Self-Learning](https://synapse.pub/autodidactism-the-power-of-self-learning-3afabdfba13d)
 1. []()
 1. []()
 1. []()
