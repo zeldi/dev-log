@@ -248,6 +248,6 @@
 1. [How to play blackjack](https://www.youtube.com/watch?v=A21FQ9UpOhE)
 1. [5 Secrets To Always Making A Good First Impression](http://www.bakadesuyo.com/2015/04/first-impression)
 1. [Autodidactism - The Power Of Self-Learning](https://synapse.pub/autodidactism-the-power-of-self-learning-3afabdfba13d)
-1. []()
-1. []()
+1. [7 great android and ios apps for musicians](http://www.seymourduncan.com/blog/the-tone-garage/7-great-android-and-ios-apps-for-musicians/)
+1. [Codementor](https://www.codementor.io)
 1. []()
