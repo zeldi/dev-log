@@ -250,4 +250,5 @@
 1. [Autodidactism - The Power Of Self-Learning](https://synapse.pub/autodidactism-the-power-of-self-learning-3afabdfba13d)
 1. [7 great android and ios apps for musicians](http://www.seymourduncan.com/blog/the-tone-garage/7-great-android-and-ios-apps-for-musicians/)
 1. [Codementor](https://www.codementor.io)
+1. [interview - Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
 1. []()

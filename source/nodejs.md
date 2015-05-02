@@ -66,6 +66,6 @@
 1. [Why You Should Start Using Microservices](http://blog.risingstack.com/why-you-should-start-using-microservices/)
 1. [Node.js, can't open files. Error: ENOENT](http://stackoverflow.com/questions/13541948/node-js-cant-open-files-error-enoent-stat-path-to-file)
 1. [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-1. []()
+1. [10 weeks of node.js after 10 years of PHP](https://medium.com/unexpected-token/10-weeks-of-node-js-after-10-years-of-php-a352042c0c11)
 1. []()
 1. []()
