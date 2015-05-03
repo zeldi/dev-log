@@ -1,4 +1,4 @@
-# <a id="miscellaneous">❤</a> Miscellaneous
+# Miscellaneous
 
 1. [Lógica de Programação - Code Squad](http://code-squad.com/licao/introducao-logica)
 1. [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
@@ -251,4 +251,10 @@
 1. [7 great android and ios apps for musicians](http://www.seymourduncan.com/blog/the-tone-garage/7-great-android-and-ios-apps-for-musicians/)
 1. [Codementor](https://www.codementor.io)
 1. [interview - Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
+1. [calm.com - meditation](http://www.calm.com/)
+1. [keybr - type game](http://www.keybr.com/#!game)
+1. [trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
+1. [Trabalho Remoto - podcasts](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
+1. []()
+1. []()
 1. []()
