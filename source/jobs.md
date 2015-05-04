@@ -23,7 +23,7 @@
 1. [Nodejobs](http://www.nodejobs.com/)
 1. [Dice](https://www.dice.com)
 1. [WFH.io](https://www.wfh.io/)
-1. []()
+1. [Toptal](http://www.toptal.com/)
 1. []()
 1. []()
 1. []()
