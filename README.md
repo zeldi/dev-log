@@ -22,6 +22,7 @@
 1. **[Elasticsearch](/source/elasticsearch.md)**
 1. **[ElementaryOS](/source/elementary-os.md)**
 1. **[English](/source/english.md)**
+1. **[Events](/source/events.md)**
 1. **[Front-end](/source/front-end.md)**
 1. **[Git](/source/git.md)**
 1. **[Gulp](/source/gulp.md)**
