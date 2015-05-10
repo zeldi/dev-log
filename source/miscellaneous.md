@@ -257,4 +257,6 @@
 1. [Trabalho Remoto - podcasts](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
 1. [NeuroNation](https://play.google.com/store/apps/details?id=air.nn.mobile.app.main)
 1. [How To Get Smarter](http://www.bakadesuyo.com/2015/05/how-to-get-smarter)
+1. [How To Improve Self-Esteem: A New Secret From Research](http://www.bakadesuyo.com/2015/05/how-to-improve-self-esteem)
+1. [6 Things The Most Productive People Do Every Day](http://www.bakadesuyo.com/2014/06/most-productive-people/)
 1. []()
