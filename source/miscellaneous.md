@@ -264,4 +264,7 @@
 1. [OverAPI](http://overapi.com/)
 1. [Deixe que o padeiro faça o pão - Uma atualização sobre a importância do front-end em aplicações web](https://medium.com/@rodger/deixe-que-o-padeiro-fa%C3%A7a-o-p%C3%A3o-c9ded0212d04)
 1. [Porque eu não faço faculdade?](https://medium.com/@kandebonfim/porque-eu-n%C3%A3o-fa%C3%A7o-faculdade-b5f3bb17e452)
+1. [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+1. [What are some psychological facts that most people don't know?](http://www.quora.com/What-are-some-psychological-facts-that-most-people-dont-know)
+1. []()
 1. []()

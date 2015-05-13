@@ -133,6 +133,6 @@
 1. [Calculator - JS and CSS3](http://thecodeplayer.com/walkthrough/javascript-css3-calculator)
 1. [The Two Pillars of JavaScript - Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 1. [How to Unit Test Private Functions in JavaScript](http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/)
-1. []()
+1. [What are some advanced JavaScript techniques that you don't see often but should?](http://www.quora.com/What-are-some-advanced-JavaScript-techniques-that-you-dont-see-often-but-should)
 1. []()
 1. []()
