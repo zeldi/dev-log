@@ -68,4 +68,6 @@
 1. [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 1. [10 weeks of node.js after 10 years of PHP](https://medium.com/unexpected-token/10-weeks-of-node-js-after-10-years-of-php-a352042c0c11)
 1. [Seneca - A Micro-Services toolkit for Node.js](http://senecajs.org/)
+1. [Node.js and io.js leaders are building an open, neutral Node.js Foundation to support the future of the platform](http://blog.nodejs.org/2015/05/15/node-leaders-are-building-an-open-foundation/?utm_source=nodeweekly&utm_medium=email)
+1. [Growing Up - io.js needs a foundation](https://medium.com/node-js-javascript/growing-up-27d6cc8b7c53)
 1. []()
