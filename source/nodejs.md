@@ -70,4 +70,5 @@
 1. [Seneca - A Micro-Services toolkit for Node.js](http://senecajs.org/)
 1. [Node.js and io.js leaders are building an open, neutral Node.js Foundation to support the future of the platform](http://blog.nodejs.org/2015/05/15/node-leaders-are-building-an-open-foundation/?utm_source=nodeweekly&utm_medium=email)
 1. [Growing Up - io.js needs a foundation](https://medium.com/node-js-javascript/growing-up-27d6cc8b7c53)
+1. [Bringing Node.js to Windows 10 IoT Core](http://blogs.windows.com/buildingapps/2015/05/12/bringing-node-js-to-windows-10-iot-core/)
 1. []()
