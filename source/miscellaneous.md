@@ -273,4 +273,5 @@
 1. [Experiment: Material Design Stopwatch, Alarm and Timer](http://tutorialzine.com/2015/04/material-design-stopwatch-alarm-and-timer/)
 1. [LED VS LCD TVS](http://www.digitaltrends.com/home-theater/led-vs-lcd-tvs/)
 1. [Personality](http://www.16personalities.com/intj-personality)
+1. [How does one become a great coder?](http://www.quora.com/How-does-one-become-a-great-coder)
 1. []()

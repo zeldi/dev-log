@@ -9,7 +9,7 @@
 1. [How To Customize Linux Mint / Ubuntu Terminal](http://www.ihaveapc.com/2011/07/how-to-customize-linux-mint-ubuntu-terminal/)
 1. [Permission drwxrwxr -x [duplicate]](http://askubuntu.com/questions/409076/permission-drwxrwxr-x)
 1. [Descobrindo que processo está consumindo mais memória](http://www.vivaolinux.com.br/dica/Descobrindo-que-processo-esta-consumindo-mais-memoria)
-1. []()
+1. [Open a Tar.gz File In Linux / Unix](http://www.cyberciti.biz/faq/howto-open-a-tar-gz-file-in-linux-unix/)
 1. []()
 1. []()
 1. []()
