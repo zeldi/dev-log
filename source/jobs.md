@@ -26,4 +26,5 @@
 1. [Toptal](http://www.toptal.com/)
 1. [TryCatch](http://trycatch.us/)
 1. [Monster.com](http://jobsearch.monster.com/)
-1. []()
+1. [Working Nomads](http://www.workingnomads.co/)
+1. [Github Jobs](https://jobs.github.com/positions)
