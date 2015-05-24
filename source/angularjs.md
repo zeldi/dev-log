@@ -103,7 +103,7 @@
 1. [Unit Testing Services in AngularJS for Fun and for Profit](http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
 1. [AngularJS Unknown provider: $scopeProvider](http://stackoverflow.com/questions/28752095/angularjs-unknown-provider-scopeprovider)
 1. [Watch and Code](http://watchandcode.com/)
-1. []()
+1. [Angular.js and My Opinion on Opinionated Software](http://www.quercussolutions.com/blog/index.php/angular-js-opinionated/)
 1. []()
 1. []()
 1. []()
