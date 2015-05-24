@@ -29,6 +29,7 @@
 1. **[Hapi.js](/source/hapijs.md)**
 1. **[HTML](/source/html.md)**
 1. **[HTTP](/source/http.md)**
+1. **[Human Resources](/source/human-resources.md)**
 1. **[io.js](/source/iojs.md)**
 1. **[Ionic](/source/ionic.md)**
 1. **[Jade](/source/jade.md)**
@@ -53,7 +54,7 @@
 1. **[Phonegap](/source/phonegap.md)**
 1. **[Podcasts](/source/podcasts.md)**
 1. **[Python](/source/python.md)**
-1. **[React.js](/source/reactJS.md)**
+1. **[React](/source/reactJS.md)**
 1. **[REST](/source/rest.md)**
 1. **[Responsive Web Design](/source/rwd.md)**
 1. **[SEO](/source/seo.md)**
@@ -71,4 +72,5 @@
 1. **[Vim](/source/vim.md)**
 1. **[Web Components](/source/web-components.md)**
 1. **[Web Design](/source/web-design.md)**
+1. **[Web Engineering](/source/web-engineering.md)**
 1. **[WebStorm](/source/webstorm.md)**
