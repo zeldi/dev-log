@@ -40,7 +40,7 @@
 1. [The Best Way to Learn CSS](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
 1. [Prevent line break in table cells](https://css-tricks.com/forums/topic/prevent-line-break-in-table-cells/)
 1. [How to keep footers at the bottom of the page](http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page)
-1. []()
+1. [CSS '>' selector](http://stackoverflow.com/questions/4459821/css-selector-what-is-it)
 1. []()
 1. []()
 1. []()

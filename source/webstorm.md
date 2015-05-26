@@ -8,6 +8,7 @@
 1. [IDEA Color Themes](http://www.ideacolorthemes.org/home/)
 1. [Creating JSDoc Comments](https://www.jetbrains.com/webstorm/help/creating-jsdoc-comments.html)
 1. [WebStorm 10 - New features](https://www.youtube.com/watch?v=eoXneK3WIgQ&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=1)
+1. [Live Editing of HTML, CSS, and JavaScript](https://www.jetbrains.com/webstorm/help/live-editing-of-html-css-and-javascript.html)
 1. []()
 
 ## Plugins

@@ -12,5 +12,5 @@
 1. [Inglês. Sim, você precisa saber.](http://viniciusdacal.com/ingles/2015/01/22/ingles-sim-voce-precisa-aprender.html)
 1. [EngFluent.com](http://engfluent.com/)
   * [Lesson 1 – The Right Way to Learn to Speak English](http://engfluent.com/lesson-1-the-right-way/)
-  * []()
+  * [Fui aprender Inglês](http://igorapa.com/fui-aprender-ingles.html)
   * []()
