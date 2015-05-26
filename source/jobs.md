@@ -29,3 +29,7 @@
 1. [Working Nomads](http://www.workingnomads.co/)
 1. [Github Jobs](https://jobs.github.com/positions)
 1. [Jobspresso](http://jobspresso.co/)
+1. [WFH.io](https://www.wfh.io/)
+1. [The Remote Working](http://www.remoteworking.co/)
+1. [Remote working](http://www.remoteworking.io/)
+1. [Jobmote](http://jobmote.com/)

@@ -275,4 +275,5 @@
 1. [Personality](http://www.16personalities.com/intj-personality)
 1. [How does one become a great coder?](http://www.quora.com/How-does-one-become-a-great-coder)
 1. [Github deploy fails if you have 2-factor auth enabled - Hexo](https://github.com/hexojs/hexo/issues/500)
+1. [50 Free Books for Web Designers & Developers](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014)
 1. []()
