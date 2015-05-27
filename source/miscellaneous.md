@@ -276,4 +276,8 @@
 1. [How does one become a great coder?](http://www.quora.com/How-does-one-become-a-great-coder)
 1. [Github deploy fails if you have 2-factor auth enabled - Hexo](https://github.com/hexojs/hexo/issues/500)
 1. [50 Free Books for Web Designers & Developers](http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014)
+1. [Remote Nation](http://remotenation.co/)
+1. [On writing](https://medium.com/keep-learning-keep-growing/on-writing-437a3dadc564)
+1. [How can I embed JS Bin?](http://jsbin.com/help/how-can-i-embed-jsbin)
+1. [Hackr.io - Share and discover the best programming tutorials and courses online](http://hackr.io/)
 1. []()

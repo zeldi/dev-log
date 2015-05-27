@@ -16,3 +16,4 @@
 1. [Meteor Devshop London - April](https://www.meteor.com/blog/2014/06/03/meteor-famous-mobile)
 1. [Does Meteor Scale?](https://meteorhacks.com/does-meteor-scale.html)
 1. [Your Meteor app probably doesn’t need Angular](https://medium.com/space-camp/your-meteor-app-probably-doesnt-need-angular-13986a0323f6)
+1. [Meteor Raises $20M To Build The One JavaScript Stack To Rule Them All](http://techcrunch.com/2015/05/19/meteor-raises-20m-to-build-the-one-javascript-stack-to-rule-them-all/#.mkdp9m:hS7j)
