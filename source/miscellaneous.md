@@ -280,4 +280,7 @@
 1. [On writing](https://medium.com/keep-learning-keep-growing/on-writing-437a3dadc564)
 1. [How can I embed JS Bin?](http://jsbin.com/help/how-can-i-embed-jsbin)
 1. [Hackr.io - Share and discover the best programming tutorials and courses online](http://hackr.io/)
+1. [Redescobrindo o seu time](https://medium.com/@Neocite/redescobrindo-o-seu-time-128632c690b1)
+1. [Exercism](http://exercism.io/)
+1. [Code smell](http://en.wikipedia.org/wiki/Code_smell)
 1. []()

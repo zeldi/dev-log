@@ -138,4 +138,5 @@
 1. [Why Backbone.js?](https://roost.bocoup.com/2015/austin/blog/why-backbone)
 1. [Using Chakra for Scripting Applications across Windows 10](http://blogs.windows.com/msedgedev/2015/05/18/using-chakra-for-scripting-applications-across-windows-10)
 1. [Stanford's JavaScript-based Computer Science 101 Materials Available Online for Free](http://readwrite.com/2011/07/11/stanford-computer-science-course-free)
+1. [JavaScript - How to stop mouse movement](http://stackoverflow.com/questions/13415345/javascript-how-to-stop-mouse-movement)
 1. []()
