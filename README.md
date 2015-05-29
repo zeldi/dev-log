@@ -17,6 +17,7 @@
 1. **[Cordova](/source/cordova.md)**
 1. **[CSS](/source/css.md)**
 1. **[DevOps](/source/devops.md)**
+1. **[Docker](/source/docker.md)**
 1. **[Docs](/source/docs.md)**
 1. **[ES6](/source/ecmascript6.md)**
 1. **[Elasticsearch](/source/elasticsearch.md)**
@@ -39,6 +40,7 @@
 1. **[JSON](/source/json.md)**
 1. **[Linux](/source/linux.md)**
 1. **[MEAN](/source/mean.md)**
+1. **[Messaging Queues](/source/messaging-queues.md)**
 1. **[Meteor](/source/meteor.md)**
 1. **[Miscellaneous](/source/miscellaneous.md)**
 1. **[Mocha](/source/mocha.md)**
