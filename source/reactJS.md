@@ -9,4 +9,5 @@
 1. [React + D3.js](https://leanpub.com/reactd3js)
 1. [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 1. [Survive.js - webpack + React](http://survivejs.com/)
+1. [Is ReactJS really fast ?](http://blog.500tech.com/is-reactjs-fast/)
 1. []()

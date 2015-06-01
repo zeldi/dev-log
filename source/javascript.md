@@ -140,4 +140,5 @@
 1. [Stanford's JavaScript-based Computer Science 101 Materials Available Online for Free](http://readwrite.com/2011/07/11/stanford-computer-science-course-free)
 1. [JavaScript - How to stop mouse movement](http://stackoverflow.com/questions/13415345/javascript-how-to-stop-mouse-movement)
 1. [Convert arguments to Array](http://davidwalsh.name/arguments-arrayl)
+1. [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
 1. []()

@@ -26,5 +26,6 @@
 1. [Segredos do Github - mantendo a ordem no seu repositório](http://blog.da2k.com.br/2015/02/01/segredos-do-github-mantendo-a-ordem-no-seu-repositorio/)
 1. [GIT: PUSH A LOCAL BRANCH TO A DIFFERENT REMOTE BRANCH](http://blog.supermatter.com/post/761870270/git-push-a-local-branch-to-a-different-remote-branch)
 1. [git submodules](http://stackoverflow.com/questions/9357442/github-linking-with-other-repos)
+1. [gist-embed](https://github.com/blairvanderhoof/gist-embed)
 1. []()
 1. []()

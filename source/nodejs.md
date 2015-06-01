@@ -91,4 +91,7 @@
   - [The Twelve-Factor App](http://12factor.net/)
     - [The New Heroku (Part 4 of 4): Erosion-resistance & Explicit Contracts](https://blog.heroku.com/archives/2011/6/28/the_new_heroku_4_erosion_resistance_explicit_contracts) ✔
     - [Crash-only software: More than meets the eye](http://lwn.net/Articles/191059/)
+1. [Readline](https://nodejs.org/api/readline.html)
+1. [How I want to write node: stream all the things!](http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/)
+1. [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
 1. []()
