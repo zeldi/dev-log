@@ -25,6 +25,7 @@
 1. **[English](/source/english.md)**
 1. **[Events](/source/events.md)**
 1. **[Front-end](/source/front-end.md)**
+1. **[Functional Programming](/source/functional-programming.md)**
 1. **[Git](/source/git.md)**
 1. **[Gulp](/source/gulp.md)**
 1. **[Hapi.js](/source/hapijs.md)**

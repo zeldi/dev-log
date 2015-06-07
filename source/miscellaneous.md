@@ -283,4 +283,5 @@
 1. [Redescobrindo o seu time](https://medium.com/@Neocite/redescobrindo-o-seu-time-128632c690b1)
 1. [Exercism](http://exercism.io/)
 1. [Code smell](http://en.wikipedia.org/wiki/Code_smell)
+1. [Ratatype](http://www.ratatype.com/)
 1. []()

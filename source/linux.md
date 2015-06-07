@@ -4,5 +4,5 @@
 1. [Install oh-my-zsh on linux](https://gist.github.com/ericdouglas/3879d8139c2cc679bf77)
 1. [Moving windows from the keyboard](http://askubuntu.com/questions/18243/moving-windows-from-the-keyboard)
 1. [How to update Google chrome in Ubuntu](http://superuser.com/questions/130260/how-to-update-google-chrome-in-ubuntu)
-1. []()
+1. [How to update Firefox in Ubuntu](http://computernetworkingnotes.com/ubuntu-12-04-tips-and-tricks/how-to-update-firefox-in-ubuntu.html)
 1. []()

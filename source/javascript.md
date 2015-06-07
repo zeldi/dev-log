@@ -141,4 +141,5 @@
 1. [JavaScript - How to stop mouse movement](http://stackoverflow.com/questions/13415345/javascript-how-to-stop-mouse-movement)
 1. [Convert arguments to Array](http://davidwalsh.name/arguments-arrayl)
 1. [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
+1. [What are Javascript Source Maps](https://blog.logentries.com/2014/12/what-are-javascript-source-maps/)
 1. []()

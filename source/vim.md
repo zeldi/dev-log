@@ -34,10 +34,11 @@
 1. [How to comment multiple lines at once](http://unix.stackexchange.com/questions/120615/how-to-comment-multiple-lines-at-once)
 1. [Making Parenthesis And Brackets Handling Easier](http://vim.wikia.com/wiki/Making_Parenthesis_And_Brackets_Handling_Easier)
 1. [Duplicate a whole line in Vim](http://stackoverflow.com/questions/73319/duplicate-a-whole-line-in-vim)
-1. []()
-1. []()
-1. []()
-1. []()
+1. [Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)
+1. [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
+1. [How do Sublime Text and Vim compare?](http://www.quora.com/How-do-Sublime-Text-and-Vim-compare-in-2013)
+1. [The text editor challenge: Sublime Text vs Vim](http://www.creativebloq.com/web-design/text-editor-challenge-sublime-text-vs-vim-41514590)
+1. [Sublime Text 2 versus Vim on the topic of efficiency](http://www.reddit.com/r/webdev/comments/19lobl/serious_discussion_sublime_text_2_versus_vim_on/)
 1. []()
 
 ## Vim Plugins
