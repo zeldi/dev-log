@@ -29,6 +29,7 @@
 1. **[Git](/source/git.md)**
 1. **[Gulp](/source/gulp.md)**
 1. **[Hapi.js](/source/hapijs.md)**
+1. **[Harp.js](/source/harp.md)**
 1. **[HTML](/source/html.md)**
 1. **[HTTP](/source/http.md)**
 1. **[Human Resources](/source/human-resources.md)**
