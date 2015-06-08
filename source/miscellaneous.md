@@ -284,4 +284,5 @@
 1. [Exercism](http://exercism.io/)
 1. [Code smell](http://en.wikipedia.org/wiki/Code_smell)
 1. [Ratatype](http://www.ratatype.com/)
+1. [Como a internet das coisas vai atropelar o capitalismo](http://revistagalileu.globo.com/Revista/noticia/2015/02/como-internet-das-coisas-vai-atropelar-o-capitalismo.html)
 1. []()
