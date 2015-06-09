@@ -1,6 +1,6 @@
 ![developer log](http://i.imgur.com/FLO5Sar.png)
 
-**The log of a developer's studies.**
+**My logfile**
 
 1. **[AngularJS](/source/angularjs.md)**
 1. **[API](source/api.md)**
