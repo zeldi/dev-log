@@ -285,4 +285,7 @@
 1. [Code smell](http://en.wikipedia.org/wiki/Code_smell)
 1. [Ratatype](http://www.ratatype.com/)
 1. [Como a internet das coisas vai atropelar o capitalismo](http://revistagalileu.globo.com/Revista/noticia/2015/02/como-internet-das-coisas-vai-atropelar-o-capitalismo.html)
+1. [The ultimate guide to learning anything faster](http://thenextweb.com/lifehacks/2015/06/07/the-ultimate-guide-to-learning-anything-faster/)
+1. [9 Questions To Ask Before You Accept A Startup Job](http://techcrunch.com/gallery/9-questions-to-ask-before-you-accept-a-startup-job)
+1. [Abbreviations Syntax](http://docs.emmet.io/abbreviations/syntax/)
 1. []()

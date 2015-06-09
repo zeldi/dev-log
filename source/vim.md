@@ -39,6 +39,7 @@
 1. [How do Sublime Text and Vim compare?](http://www.quora.com/How-do-Sublime-Text-and-Vim-compare-in-2013)
 1. [The text editor challenge: Sublime Text vs Vim](http://www.creativebloq.com/web-design/text-editor-challenge-sublime-text-vs-vim-41514590)
 1. [Sublime Text 2 versus Vim on the topic of efficiency](http://www.reddit.com/r/webdev/comments/19lobl/serious_discussion_sublime_text_2_versus_vim_on/)
+1. [Search and replace](http://vim.wikia.com/wiki/Search_and_replace)
 1. []()
 
 ## Vim Plugins
@@ -60,3 +61,4 @@
 1. [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 1. [vim-snipmate](https://github.com/garbas/vim-snipmate)
+1. [autoclose](http://www.vim.org/scripts/script.php?script_id=1849)
