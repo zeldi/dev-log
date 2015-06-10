@@ -105,5 +105,8 @@
 1. [Watch and Code](http://watchandcode.com/)
 1. [Angular.js and My Opinion on Opinionated Software](http://www.quercussolutions.com/blog/index.php/angular-js-opinionated/)
 1. []()
-1. []()
+
+## Angular 2
+
+1. [Why Will Angular 2 Rock?](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 1. []()

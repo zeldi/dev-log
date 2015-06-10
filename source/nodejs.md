@@ -94,4 +94,5 @@
 1. [Readline](https://nodejs.org/api/readline.html)
 1. [How I want to write node: stream all the things!](http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/)
 1. [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
+1. [Install / update NPM](https://github.com/npm/npm#fancy-install-unix)
 1. []()

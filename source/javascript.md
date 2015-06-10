@@ -142,4 +142,8 @@
 1. [Convert arguments to Array](http://davidwalsh.name/arguments-arrayl)
 1. [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
 1. [What are Javascript Source Maps](https://blog.logentries.com/2014/12/what-are-javascript-source-maps/)
+1. [Por que o nome Javascript Masters?](https://www.javascriptmasters.com.br/blog/mindfulness/por-que-o-nome-javascript-masters/)
+1. [O que é mindfulness?](https://www.javascriptmasters.com.br/blog/mindfulness/o-que-e-mindfulness/)
+1. [Como ter superpoderes na programação](https://www.javascriptmasters.com.br/blog/mindfulness/como-ter-superpoderes-na-programacao/)
+1. [Melhor aplicativo para meditação](https://www.javascriptmasters.com.br/blog/mindfulness/melhor-aplicativo-para-meditacao/)
 1. []()
