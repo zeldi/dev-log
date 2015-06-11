@@ -6,3 +6,4 @@
 1. [Web service](http://en.wikipedia.org/wiki/Web_service)
 1. [Hypermedia](http://en.wikipedia.org/wiki/Hypermedia)
 1. [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com/)
+1. [HATEOAS](http://en.wikipedia.org/wiki/HATEOAS)
