@@ -104,6 +104,7 @@
 1. [AngularJS Unknown provider: $scopeProvider](http://stackoverflow.com/questions/28752095/angularjs-unknown-provider-scopeprovider)
 1. [Watch and Code](http://watchandcode.com/)
 1. [Angular.js and My Opinion on Opinionated Software](http://www.quercussolutions.com/blog/index.php/angular-js-opinionated/)
+1. [Server vs client side rendering (AngularJS vs server side MVC)](http://technologyconversations.com/2014/07/10/server-vs-client-side-rendering-angularjs-vs-server-side-mvc/)
 1. []()
 
 ## Angular 2

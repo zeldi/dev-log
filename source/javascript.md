@@ -146,4 +146,5 @@
 1. [O que é mindfulness?](https://www.javascriptmasters.com.br/blog/mindfulness/o-que-e-mindfulness/)
 1. [Como ter superpoderes na programação](https://www.javascriptmasters.com.br/blog/mindfulness/como-ter-superpoderes-na-programacao/)
 1. [Melhor aplicativo para meditação](https://www.javascriptmasters.com.br/blog/mindfulness/melhor-aplicativo-para-meditacao/)
+1. [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 1. []()
