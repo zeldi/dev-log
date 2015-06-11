@@ -289,4 +289,5 @@
 1. [9 Questions To Ask Before You Accept A Startup Job](http://techcrunch.com/gallery/9-questions-to-ask-before-you-accept-a-startup-job)
 1. [Abbreviations Syntax](http://docs.emmet.io/abbreviations/syntax/)
 1. [Short story about rendering HTML, client side vs server side](http://eshlox.net/2014/05/04/short-story-about-rendering-html-client-side-vs-server-side/)
+1. [I want to build my own OS from scratch. How do I begin?](http://www.quora.com/I-want-to-build-my-own-OS-from-scratch-How-do-I-begin)
 1. []()
