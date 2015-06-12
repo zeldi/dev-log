@@ -96,4 +96,5 @@
 1. [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
 1. [Install / update NPM](https://github.com/npm/npm#fancy-install-unix)
 1. [Choosing Your Node.js Authentication Strategy](https://stormpath.com/blog/choosing-nodejs-authentication-strategy/)
+1. [HOW I SURVIVED MY BAPTISM OF FIRE WITH NODE.JS](http://www.nearform.com/nodecrunch/surviving-my-first-project-using-node-js)
 1. []()
