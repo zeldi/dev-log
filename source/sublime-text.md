@@ -6,6 +6,7 @@
 
 ## Sublime Puglins
 
+1. [Package Control](https://packagecontrol.io/)
 1. [Vintageous](https://github.com/guillermooo/Vintageous)
 1. [spacegray - theme](https://github.com/kkga/spacegray)
 1. [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
