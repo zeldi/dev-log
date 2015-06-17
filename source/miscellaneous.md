@@ -290,4 +290,6 @@
 1. [Abbreviations Syntax](http://docs.emmet.io/abbreviations/syntax/)
 1. [Short story about rendering HTML, client side vs server side](http://eshlox.net/2014/05/04/short-story-about-rendering-html-client-side-vs-server-side/)
 1. [I want to build my own OS from scratch. How do I begin?](http://www.quora.com/I-want-to-build-my-own-OS-from-scratch-How-do-I-begin)
-1. []()
+1. [What it’s really like to work for a tech giant](https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19)
+1. [Where Guitar Legends and Coders Overlap](https://medium.com/cuepoint/how-d-you-do-that-1c9d46db8e49)
+1. [O que é a Physical Web e por que me importar com ela?](https://medium.com/ux-user-experience-design-em-portugues/o-que-%C3%A9-a-physical-web-e-por-que-me-importar-com-ela-854d3a4e080b)

@@ -34,3 +34,4 @@
 1. [Remote working](http://www.remoteworking.io/)
 1. [Jobmote](http://jobmote.com/)
 1. [Contabilizei - Contabilidade Online](https://www.contabilizei.com.br/)
+1. [Find Bacon](https://findbacon.com)
