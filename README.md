@@ -44,6 +44,7 @@
 1. **[MEAN](/source/mean.md)**
 1. **[Messaging Queues](/source/messaging-queues.md)**
 1. **[Meteor](/source/meteor.md)**
+1. **[Microservices](/source/microservices.md)**
 1. **[Miscellaneous](/source/miscellaneous.md)**
 1. **[Mocha](/source/mocha.md)**
 1. **[MongoDB](/source/mongodb.md)**
