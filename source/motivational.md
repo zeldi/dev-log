@@ -8,5 +8,5 @@
 1. [6 verdades chocantes que irão fazer de você uma pessoa melhor](http://www.libertarianismo.org/index.php/artigos/6-verdades-chocantes-que-irao-fazer-de-voce-uma-pessoa-melhor/)
 1. [Seja ininterrupto, trabalhe duro, nada se consegue sem trabalho](https://www.youtube.com/watch?v=iz52rFnufPg)
 1. [Motivational 2015](https://www.youtube.com/watch?v=5xlTcd5f8vw)
-1. []()
+1. [Believe in yourself](https://www.youtube.com/watch?v=XxQN6IBeQtQ)
 1. []()
