@@ -103,5 +103,6 @@
 1. [Choosing Your Node.js Authentication Strategy](https://stormpath.com/blog/choosing-nodejs-authentication-strategy/)
 1. [How to Secure Passwords - Developer Best Practices](https://www.youtube.com/watch?v=6bR110r-RfY)
 1. [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
-1. []()
+1. [Build A Killer Node.js Client for Your REST+JSON API](https://www.youtube.com/watch?v=1FVAS7MdPXo)
+1. [Building and Deploying a Simple Express.js App with Stormpath and Heroku](https://www.youtube.com/watch?v=h0njpmcVLt8)
 1. []()
