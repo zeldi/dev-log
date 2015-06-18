@@ -295,3 +295,5 @@
 1. [O que é a Physical Web e por que me importar com ela?](https://medium.com/ux-user-experience-design-em-portugues/o-que-%C3%A9-a-physical-web-e-por-que-me-importar-com-ela-854d3a4e080b)
 1. [how-to-web-dev](https://github.com/prestonp/how-to-web-dev)
 1. [25 coders worth following on Twitter](http://blog.freecodecamp.com/2015/06/25-coders-worth-following-on-twitter-in-2015.html)
+1. [My Experience as a New Developer Evangelist](http://www.rdegges.com/my-experience-as-a-new-developer-evangelist/)
+1. [Enjoy Your Life](http://www.rdegges.com/enjoy-your-life/)

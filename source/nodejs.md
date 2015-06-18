@@ -105,4 +105,5 @@
 1. [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
 1. [Build A Killer Node.js Client for Your REST+JSON API](https://www.youtube.com/watch?v=1FVAS7MdPXo)
 1. [Building and Deploying a Simple Express.js App with Stormpath and Heroku](https://www.youtube.com/watch?v=h0njpmcVLt8)
-1. []()
+1. [5 steps to making a Node.js frontend app 10x faster](https://engineering.gosquared.com/making-dashboard-faster)
+1. [Writing Expressjs Middleware](https://www.youtube.com/watch?v=3NN4K3BEaQM)
