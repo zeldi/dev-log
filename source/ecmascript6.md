@@ -8,3 +8,4 @@
 1. [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
 1. [Standard ECMA-262, 6th edition (June 2015) - DailyJS](http://dailyjs.com/2015/06/18/standard-ecma-262-6th-edition-june-2015/)
 1. [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+1. [Exploring ES6](http://exploringjs.com/)

@@ -149,3 +149,4 @@
 1. [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 1. [Construct a JavaScript object without using the new keyword](http://stackoverflow.com/questions/1889014/can-i-construct-a-javascript-object-without-using-the-new-keyword)
 1. [Javascript.com resources](https://www.javascript.com/resources)
+1. [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
