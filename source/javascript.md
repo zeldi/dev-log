@@ -148,4 +148,4 @@
 1. [Melhor aplicativo para meditação](https://www.javascriptmasters.com.br/blog/mindfulness/melhor-aplicativo-para-meditacao/)
 1. [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 1. [Construct a JavaScript object without using the new keyword](http://stackoverflow.com/questions/1889014/can-i-construct-a-javascript-object-without-using-the-new-keyword)
-1. []()
+1. [Javascript.com resources](https://www.javascript.com/resources)

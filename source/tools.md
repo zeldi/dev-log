@@ -30,4 +30,4 @@
 1. [POSTMAN package app](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
 1. [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev)
 1. [300+ tools for tech startups & entrepreneurs](http://rajivpandey.com/300-tools-for-tech-startups-entrepreneurs/)
-1. []()
+1. [free-for-dev - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
