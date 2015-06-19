@@ -107,3 +107,7 @@
 1. [Building and Deploying a Simple Express.js App with Stormpath and Heroku](https://www.youtube.com/watch?v=h0njpmcVLt8)
 1. [5 steps to making a Node.js frontend app 10x faster](https://engineering.gosquared.com/making-dashboard-faster)
 1. [Writing Expressjs Middleware](https://www.youtube.com/watch?v=3NN4K3BEaQM)
+1. [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
+1. [svcc-auth](https://github.com/rdegges/svcc-auth)
+1. [Everything You Ever Wanted to Know About Authentication in Node.js - slides](https://speakerdeck.com/rdegges/everything-you-ever-wanted-to-know-about-authentication-in-node-dot-js)
+1. []()
