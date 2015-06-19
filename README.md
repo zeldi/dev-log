@@ -33,6 +33,7 @@
 1. **[Harp.js](/source/harp.md)**
 1. **[HTML](/source/html.md)**
 1. **[HTTP](/source/http.md)**
+1. **[HTTP2](/source/http2.md)**
 1. **[Human Resources](/source/human-resources.md)**
 1. **[io.js](/source/iojs.md)**
 1. **[Ionic](/source/ionic.md)**
