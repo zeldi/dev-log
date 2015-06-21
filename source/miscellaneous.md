@@ -297,3 +297,4 @@
 1. [25 coders worth following on Twitter](http://blog.freecodecamp.com/2015/06/25-coders-worth-following-on-twitter-in-2015.html)
 1. [My Experience as a New Developer Evangelist](http://www.rdegges.com/my-experience-as-a-new-developer-evangelist/)
 1. [Enjoy Your Life](http://www.rdegges.com/enjoy-your-life/)
+1. [Reverse-Engineering](http://www.computerworld.com/article/2585652/app-development/reverse-engineering.html)

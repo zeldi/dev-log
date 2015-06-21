@@ -150,3 +150,7 @@
 1. [Construct a JavaScript object without using the new keyword](http://stackoverflow.com/questions/1889014/can-i-construct-a-javascript-object-without-using-the-new-keyword)
 1. [Javascript.com resources](https://www.javascript.com/resources)
 1. [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
+1. [What is the difference between substr and substring](http://stackoverflow.com/questions/3745515/what-is-the-difference-between-substr-and-substring)
+1. [Javascript: Difference between substr and substring](https://nathanhoad.net/javascript-difference-between-substr-and-substring)
+1. [Format number to always show 2 decimal places](http://stackoverflow.com/questions/6134039/format-number-to-always-show-2-decimal-places)
+1. [How to test harmony / ES6 / ECMAScript 6 JavaScript](http://stackoverflow.com/questions/26304517/how-to-test-harmony-es6-ecmascript-6-javascript)

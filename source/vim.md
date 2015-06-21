@@ -41,11 +41,14 @@
 1. [Sublime Text 2 versus Vim on the topic of efficiency](http://www.reddit.com/r/webdev/comments/19lobl/serious_discussion_sublime_text_2_versus_vim_on/)
 1. [Search and replace](http://vim.wikia.com/wiki/Search_and_replace)
 1. [Folding](http://vim.wikia.com/wiki/Folding)
+1. [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
+1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
 1. []()
 
 ## Vim Plugins
 
 1. [vim-pathogen](https://github.com/tpope/vim-pathogen)
+1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
 1. [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 1. [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 1. [Emmet-vim](https://github.com/mattn/emmet-vim/)
