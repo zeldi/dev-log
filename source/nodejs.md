@@ -115,3 +115,6 @@
 1. [Build Secure User Interfaces using JWTs](https://www.youtube.com/watch?v=Lv9jun9Eqqw)
 1. [Building Secure User Interfaces With JWTs (JSON Web Tokens) - slides](http://www.slideshare.net/stormpath/building-secure-user-interfaces-with-jwts)
 1. [btc-sms - A simple API service that sends BTC exchange rates via SMS](https://github.com/rdegges/btc-sms)
+1. [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/)
+1. [Give npm scripts a chance](https://blog.cesarandreu.com/posts/give_npm_scripts_a_chance)
+1. [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)

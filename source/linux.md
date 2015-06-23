@@ -6,4 +6,6 @@
 1. [How to update Google chrome in Ubuntu](http://superuser.com/questions/130260/how-to-update-google-chrome-in-ubuntu)
 1. [How to update Firefox in Ubuntu](http://computernetworkingnotes.com/ubuntu-12-04-tips-and-tricks/how-to-update-firefox-in-ubuntu.html)
 1. [Programs](https://gist.github.com/ericdouglas/9617a3cd3a05849b21f7)
+1. [Get and display the size of file and directory in Linux system using du command](http://www.labtestproject.com/linuxcmd/du_command.html)
+1. [How to unzip a zip file from the Terminal](http://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal)
 1. []()
