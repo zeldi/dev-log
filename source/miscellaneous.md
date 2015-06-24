@@ -299,3 +299,4 @@
 1. [Enjoy Your Life](http://www.rdegges.com/enjoy-your-life/)
 1. [Reverse-Engineering](http://www.computerworld.com/article/2585652/app-development/reverse-engineering.html)
 1. [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+1. [3 dicas para tratamento de ansiedade](https://www.javascriptmasters.com.br/blog/mindfulness/3-dicas-para-tratamento-de-ansiedade/)
