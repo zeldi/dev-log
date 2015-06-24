@@ -300,3 +300,6 @@
 1. [Reverse-Engineering](http://www.computerworld.com/article/2585652/app-development/reverse-engineering.html)
 1. [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 1. [3 dicas para tratamento de ansiedade](https://www.javascriptmasters.com.br/blog/mindfulness/3-dicas-para-tratamento-de-ansiedade/)
+1. [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+1. [Example of Learning by Doing](http://www.engines4ed.org/hyperbook/nodes/NODE-121-pg.htmlp)
+1. [5 Ways You can Learn Programming Faster](http://www.cprogramming.com/how_to_learn_to_program.html)

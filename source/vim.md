@@ -43,6 +43,7 @@
 1. [Folding](http://vim.wikia.com/wiki/Folding)
 1. [Moving to matching braces](http://vim.wikia.com/wiki/Moving_to_matching_braces)
 1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
+1. [NERDTree reload new files](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
 1. []()
 
 ## Vim Plugins
