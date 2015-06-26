@@ -323,3 +323,6 @@
 1. ++[Fixed-Schedule Productivity: How I Accomplish a Large Amount of Work in a Small Number of Work Hours](http://calnewport.com/blog/2008/02/15/fixed-schedule-productivity-how-i-accomplish-a-large-amount-of-work-in-a-small-number-of-work-hours/)
 1. ++[The Art of the Finish: How to Go From Busy to Accomplished](http://www.scotthyoung.com/blog/2007/10/18/the-art-of-the-finish-how-to-go-from-busy-to-accomplished/)
 1. [The Einstein Principle: Accomplish More By Doing Less](http://calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
+1. [How do you apply deliberate practice to programming](http://www.quora.com/How-do-you-apply-deliberate-practice-to-programming)
+1. +++[Do Lots of Deliberate Practice](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice)
+1. [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
