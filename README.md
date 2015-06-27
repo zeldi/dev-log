@@ -79,6 +79,7 @@
 1. **[UNIX](/source/unix.md)**
 1. **[UX/UI](/source/ux-ui.md)**
 1. **[Vim](/source/vim.md)**
+1. **[WebAssembly](/source/webassembly.md)**
 1. **[Web Components](/source/web-components.md)**
 1. **[Web Design](/source/web-design.md)**
 1. **[Web Engineering](/source/web-engineering.md)**
