@@ -8,4 +8,4 @@
 1. [Programs](https://gist.github.com/ericdouglas/9617a3cd3a05849b21f7)
 1. [Get and display the size of file and directory in Linux system using du command](http://www.labtestproject.com/linuxcmd/du_command.html)
 1. [How to unzip a zip file from the Terminal](http://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal)
-1. []()
+1. [How to open a PDF file from terminal](http://askubuntu.com/questions/43264/how-to-open-a-pdf-file-from-terminal)

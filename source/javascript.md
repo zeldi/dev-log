@@ -156,4 +156,5 @@
 1. [How to test harmony / ES6 / ECMAScript 6 JavaScript](http://stackoverflow.com/questions/26304517/how-to-test-harmony-es6-ecmascript-6-javascript)
 1. [What is the “double tilde” (~~) operator in JavaScript](http://stackoverflow.com/questions/5971645/what-is-the-double-tilde-operator-in-javascript)
 1. [How to Become a Great JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
-1. []()
+1. [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618/differences-between-lodash-and-underscore)
+1. [WebAssembly e o futuro da Web](http://jaydson.org/webassembly-e-o-futuro-da-web/)

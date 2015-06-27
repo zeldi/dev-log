@@ -18,5 +18,5 @@
 1. [Query and Projection Operators](http://docs.mongodb.org/manual/reference/operator/query/)
 1. [db.collection.ensureIndex()](http://docs.mongodb.org/manual/reference/method/db.collection.ensureIndex/)
 1. [Perform Two Phase Commits](http://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/)
-1. []()
-1. []()
+1. [MongoDB 3.0.1 problems with auth - RoboMongo](http://stackoverflow.com/questions/29147839/mongodb-3-0-1-problems-with-auth-robomongo)
+1. [Mongodb-tools](http://mongodb-tools.com/)
