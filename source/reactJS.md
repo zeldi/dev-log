@@ -13,4 +13,4 @@
 1. [react-webpack-cookbook](https://github.com/christianalfoni/react-webpack-cookbook)
 1. [ to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 1. [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
-1. []()
+1. [ReactJS – Do you use it? Do you like it?](https://news.ycombinator.com/item?id=9751539)

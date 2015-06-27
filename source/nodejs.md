@@ -118,3 +118,4 @@
 1. [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/)
 1. [Give npm scripts a chance](https://blog.cesarandreu.com/posts/give_npm_scripts_a_chance)
 1. [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+1. [npm 3 - daily.js](http://dailyjs.com/2015/06/26/npm-3)
