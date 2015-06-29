@@ -22,3 +22,4 @@
 1. [Mongodb-tools](http://mongodb-tools.com/)
 1. [Is there a sample MongoDB Database along the lines of world for MySql](http://stackoverflow.com/questions/5723896/is-there-a-sample-mongodb-database-along-the-lines-of-world-for-mysql)
 1. [$addToSet](http://docs.mongodb.org/manual/reference/operator/update/addToSet/) 
+1. [$match (aggregation)](http://docs.mongodb.org/manual/reference/operator/aggregation/match/)

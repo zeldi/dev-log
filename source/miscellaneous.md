@@ -327,3 +327,4 @@
 1. +++[Do Lots of Deliberate Practice](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice)
 1. [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
 1. [How does basic HTTP Auth work](http://security.stackexchange.com/questions/755/how-does-basic-http-auth-work)
+1. [The psychology of how we learn](http://thenextweb.com/lifehacks/2015/06/28/the-psychology-of-how-we-learn/)
