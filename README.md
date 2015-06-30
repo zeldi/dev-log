@@ -67,6 +67,7 @@
 1. **[RegExp](/source/regexp.md)**
 1. **[REST](/source/rest.md)**
 1. **[Responsive Web Design](/source/rwd.md)**
+1. **[Self Improvement](/source/self-improvement.md)**
 1. **[SEO](/source/seo.md)**
 1. **[ShellScript](/source/shell-script.md)**
 1. **[Social Media](/source/social-media.md)**
