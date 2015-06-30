@@ -23,3 +23,5 @@
 1. [Is there a sample MongoDB Database along the lines of world for MySql](http://stackoverflow.com/questions/5723896/is-there-a-sample-mongodb-database-along-the-lines-of-world-for-mysql)
 1. [$addToSet](http://docs.mongodb.org/manual/reference/operator/update/addToSet/) 
 1. [$match (aggregation)](http://docs.mongodb.org/manual/reference/operator/aggregation/match/)
+1. [Is MapReduce good for aggregation in MongoDB?](http://www.quora.com/Is-MapReduce-good-for-aggregation-in-MongoDB)
+1. [When to Use MongoDB Rather than MySQL (or Other RDBMS): The Billing Example](http://java.dzone.com/articles/when-use-mongodb-rather-mysql)
