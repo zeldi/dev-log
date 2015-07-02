@@ -6,5 +6,5 @@
 1. [Continuous Integration in the Cloud: Comparing Travis, Circle and Codeship](https://strongloop.com/strongblog/node-js-travis-circle-codeship-compare)
 1. [Coveralls.io permissions](https://github.com/lemurheavy/coveralls-public/issues/461)
 1. [Building Better npm Modules with Travis and Coveralls](https://strongloop.com/strongblog/npm-modules-travis-coveralls/)
-1. []()
+1. [How to specify a build folder in Travis](http://stackoverflow.com/a/30016428/2849745)
 1. []()

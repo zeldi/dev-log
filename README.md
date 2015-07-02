@@ -43,6 +43,7 @@
 1. **[Jobs](/source/jobs.md)**
 1. **[JSON](/source/json.md)**
 1. **[Linux](/source/linux.md)**
+1. **[Make](/source/make.md)**
 1. **[MEAN](/source/mean.md)**
 1. **[Messaging Queues](/source/messaging-queues.md)**
 1. **[Meteor](/source/meteor.md)**
