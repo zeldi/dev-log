@@ -299,4 +299,4 @@
 1. [Reverse-Engineering](http://www.computerworld.com/article/2585652/app-development/reverse-engineering.html)
 1. [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 1. [How does basic HTTP Auth work](http://security.stackexchange.com/questions/755/how-does-basic-http-auth-work)
-1. []()
+1. [A Cautionary Tale of Learning to Code. My own.](http://blog.freecodecamp.com/2014/11/a-cautionary-tale-of-learning-to-code.html)

@@ -158,3 +158,4 @@
 1. [How to Become a Great JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
 1. [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618/differences-between-lodash-and-underscore)
 1. [WebAssembly e o futuro da Web](http://jaydson.org/webassembly-e-o-futuro-da-web/)
+1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
