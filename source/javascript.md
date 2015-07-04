@@ -159,3 +159,4 @@
 1. [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618/differences-between-lodash-and-underscore)
 1. [WebAssembly e o futuro da Web](http://jaydson.org/webassembly-e-o-futuro-da-web/)
 1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+1. [String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
