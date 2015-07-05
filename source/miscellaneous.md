@@ -302,4 +302,7 @@
 1. [A Cautionary Tale of Learning to Code. My own.](http://blog.freecodecamp.com/2014/11/a-cautionary-tale-of-learning-to-code.html)
 1. [Ask me anything - Sindre Sorhus](https://github.com/sindresorhus/ama)
 1. [How Much Does an Experienced Programmer Use Google](http://two-wrongs.com/how-much-does-an-experienced-programmer-use-google)
+1. [How do I handle people who have a bad opinion of me](http://www.quora.com/How-do-I-handle-people-who-have-a-bad-opinion-of-me)
+1. [How the Internet works](https://developer.mozilla.org/en-US/Learn/How_the_Internet_works)
+1. [What is a web server](https://developer.mozilla.org/en-US/Learn/What_is_a_web_server)
 1. []()
