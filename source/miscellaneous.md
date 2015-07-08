@@ -305,4 +305,4 @@
 1. [How do I handle people who have a bad opinion of me](http://www.quora.com/How-do-I-handle-people-who-have-a-bad-opinion-of-me)
 1. [How the Internet works](https://developer.mozilla.org/en-US/Learn/How_the_Internet_works)
 1. [What is a web server](https://developer.mozilla.org/en-US/Learn/What_is_a_web_server)
-1. []()
+1. [How Do You Learn To Code?](http://gizmodo.com/how-do-you-learn-to-code-1714925538)
