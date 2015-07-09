@@ -160,3 +160,5 @@
 1. [WebAssembly e o futuro da Web](http://jaydson.org/webassembly-e-o-futuro-da-web/)
 1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 1. [String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+1. [String.prototype.match()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/match)
+1. [String.prototype.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
