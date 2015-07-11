@@ -162,3 +162,4 @@
 1. [String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 1. [String.prototype.match()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/match)
 1. [String.prototype.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
+1. [String.fromCharCode()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
