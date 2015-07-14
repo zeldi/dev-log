@@ -163,3 +163,4 @@
 1. [String.prototype.match()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/match)
 1. [String.prototype.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 1. [String.fromCharCode()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
+1. [Array add/remove methods in JavaScript](http://stackoverflow.com/questions/8073673/how-can-i-add-new-array-elements-at-the-beginning-of-an-array-in-javascript)

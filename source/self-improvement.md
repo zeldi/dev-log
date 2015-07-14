@@ -39,3 +39,4 @@
 1. [Case Study: How I Got the Highest Grade in my Discrete Math Class](http://calnewport.com/blog/2008/11/25/case-study-how-i-got-the-highest-grade-in-my-discrete-math-class/)
 1. [The Ultimate Cheat Sheet for Mastery](http://www.jamesaltucher.com/2014/02/the-ultimate-cheat-sheet-for-mastery/)
 1. [The One Learning Technique That Scared The Heck Out of Bruce Lee](https://medium.com/life-learning/the-one-learning-technique-that-scared-the-heck-out-of-bruce-lee-b88ec2971020)
+1. [Start the new year with habits and systems, not goals](http://blog.crew.co/habits-and-systems-not-goals/)
