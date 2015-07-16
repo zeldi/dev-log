@@ -120,3 +120,5 @@
 1. [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 1. [npm 3 - daily.js](http://dailyjs.com/2015/06/26/npm-3)
 1. [getting current filename](http://stackoverflow.com/a/28319077)
+1. [Using ES6 Harmony with NodeJS](https://www.airpair.com/javascript/posts/using-es6-harmony-with-nodejs)
+1. []()

@@ -29,4 +29,4 @@
 1. [gist-embed](https://github.com/blairvanderhoof/gist-embed)
 1. [Open source projects: what to do with private/secret config data](http://stackoverflow.com/questions/5775215/open-source-projects-what-to-do-with-private-secret-config-data)
 1. [How do I open source my Rails' apps without giving away the app's secret keys and credentials](http://stackoverflow.com/questions/3207575/how-do-i-open-source-my-rails-apps-without-giving-away-the-apps-secret-keys-an)
-1. []()
+1. [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
