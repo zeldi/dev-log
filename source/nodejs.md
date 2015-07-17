@@ -121,4 +121,6 @@
 1. [npm 3 - daily.js](http://dailyjs.com/2015/06/26/npm-3)
 1. [getting current filename](http://stackoverflow.com/a/28319077)
 1. [Using ES6 Harmony with NodeJS](https://www.airpair.com/javascript/posts/using-es6-harmony-with-nodejs)
+1. [Start Writing ES6 JavaScript in your Node.js Apps Today](https://www.topcoder.com/blog/start-writing-es6-javascript-in-your-node-js-apps-today/)
+1. [run Node.js app with ES6 features enabled](http://stackoverflow.com/a/29415291)
 1. []()

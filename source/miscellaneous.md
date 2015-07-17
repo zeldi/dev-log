@@ -307,3 +307,4 @@
 1. [What is a web server](https://developer.mozilla.org/en-US/Learn/What_is_a_web_server)
 1. [How Do You Learn To Code?](http://gizmodo.com/how-do-you-learn-to-code-1714925538)
 1. +++[No CS Degree? No problem. Steps to Prepare for Your Code Interview](http://www.hackreactor.com/blog/no-cs-degree-programmer-engineer)
+1. [Why GitHub is not your CV](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)
