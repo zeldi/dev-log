@@ -40,3 +40,4 @@
 1. [The Ultimate Cheat Sheet for Mastery](http://www.jamesaltucher.com/2014/02/the-ultimate-cheat-sheet-for-mastery/)
 1. [The One Learning Technique That Scared The Heck Out of Bruce Lee](https://medium.com/life-learning/the-one-learning-technique-that-scared-the-heck-out-of-bruce-lee-b88ec2971020)
 1. [Start the new year with habits and systems, not goals](http://blog.crew.co/habits-and-systems-not-goals/)
+1. [The skill of self confidence](https://www.youtube.com/watch?v=w-HYZv6HzAs)
