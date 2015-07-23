@@ -309,4 +309,4 @@
 1. +++[No CS Degree? No problem. Steps to Prepare for Your Code Interview](http://www.hackreactor.com/blog/no-cs-degree-programmer-engineer)
 1. [Why GitHub is not your CV](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)
 1. [The self-hating Web Developer](http://joequery.me/code/the-self-hating-web-developer/)
-1. []()
+1. [Um programador que não dorme bem é um programador condenado.](https://medium.com/@valdiney/um-programador-que-n%C3%A3o-dorme-%C3%A9-um-programador-condenado-c79548b3efd1)
