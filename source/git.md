@@ -30,3 +30,5 @@
 1. [Open source projects: what to do with private/secret config data](http://stackoverflow.com/questions/5775215/open-source-projects-what-to-do-with-private-secret-config-data)
 1. [How do I open source my Rails' apps without giving away the app's secret keys and credentials](http://stackoverflow.com/questions/3207575/how-do-i-open-source-my-rails-apps-without-giving-away-the-apps-secret-keys-an)
 1. [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+1. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+1. [Try Git](http://try.github.io/levels/1/challenges/1)
