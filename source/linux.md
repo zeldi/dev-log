@@ -11,3 +11,5 @@
 1. [How to open a PDF file from terminal](http://askubuntu.com/questions/43264/how-to-open-a-pdf-file-from-terminal)
 1. [Spotify for Linux](https://www.spotify.com/br/download/linux/)
 1. [5 Amazing Linux IRC Clients to Keep You Chatting](http://www.makeuseof.com/tag/5-amazing-linux-irc-clients-to-keep-you-chatting/)
+1. [What are some GUI clients for Git?](http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git)
+1. [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle)

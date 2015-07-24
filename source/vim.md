@@ -67,4 +67,5 @@
 1. [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 1. [vim-snipmate](https://github.com/garbas/vim-snipmate)
-1. [autoclose](http://www.vim.org/scripts/script.php?script_id=1849)
+1. [vim-handlebars](https://github.com/nono/vim-handlebars)
+1. [delimitMate](https://github.com/Raimondi/delimitMate)
