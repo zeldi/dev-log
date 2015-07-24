@@ -46,6 +46,7 @@
 1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
 1. [NERDTree reload new files](http://stackoverflow.com/questions/8793489/nerdtree-reload-new-files)
 1. [How to increase the vertical split window size in Vim](http://stackoverflow.com/questions/4368690/how-to-increase-the-vertical-split-window-size-in-vim)
+1. [VIM Highlight the whole current line](http://stackoverflow.com/questions/8750792/vim-highlight-the-whole-current-line)
 
 ## Vim Plugins
 
