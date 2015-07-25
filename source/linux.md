@@ -13,3 +13,4 @@
 1. [5 Amazing Linux IRC Clients to Keep You Chatting](http://www.makeuseof.com/tag/5-amazing-linux-irc-clients-to-keep-you-chatting/)
 1. [What are some GUI clients for Git?](http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git)
 1. [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle)
+1. [Linux and Unix mkdir command](http://www.computerhope.com/unix/umkdir.htm)
