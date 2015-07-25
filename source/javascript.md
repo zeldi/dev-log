@@ -165,3 +165,4 @@
 1. [String.fromCharCode()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
 1. [Array add/remove methods in JavaScript](http://stackoverflow.com/questions/8073673/how-can-i-add-new-array-elements-at-the-beginning-of-an-array-in-javascript)
 1. [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
+1. [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
