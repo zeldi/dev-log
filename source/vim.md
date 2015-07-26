@@ -49,6 +49,7 @@
 1. [VIM Highlight the whole current line](http://stackoverflow.com/questions/8750792/vim-highlight-the-whole-current-line)
 1. [How to effectively work with multiple files in Vim](http://stackoverflow.com/a/53668/2849745)
 1. [Create file inside new directory in vim in one step](http://stackoverflow.com/a/10395390/2849745)
+1. [Vim cheat sheet](https://gist.github.com/ericdouglas/401999edc3deec1acd4f)
 
 ## Vim Plugins
 
