@@ -15,3 +15,4 @@
 1. [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle)
 1. [Linux and Unix mkdir command](http://www.computerhope.com/unix/umkdir.htm)
 1. [Menubar has disappeared from all apps](https://forum.kde.org/viewtopic.php?f=66&t=109594)
+1. [Open a folder with GUI from terminal](http://askubuntu.com/questions/265641/how-to-open-a-folder-with-gui-from-terminal)

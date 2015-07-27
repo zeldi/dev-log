@@ -14,3 +14,5 @@
 1. [What we’ve learnt from Ember.js after 2 months developing our new product. A Solid story](http://blog.getsolid.io/what-weve-learn-from-ember-js-after-2-months-developing-our-new-product-a-solid-story/)
 1. [Ember.js: An Antidote To Your Hype Fatigue](http://brewhouse.io/blog/2015/05/13/emberjs-an-antidote-to-your-hype-fatigue.html)
 1. [Ember.js Style Guide - Dockyard](https://github.com/dockyard/styleguides/blob/master/ember.md)
+1. [Ember Addons](http://www.emberaddons.com/)
+1. [Emblem.js](http://emblemjs.com/)

@@ -312,3 +312,5 @@
 1. [Um programador que não dorme bem é um programador condenado.](https://medium.com/@valdiney/um-programador-que-n%C3%A3o-dorme-%C3%A9-um-programador-condenado-c79548b3efd1)
 1. [How a software engineer spend his/her time](http://www.quora.com/Does-having-a-very-low-TopCoder-rating-make-someone-unemployable/answer/Mattias-Petter-Johansson)
 1. [OverAPI](http://overapi.com/)
+1. [Como o gif animado pode ser peça chave no seu trampo remoto](http://blog.startae.com.br/2014/10/como-o-gif-animado-pode-ser-peca-chave-no-seu-trampo-remoto.html)
+1. [Stay hungry, stay foolish](http://www.naopossoevitar.com.br/2009/05/stay-hungry-stay-foolish.html)
