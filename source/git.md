@@ -32,3 +32,5 @@
 1. [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 1. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 1. [Try Git](http://try.github.io/levels/1/challenges/1)
+1. [Git-flow cheat sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+1. +++[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)

@@ -16,3 +16,6 @@
 1. [Ember.js Style Guide - Dockyard](https://github.com/dockyard/styleguides/blob/master/ember.md)
 1. [Ember Addons](http://www.emberaddons.com/)
 1. [Emblem.js](http://emblemjs.com/)
+1. [HTMLBars (slides) - Erik Bryn](http://talks.erikbryn.com/htmlbars/#/)
+1. [HTMLBars - A Feature-by-Feature Review](http://colintoh.com/blog/htmlbars)
+1. [What is HTMLBars and how is it better than Handlebars](http://voidcanvas.com/what-is-htmlbars-and-how-its-better-than-handlebars/)
