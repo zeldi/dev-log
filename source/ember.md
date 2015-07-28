@@ -19,3 +19,5 @@
 1. [HTMLBars (slides) - Erik Bryn](http://talks.erikbryn.com/htmlbars/#/)
 1. [HTMLBars - A Feature-by-Feature Review](http://colintoh.com/blog/htmlbars)
 1. [What is HTMLBars and how is it better than Handlebars](http://voidcanvas.com/what-is-htmlbars-and-how-its-better-than-handlebars/)
+1. [An Agile Design Manifesto (for Ember.js)](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869)
+1. [EmberConf 2015 Summary](https://github.com/ericdouglas/emberconf-2015)

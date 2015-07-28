@@ -34,3 +34,5 @@
 1. [Try Git](http://try.github.io/levels/1/challenges/1)
 1. [Git-flow cheat sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 1. +++[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+1. [fully delete a git repository created with init](http://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init)
+1. [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit)

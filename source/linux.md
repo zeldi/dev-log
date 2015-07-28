@@ -16,3 +16,4 @@
 1. [Linux and Unix mkdir command](http://www.computerhope.com/unix/umkdir.htm)
 1. [Menubar has disappeared from all apps](https://forum.kde.org/viewtopic.php?f=66&t=109594)
 1. [Open a folder with GUI from terminal](http://askubuntu.com/questions/265641/how-to-open-a-folder-with-gui-from-terminal)
+1. [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
