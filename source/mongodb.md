@@ -25,3 +25,4 @@
 1. [$match (aggregation)](http://docs.mongodb.org/manual/reference/operator/aggregation/match/)
 1. [Is MapReduce good for aggregation in MongoDB?](http://www.quora.com/Is-MapReduce-good-for-aggregation-in-MongoDB)
 1. [When to Use MongoDB Rather than MySQL (or Other RDBMS): The Billing Example](http://java.dzone.com/articles/when-use-mongodb-rather-mysql)
+1. [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)

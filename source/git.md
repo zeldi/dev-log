@@ -36,3 +36,4 @@
 1. +++[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 1. [fully delete a git repository created with init](http://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init)
 1. [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit)
+1. [Remove files from staging area](http://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area)
