@@ -74,3 +74,4 @@
 1. [vim-handlebars](https://github.com/nono/vim-handlebars)
 1. [delimitMate](https://github.com/Raimondi/delimitMate)
 1. [commentary.vim](https://github.com/tpope/vim-commentary)
+1. [vim-emblem](https://github.com/heartsentwined/vim-emblem)

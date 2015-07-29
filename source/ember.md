@@ -21,3 +21,4 @@
 1. [What is HTMLBars and how is it better than Handlebars](http://voidcanvas.com/what-is-htmlbars-and-how-its-better-than-handlebars/)
 1. [An Agile Design Manifesto (for Ember.js)](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869)
 1. [EmberConf 2015 Summary](https://github.com/ericdouglas/emberconf-2015)
+1. [Preparing for Ember 2.0](http://www.samselikoff.com/blog/preparing-for-ember-2.0/)
