@@ -32,3 +32,8 @@
 1. [Ember Data Relationships](http://emberjs.com/api/data/classes/DS.html#method_belongsTo)
 1. [Ember Data Model Maker](http://andycrum.github.io/ember-data-model-maker/)
 1. [CONNECTING TO AN HTTP SERVER](http://guides.emberjs.com/v1.13.0/models/connecting-to-an-http-server/)
+1. [The Frustratingly Lovable Crazy-making Huggable Ball of Whack That Is Ember.js](http://rob.conery.io/2014/05/28/the-frustratingly-lovable-crazy-making-huggable-ball-of-whack-that-is-ember-js/)
+1. [Emberkit](https://emberkit.com/)
+1. [Ember Components](http://ember-components.com/)
+1. [9 THINGS YOU SHOULD KNOW BEFORE STARTING YOUR NEXT EMBER.JS AND EMBER DATA APPLICATION](http://bigemployee.com/9-things-you-should-know-before-starting-your-next-ember-js-and-ember-data-application/)
+1. [Awesome Ember.js Form Components](http://alexspeller.com/simple-forms-with-ember/)
