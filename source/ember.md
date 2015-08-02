@@ -37,3 +37,6 @@
 1. [Ember Components](http://ember-components.com/)
 1. [9 THINGS YOU SHOULD KNOW BEFORE STARTING YOUR NEXT EMBER.JS AND EMBER DATA APPLICATION](http://bigemployee.com/9-things-you-should-know-before-starting-your-next-ember-js-and-ember-data-application/)
 1. [Awesome Ember.js Form Components](http://alexspeller.com/simple-forms-with-ember/)
+1. [How to Get Started Writing Tests Right Now](http://jrjohnson.github.io/talks/2015-07-testing-in-emberjs/#1)
+1. [Ember Weekend - Podcast](https://emberweekend.com/episodes)
+1. [Getting started with Ember and Ember CLI](http://www.sitepoint.com/getting-started-with-ember-and-ember-cli)

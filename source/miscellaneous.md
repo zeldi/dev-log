@@ -315,3 +315,4 @@
 1. [Como o gif animado pode ser peça chave no seu trampo remoto](http://blog.startae.com.br/2014/10/como-o-gif-animado-pode-ser-peca-chave-no-seu-trampo-remoto.html)
 1. [Stay hungry, stay foolish](http://www.naopossoevitar.com.br/2009/05/stay-hungry-stay-foolish.html)
 1. [Point of delivery (networking)](https://en.wikipedia.org/wiki/Point_of_delivery_(networking))
+1. [Do things, tell people.](http://carl.flax.ie/dothingstellpeople.html)
