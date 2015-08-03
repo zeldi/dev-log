@@ -40,3 +40,5 @@
 1. [How to Get Started Writing Tests Right Now](http://jrjohnson.github.io/talks/2015-07-testing-in-emberjs/#1)
 1. [Ember Weekend - Podcast](https://emberweekend.com/episodes)
 1. [Getting started with Ember and Ember CLI](http://www.sitepoint.com/getting-started-with-ember-and-ember-cli)
+1. [Ember CLI + Firebase in 9 Minutes](https://www.firebase.com/blog/2015-03-13-ember-cli-in-9-minutes.html) - [source code](https://github.com/sararob/ember-cli-screencast)
+1. [Firebase - New Bindings for EmberJS](https://www.firebase.com/blog/2014-03-21-new-firebase-ember-bindings.html) - [source code](https://github.com/firebase/emberfire/tree/master/tests/dummy)
