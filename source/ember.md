@@ -44,3 +44,4 @@
 1. [Firebase - New Bindings for EmberJS](https://www.firebase.com/blog/2014-03-21-new-firebase-ember-bindings.html) - [source code](https://github.com/firebase/emberfire/tree/master/tests/dummy)
 1. [Rails or Node.js for Ember.js backend stack](http://www.quora.com/Rails-or-Node-js-for-Ember-js-backend-stack)
 1. [ember-simple-auth](https://github.com/simplabs/ember-simple-auth)
+1. [ember uninstall:addon](https://github.com/ember-cli/ember-cli/issues/3163)

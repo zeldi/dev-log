@@ -50,6 +50,8 @@
 1. [How to effectively work with multiple files in Vim](http://stackoverflow.com/a/53668/2849745)
 1. [Create file inside new directory in vim in one step](http://stackoverflow.com/a/10395390/2849745)
 1. [Vim cheat sheet](https://gist.github.com/ericdouglas/401999edc3deec1acd4f)
+1. [File Explorer](http://vim.wikia.com/wiki/File_explorer)
+1. [Open the directory of the current open file](http://superuser.com/a/48186) - `Sex` and `Vex`
 
 ## Vim Plugins
 
@@ -75,3 +77,4 @@
 1. [delimitMate](https://github.com/Raimondi/delimitMate)
 1. [commentary.vim](https://github.com/tpope/vim-commentary)
 1. [vim-emblem](https://github.com/heartsentwined/vim-emblem)
+1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)

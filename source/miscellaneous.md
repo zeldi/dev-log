@@ -316,3 +316,4 @@
 1. [Stay hungry, stay foolish](http://www.naopossoevitar.com.br/2009/05/stay-hungry-stay-foolish.html)
 1. [Point of delivery (networking)](https://en.wikipedia.org/wiki/Point_of_delivery_(networking))
 1. [Do things, tell people.](http://carl.flax.ie/dothingstellpeople.html)
+1. [The 11 Phases of a Web Developer’s Career](https://code.tutsplus.com/articles/the-11-phases-of-a-web-developers-career-as-illustrated-by-memes--net-30840)
