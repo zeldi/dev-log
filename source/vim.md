@@ -52,6 +52,8 @@
 1. [Vim cheat sheet](https://gist.github.com/ericdouglas/401999edc3deec1acd4f)
 1. [File Explorer](http://vim.wikia.com/wiki/File_explorer)
 1. [Open the directory of the current open file](http://superuser.com/a/48186) - `Sex` and `Vex`
+1. [Opening files in the same folder as the current file](http://stackoverflow.com/a/1708936/2849745)
+1. [Leaders](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
 
 ## Vim Plugins
 
