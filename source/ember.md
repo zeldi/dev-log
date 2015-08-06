@@ -45,3 +45,6 @@
 1. [Rails or Node.js for Ember.js backend stack](http://www.quora.com/Rails-or-Node-js-for-Ember-js-backend-stack)
 1. [ember-simple-auth](https://github.com/simplabs/ember-simple-auth)
 1. [ember uninstall:addon](https://github.com/ember-cli/ember-cli/issues/3163)
+1. [EMBER.SELECT CLASS](http://emberjs.com/api/classes/Ember.Select.html)
+1. [Future-proofing your Ember 1.x code](https://gist.github.com/samselikoff/1d7300ce59d216fdaf97)
+1. [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/)

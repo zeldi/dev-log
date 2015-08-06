@@ -169,3 +169,4 @@
 1. [JavaScript Modules](http://jsmodules.io/)
 1. [When does it make sense to use an MVC framework for JavaScript?](http://www.quora.com/When-does-it-make-sense-to-use-an-MVC-framework-for-JavaScript)
 1. [Why CoffeeScript Isn't the Answer](https://news.ycombinator.com/item?id=7496522)
+1. [Making Netflix.com Faster](http://techblog.netflix.com/2015/08/making-netflixcom-faster.html)
