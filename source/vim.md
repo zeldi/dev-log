@@ -80,3 +80,5 @@
 1. [commentary.vim](https://github.com/tpope/vim-commentary)
 1. [vim-emblem](https://github.com/heartsentwined/vim-emblem)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+1. [vim-fugitive](https://github.com/tpope/vim-fugitive)
+1. [Install powerline](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
