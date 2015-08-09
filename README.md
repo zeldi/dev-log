@@ -1,4 +1,4 @@
-![developer log](http://i.imgur.com/FLO5Sar.png)
+![developer log](http://i.imgur.com/YGbjYNy.png)
 
 **My logfile**
 
