@@ -48,3 +48,9 @@
 1. [EMBER.SELECT CLASS](http://emberjs.com/api/classes/Ember.Select.html)
 1. [Future-proofing your Ember 1.x code](https://gist.github.com/samselikoff/1d7300ce59d216fdaf97)
 1. [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/)
+1. [Ember-cli runtime configuration](http://www.ember-cli.com/#runtime-configuration)
+1. [Save Port number for ember-cli in a config file](http://stackoverflow.com/questions/24003944/save-port-number-for-ember-cli-in-a-config-file)
+1. [MANAGING DEPENDENCIES with ember-cli](http://www.ember-cli.com/managing-dependencies/)
+1. [Recommendations for ember material design libs](http://discuss.emberjs.com/t/recommendations-for-ember-material-design-libs/8447/6)
+1. [Material Design Lite for Ember.js Apps](https://github.com/mike-north/ember-material-lite)
+

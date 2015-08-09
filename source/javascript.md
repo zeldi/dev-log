@@ -170,3 +170,6 @@
 1. [When does it make sense to use an MVC framework for JavaScript?](http://www.quora.com/When-does-it-make-sense-to-use-an-MVC-framework-for-JavaScript)
 1. [Why CoffeeScript Isn't the Answer](https://news.ycombinator.com/item?id=7496522)
 1. [Making Netflix.com Faster](http://techblog.netflix.com/2015/08/making-netflixcom-faster.html)
+1. [JavaScript do futuro no presente](http://shipit.resultadosdigitais.com.br/blog/javascript-do-futuro-no-presente/)
+1. [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html)
+1. [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)

@@ -125,3 +125,4 @@
 1. [run Node.js app with ES6 features enabled](http://stackoverflow.com/a/29415291)
 1. [Version badge](http://badge.fury.io/)
 1. [NodeICO](https://nodei.co)
+1. [Babel CLI](http://babeljs.io/docs/usage/cli/)
