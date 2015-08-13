@@ -53,4 +53,10 @@
 1. [MANAGING DEPENDENCIES with ember-cli](http://www.ember-cli.com/managing-dependencies/)
 1. [Recommendations for ember material design libs](http://discuss.emberjs.com/t/recommendations-for-ember-material-design-libs/8447/6)
 1. [Material Design Lite for Ember.js Apps](https://github.com/mike-north/ember-material-lite)
-
+1. [Ember Simple Auth](https://github.com/simplabs/ember-simple-auth)
+1. [Ember Simple Auth Devise](https://github.com/simplabs/ember-simple-auth/tree/master/packages/ember-simple-auth-devise)
+1. [Ember Simple Auth: Tutorial And Common Problems](http://johnmosesman.com/ember-simple-auth-tutorial-and-common-problems/)
+1. [EMBER.JS 2.0 RELEASED](http://emberjs.com/blog/2015/08/13/ember-2-0-released.html)
+1. [8 Reasons to not use Ember.js for your next project](http://aokolish.me/blog/2014/11/16/8-reasons-i-won't-be-choosing-ember.js-for-my-next-app/)
+1. [Getting Started with Ember 2.0: Ember-cli](https://medium.com/@jamesfuthey/getting-started-with-ember-cli-3dd0a4022415)
+1. [A Gentle Introduction to Ember 2.0](https://medium.com/@jamesfuthey/8ef1f378ee4)

@@ -173,3 +173,6 @@
 1. [JavaScript do futuro no presente](http://shipit.resultadosdigitais.com.br/blog/javascript-do-futuro-no-presente/)
 1. [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html)
 1. [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
+1. [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
+1. [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245)
+1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)

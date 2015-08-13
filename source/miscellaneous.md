@@ -317,3 +317,5 @@
 1. [Point of delivery (networking)](https://en.wikipedia.org/wiki/Point_of_delivery_(networking))
 1. [Do things, tell people.](http://carl.flax.ie/dothingstellpeople.html)
 1. [The 11 Phases of a Web Developer’s Career](https://code.tutsplus.com/articles/the-11-phases-of-a-web-developers-career-as-illustrated-by-memes--net-30840)
+1. [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+1. [Authentication vs authorization](http://stackoverflow.com/questions/6367865/is-there-a-difference-between-authentication-and-authorization)
