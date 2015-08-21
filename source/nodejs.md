@@ -126,3 +126,4 @@
 1. [Version badge](http://badge.fury.io/)
 1. [NodeICO](https://nodei.co)
 1. [Babel CLI](http://babeljs.io/docs/usage/cli/)
+1. [4.0 is the new 1.0](https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d)

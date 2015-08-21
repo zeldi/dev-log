@@ -41,4 +41,6 @@
 1. [The One Learning Technique That Scared The Heck Out of Bruce Lee](https://medium.com/life-learning/the-one-learning-technique-that-scared-the-heck-out-of-bruce-lee-b88ec2971020)
 1. [Start the new year with habits and systems, not goals](http://blog.crew.co/habits-and-systems-not-goals/)
 1. [The skill of self confidence](https://www.youtube.com/watch?v=w-HYZv6HzAs)
-  1. [A História Que Deveriam Te Contar](https://www.youtube.com/watch?v=FDJvQyq3wpo)
+1. [A História Que Deveriam Te Contar](https://www.youtube.com/watch?v=FDJvQyq3wpo)
+1. [Getting to Simple: How Do Experts Figure out the Correct Things to Focus On](http://jamesclear.com/getting-simple)
+1. [Too Much to Do, Not Enough Time](http://zenhabits.net/overloaded/)

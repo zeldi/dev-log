@@ -18,3 +18,4 @@
 1. [Open a folder with GUI from terminal](http://askubuntu.com/questions/265641/how-to-open-a-folder-with-gui-from-terminal)
 1. [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 1. [Linux shortcuts](https://gist.github.com/ericdouglas/f714d68514e9983af629)
+1. [Add an alias to a command terminal](http://askubuntu.com/questions/154640/how-to-add-an-alias-to-a-command-in-terminal)

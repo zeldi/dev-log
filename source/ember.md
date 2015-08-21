@@ -60,3 +60,8 @@
 1. [8 Reasons to not use Ember.js for your next project](http://aokolish.me/blog/2014/11/16/8-reasons-i-won't-be-choosing-ember.js-for-my-next-app/)
 1. [Getting Started with Ember 2.0: Ember-cli](https://medium.com/@jamesfuthey/getting-started-with-ember-cli-3dd0a4022415)
 1. [A Gentle Introduction to Ember 2.0](https://medium.com/@jamesfuthey/8ef1f378ee4)
+1. [Ember Observer](http://emberobserver.com/)
+1. [Ember sortable](https://github.com/jgwhite/ember-sortable)
+1. [Violating Content Security Policy](http://stackoverflow.com/questions/26192316/violating-content-security-policy-directive-after-ember-cli-0-0-47-upgrade)
+1. [Use third party npm packages with ember cli app](http://stackoverflow.com/questions/26544578/how-to-use-third-party-npm-packages-with-ember-cli-app)
+1. [Get Emberjs generated element id in controller](http://stackoverflow.com/questions/26159979/how-to-get-emberjs-generated-element-id-in-controller)
