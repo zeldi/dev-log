@@ -320,3 +320,4 @@
 1. [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 1. [Authentication vs authorization](http://stackoverflow.com/questions/6367865/is-there-a-difference-between-authentication-and-authorization)
 1. [How long would it take an average person with no programming background to become a full-stack developer](http://www.quora.com/How-long-would-it-take-an-average-person-with-no-programming-background-to-become-a-full-stack-developer)
+1. [Interacionismo e Construtivismo](http://pedagogiadidatica.blogspot.com.br/2008/11/construtivismo.html)

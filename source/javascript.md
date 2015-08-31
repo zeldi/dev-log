@@ -176,3 +176,6 @@
 1. [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
 1. [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245)
 1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+1. [Get value of child <div> of a parent <div>](http://stackoverflow.com/questions/8769158/get-value-of-child-div-of-a-parent-div)
+1. [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
+1. [How do I become better at JavaScript?](https://www.quora.com/How-do-I-become-better-at-JavaScript)

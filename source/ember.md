@@ -65,3 +65,4 @@
 1. [Violating Content Security Policy](http://stackoverflow.com/questions/26192316/violating-content-security-policy-directive-after-ember-cli-0-0-47-upgrade)
 1. [Use third party npm packages with ember cli app](http://stackoverflow.com/questions/26544578/how-to-use-third-party-npm-packages-with-ember-cli-app)
 1. [Get Emberjs generated element id in controller](http://stackoverflow.com/questions/26159979/how-to-get-emberjs-generated-element-id-in-controller)
+1. [get the store in a component in ember.js](http://stackoverflow.com/questions/19969028/how-to-get-the-store-in-a-component-in-ember-js)

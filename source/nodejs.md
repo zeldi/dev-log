@@ -127,3 +127,4 @@
 1. [NodeICO](https://nodei.co)
 1. [Babel CLI](http://babeljs.io/docs/usage/cli/)
 1. [4.0 is the new 1.0](https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d)
+1. [Working without frameworks (Part 1)](https://medium.com/node-js-javascript/working-without-frameworks-part-1-b948f281f782)
