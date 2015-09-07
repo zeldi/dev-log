@@ -19,3 +19,5 @@
 1. [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 1. [Linux shortcuts](https://gist.github.com/ericdouglas/f714d68514e9983af629)
 1. [Add an alias to a command terminal](http://askubuntu.com/questions/154640/how-to-add-an-alias-to-a-command-in-terminal)
+1. [How to create animated GIF images of a screencast](http://askubuntu.com/questions/107726/how-to-create-animated-gif-images-of-a-screencast)
+1. [VLC ALLOWS YOU TO CONVERT VIDEOS](http://www.webupd8.org/2009/08/vlc-allows-you-to-convert-videos-quick.html)
