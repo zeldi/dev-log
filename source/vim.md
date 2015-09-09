@@ -54,6 +54,7 @@
 1. [Open the directory of the current open file](http://superuser.com/a/48186) - `Sex` and `Vex`
 1. [Opening files in the same folder as the current file](http://stackoverflow.com/a/1708936/2849745)
 1. [Leaders](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
+1. [Showing a different background colour in Vim past 80 characters](http://stackoverflow.com/questions/2447109/showing-a-different-background-colour-in-vim-past-80-characters)
 
 ## Vim Plugins
 
