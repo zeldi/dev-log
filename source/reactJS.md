@@ -16,3 +16,4 @@
 1. [ReactJS – Do you use it? Do you like it?](https://news.ycombinator.com/item?id=9751539)
 1. [Isomorphic React Apps with React-Engine](https://www.paypal-engineering.com/2015/04/27/isomorphic-react-apps-with-react-engine/)
 1. [Making Netflix.com Faster](http://techblog.netflix.com/2015/08/making-netflixcom-faster.html)
+1. [New React Developer Tools](http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)

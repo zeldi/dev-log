@@ -7,3 +7,4 @@
 1. [AngularJS vs. Backbone.js vs. Ember.js](https://www.airpair.com/js/javascript-framework-comparison)
 1. [How to Become a Great Front-End Engineer](http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/)
 1. [Find available versions for a bower dependency](http://stackoverflow.com/questions/21242143/how-to-find-available-versions-for-a-bower-dependency)
+1. [The State of Front-End Tooling – 2015](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)

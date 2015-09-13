@@ -44,3 +44,4 @@
 1. [A História Que Deveriam Te Contar](https://www.youtube.com/watch?v=FDJvQyq3wpo)
 1. [Getting to Simple: How Do Experts Figure out the Correct Things to Focus On](http://jamesclear.com/getting-simple)
 1. [Too Much to Do, Not Enough Time](http://zenhabits.net/overloaded/)
+1. +++[Como pensar](https://www.youtube.com/watch?v=nwgm7-VrpOg)

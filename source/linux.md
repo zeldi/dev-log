@@ -21,3 +21,5 @@
 1. [Add an alias to a command terminal](http://askubuntu.com/questions/154640/how-to-add-an-alias-to-a-command-in-terminal)
 1. [How to create animated GIF images of a screencast](http://askubuntu.com/questions/107726/how-to-create-animated-gif-images-of-a-screencast)
 1. [VLC ALLOWS YOU TO CONVERT VIDEOS](http://www.webupd8.org/2009/08/vlc-allows-you-to-convert-videos-quick.html)
+1. [VLC Media Player Shortcuts](http://www.shortcutworld.com/en/win/VLC-Media-Player.html)
+1. [Controlling Playback Speed in VLC Media Player](https://www.vlchelp.com/controlling-playback-speed-vlc-media-player/)
