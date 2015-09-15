@@ -55,6 +55,8 @@
 1. [Opening files in the same folder as the current file](http://stackoverflow.com/a/1708936/2849745)
 1. [Leaders](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
 1. [Showing a different background colour in Vim past 80 characters](http://stackoverflow.com/questions/2447109/showing-a-different-background-colour-in-vim-past-80-characters)
+1. [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db)
+1. [Display line numbers](http://vim.wikia.com/wiki/Display_line_numbers)
 
 ## Vim Plugins
 
@@ -75,11 +77,13 @@
 1. [vim-airline](https://github.com/bling/vim-airline)
 1. [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
-1. [vim-snipmate](https://github.com/garbas/vim-snipmate)
+1. [ultisnips](https://github.com/SirVer/ultisnips)
 1. [vim-handlebars](https://github.com/nono/vim-handlebars)
 1. [delimitMate](https://github.com/Raimondi/delimitMate)
 1. [commentary.vim](https://github.com/tpope/vim-commentary)
-1. [vim-emblem](https://github.com/heartsentwined/vim-emblem)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 1. [vim-fugitive](https://github.com/tpope/vim-fugitive)
 1. [Install powerline](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
+1. [vim-javascript](https://github.com/pangloss/vim-javascript)
+1. [CtrlP](https://github.com/kien/ctrlp.vim)
+1. [necomplete](https://github.com/Shougo/neocomplete.vim)

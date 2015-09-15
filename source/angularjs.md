@@ -110,4 +110,4 @@
 ## Angular 2
 
 1. [Why Will Angular 2 Rock?](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
-1. []()
+1. [Thoughts on Angular 2 after ng-conf 2015](https://medium.com/@aripalo/thoughts-on-angular-2-after-ng-conf-2015-and-some-whisky-8392c260095c)
