@@ -130,3 +130,5 @@
 1. [Working without frameworks (Part 1)](https://medium.com/node-js-javascript/working-without-frameworks-part-1-b948f281f782)
 1. [ES6 on Node.js](https://nodejs.org/en/docs/es6/)
 1. [express-generator](https://github.com/expressjs/generator)
+1. [Secure Node Apps Against OWASP Top 10 - Injection](http://scottksmith.com/blog/2015/06/08/secure-node-apps-against-owasp-top-10-injection/)
+1. [Change value of process.env.PORT in node.js?](http://stackoverflow.com/questions/13333221/how-to-change-value-of-process-env-port-in-node-js)

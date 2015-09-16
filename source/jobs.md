@@ -42,3 +42,4 @@
 1. [Understanding H-1B Requirements](http://www.uscis.gov/eir/visa-guide/h-1b-specialty-occupation/understanding-h-1b-requirements)
 1. [GeekHunter](http://www.geekhunter.com.br/)
 1. [Contratado.me](http://devs.contratado.me/)
+1. [X-team](http://x-team.com/)
