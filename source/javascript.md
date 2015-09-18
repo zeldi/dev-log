@@ -179,3 +179,5 @@
 1. [Get value of child <div> of a parent <div>](http://stackoverflow.com/questions/8769158/get-value-of-child-div-of-a-parent-div)
 1. [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
 1. [How do I become better at JavaScript?](https://www.quora.com/How-do-I-become-better-at-JavaScript)
+1. [Why do JavaScript objects not have a toJSON() method](http://stackoverflow.com/questions/1996717/why-do-javascript-objects-not-have-a-tojson-method)
+1. [A importância do desenvolvedor JavaScript no marketing digital](https://medium.com/@mahortense/a-import%C3%A2ncia-do-desenvolvedor-javascript-no-marketing-digital-c828e56936a2)
