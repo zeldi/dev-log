@@ -16,3 +16,4 @@
 1. [Yodlr: A Microservice Architecture](http://blog.getyodlr.com/2015/01/10/a-microservice-architecture/)
   - [The Twelve-Factor App](http://12factor.net/)
     - [The New Heroku (Part 4 of 4): Erosion-resistance & Explicit Contracts](https://blog.heroku.com/archives/2011/6/28/the_new_heroku_4_erosion_resistance_explicit_contracts)
+1. [Monolithic core vs full microservice architecture](http://blog.codeship.com/monolithic-core-vs-fully-microservice-architecture/)

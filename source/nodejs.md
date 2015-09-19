@@ -133,3 +133,5 @@
 1. [Secure Node Apps Against OWASP Top 10 - Injection](http://scottksmith.com/blog/2015/06/08/secure-node-apps-against-owasp-top-10-injection/)
 1. [Change value of process.env.PORT in node.js?](http://stackoverflow.com/questions/13333221/how-to-change-value-of-process-env-port-in-node-js)
 1. [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
+1. [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
+1. [Using Node Version Manager (NVM) to Manage Multiple Node.js Versions](http://codetheory.in/using-node-version-manager-nvm-to-manage-multiple-node-js-versions/)
