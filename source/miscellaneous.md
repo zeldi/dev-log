@@ -326,3 +326,4 @@
 1. [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](http://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/#.rhb6id:MlQM)
 1. [Hard-Core Career Advice For A 13-Year-Old](http://techcrunch.com/2015/05/31/hard-core-career-advice-for-a-13-year-old/#.rhb6id:p34s)
 1. [How standards proliferate](https://imgs.xkcd.com/comics/standards.png)
+1. [SemVer](http://semver.org/)

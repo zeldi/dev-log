@@ -87,3 +87,4 @@
 1. [vim-javascript](https://github.com/pangloss/vim-javascript)
 1. [CtrlP](https://github.com/kien/ctrlp.vim)
 1. [necomplete](https://github.com/Shougo/neocomplete.vim)
+1. [dockerfile.vim](https://github.com/honza/dockerfile.vim)

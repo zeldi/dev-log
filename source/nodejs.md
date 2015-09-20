@@ -135,3 +135,7 @@
 1. [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 1. [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
 1. [Using Node Version Manager (NVM) to Manage Multiple Node.js Versions](http://codetheory.in/using-node-version-manager-nvm-to-manage-multiple-node-js-versions/)
+1. [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
+1. [Continuous Deployment of Node.js Applications](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
+1. [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/)
+1. [Shipping Node.js Applications with Docker and Codeship](https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)

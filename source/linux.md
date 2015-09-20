@@ -24,3 +24,5 @@
 1. [VLC Media Player Shortcuts](http://www.shortcutworld.com/en/win/VLC-Media-Player.html)
 1. [Controlling Playback Speed in VLC Media Player](https://www.vlchelp.com/controlling-playback-speed-vlc-media-player/)
 1. [i3wm - improved wm](https://i3wm.org/)
+1. [Mount an ISO image under Linux](http://www.cyberciti.biz/tips/how-to-mount-iso-image-under-linux.html)
+1. [Unmount an ISO Image in Linux](http://www.cyberciti.biz/faq/unmount-iso-image-linux/)
