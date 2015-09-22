@@ -43,3 +43,4 @@
 1. [GeekHunter](http://www.geekhunter.com.br/)
 1. [Contratado.me](http://devs.contratado.me/)
 1. [X-team](http://x-team.com/)
+1. [JavaScript Jobs](http://www.javascriptjobs.me/)

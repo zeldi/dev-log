@@ -20,6 +20,13 @@
 1. [Dockerizing Node.js](https://nodesource.com/blog/dockerizing-nodejs)
 1. [Docker's Docs](https://docs.docker.com/)
 1. [Do Monolítico aos Microservices com Netflix OSS](http://blog.andrefaria.com/monolitico-aos-microservices-com-netflix-oss)
+1. [Containerizing a NodeJs App with Docker](https://medium.com/@rolilink/containerizing-a-nodejs-app-with-docker-c05898099d71)
+1. [Containers (Docker): A disruptive force in cloud computing](http://anandmanisankar.com/posts/container-docker-PaaS-microservices/)
+1. [A sample Docker workflow with Nginx, Node.js and Redis](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
+1. [Is your life easier since you started using Docker, or the opposite?](https://www.reddit.com/r/docker/comments/3lh4p8/is_your_life_easier_since_you_started_using/)
+1. [Should I use docker for deployment?](https://www.reddit.com/r/docker/comments/3jdaqs/should_i_use_docker_for_deployment/)
+1. [Nodevember](https://github.com/InconceivableDuck/Nodevember)
+1. [Using Docker to deploy Nodejs containers with Digital Ocean](https://www.youtube.com/watch?v=1OLyXJJPBSA)
 
 ## Images
 

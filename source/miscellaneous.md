@@ -328,3 +328,4 @@
 1. [How standards proliferate](https://imgs.xkcd.com/comics/standards.png)
 1. [SemVer](http://semver.org/)
 1. [Why I wouldn’t use rails for a new company](http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/)
+1. [Conheça 15 pessoas que revolucionaram o mundo da programação!](http://computerworld.com.br/conheca-15-pessoas-que-revolucionaram-o-mundo-da-programacao)
