@@ -182,3 +182,4 @@
 1. [Why do JavaScript objects not have a toJSON() method](http://stackoverflow.com/questions/1996717/why-do-javascript-objects-not-have-a-tojson-method)
 1. [A importância do desenvolvedor JavaScript no marketing digital](https://medium.com/@mahortense/a-import%C3%A2ncia-do-desenvolvedor-javascript-no-marketing-digital-c828e56936a2)
 1. [Get Started Contributing to JavaScript Open Source](https://egghead.io/articles/get-started-contributing-to-javascript-open-source)
+1. [gulp + ES6= ❤](https://medium.com/@dleitee/gulp-es2015-b2070a723367)

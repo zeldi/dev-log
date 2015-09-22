@@ -327,3 +327,4 @@
 1. [Hard-Core Career Advice For A 13-Year-Old](http://techcrunch.com/2015/05/31/hard-core-career-advice-for-a-13-year-old/#.rhb6id:p34s)
 1. [How standards proliferate](https://imgs.xkcd.com/comics/standards.png)
 1. [SemVer](http://semver.org/)
+1. [Why I wouldn’t use rails for a new company](http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/)

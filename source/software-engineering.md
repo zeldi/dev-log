@@ -6,4 +6,4 @@
 1. [Software Engineer Interview](http://sap1ens.com/blog/2014/02/12/software-engineer-interview/)
 1. [Why Software Engineering Isn’t Engineering, and the Implications](http://blog.iancackett.com/2015/06/07/software-engineering/)
 1. [Self-Taught Developers: Are You Missing Your Foundation?](http://spin.atomicobject.com/2012/07/24/self-taught-developers/)
-1. []()
+1. [Entenda Software da Maneira Correta](http://www.akitaonrails.com/2010/07/01/screencast-entenda-software-da-maneira-correta#.Vf-57PgVikp) - ([slides](http://www.slideshare.net/akitaonrails/wire-2010-entenda-software-da-forma-correta))

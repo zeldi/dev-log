@@ -26,3 +26,4 @@
 1. [i3wm - improved wm](https://i3wm.org/)
 1. [Mount an ISO image under Linux](http://www.cyberciti.biz/tips/how-to-mount-iso-image-under-linux.html)
 1. [Unmount an ISO Image in Linux](http://www.cyberciti.biz/faq/unmount-iso-image-linux/)
+1. [Chroot](https://en.wikipedia.org/wiki/Chroot)
