@@ -29,7 +29,10 @@
 1. [Using Docker to deploy Nodejs containers with Digital Ocean](https://www.youtube.com/watch?v=1OLyXJJPBSA)
 1. [Self-Paced Training - Docker](https://training.docker.com/self-paced-training)
 1. [awesome-docker](https://github.com/veggiemonk/awesome-docker)
+1. [CoreOS is building a container runtime, rkt](https://coreos.com/blog/rocket/)
+1. [dockerised micro-service node.js architecture](https://github.com/AndrewKeig/dockerised-micro-service-node-js-architecture)
 
 ## Images
 
 1. [docker-node](ihttps://github.com/nodejs/docker-node)
+1. [Dockerfile Project](https://github.com/dockerfile)
