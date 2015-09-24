@@ -42,3 +42,4 @@
 1. [Delete a remote branch](http://stackoverflow.com/questions/2003505/delete-a-git-branch-both-locally-and-remotely)
 1. [Rename a git branch](http://stackoverflow.com/questions/6591213/how-do-you-rename-the-local-branch)
 1. [List all commits for a specific file](http://stackoverflow.com/questions/3701404/list-all-commits-for-a-specific-file)
+1. [Git fetch remote branch](http://stackoverflow.com/a/16095458/2849745)

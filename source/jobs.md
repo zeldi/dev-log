@@ -44,3 +44,4 @@
 1. [Contratado.me](http://devs.contratado.me/)
 1. [X-team](http://x-team.com/)
 1. [JavaScript Jobs](http://www.javascriptjobs.me/)
+1. [Quanto custa minha hora](http://www.minhahora.entreoutros.com/)

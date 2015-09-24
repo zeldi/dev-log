@@ -27,6 +27,8 @@
 1. [Should I use docker for deployment?](https://www.reddit.com/r/docker/comments/3jdaqs/should_i_use_docker_for_deployment/)
 1. [Nodevember](https://github.com/InconceivableDuck/Nodevember)
 1. [Using Docker to deploy Nodejs containers with Digital Ocean](https://www.youtube.com/watch?v=1OLyXJJPBSA)
+1. [Self-Paced Training - Docker](https://training.docker.com/self-paced-training)
+1. [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 ## Images
 

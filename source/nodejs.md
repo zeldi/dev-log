@@ -139,3 +139,4 @@
 1. [Continuous Deployment of Node.js Applications](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
 1. [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/)
 1. [Shipping Node.js Applications with Docker and Codeship](https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
+1. [Don’t Use Sails (or Waterline)](https://kev.inburke.com/kevin/dont-use-sails-or-waterline/) - [reddit](https://www.reddit.com/r/programming/comments/3jw7fm/dont_use_sails_or_waterline/)
