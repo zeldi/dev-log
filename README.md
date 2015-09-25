@@ -46,6 +46,7 @@
 1. **[JavaScript](/source/javascript.md)**
 1. **[Jobs](/source/jobs.md)**
 1. **[JSON](/source/json.md)**
+1. **[Kanban](/source/kanban.md)**
 1. **[Linux](/source/linux.md)**
 1. **[Make](/source/make.md)**
 1. **[MEAN](/source/mean.md)**

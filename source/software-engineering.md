@@ -7,3 +7,4 @@
 1. [Why Software Engineering Isn’t Engineering, and the Implications](http://blog.iancackett.com/2015/06/07/software-engineering/)
 1. [Self-Taught Developers: Are You Missing Your Foundation?](http://spin.atomicobject.com/2012/07/24/self-taught-developers/)
 1. [Entenda Software da Maneira Correta](http://www.akitaonrails.com/2010/07/01/screencast-entenda-software-da-maneira-correta#.Vf-57PgVikp) - ([slides](http://www.slideshare.net/akitaonrails/wire-2010-entenda-software-da-forma-correta))
+1. [How We Use GitHub Issues To Organize a Project](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html
