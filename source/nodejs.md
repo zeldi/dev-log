@@ -140,3 +140,7 @@
 1. [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/)
 1. [Shipping Node.js Applications with Docker and Codeship](https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
 1. [Don’t Use Sails (or Waterline)](https://kev.inburke.com/kevin/dont-use-sails-or-waterline/) - [reddit](https://www.reddit.com/r/programming/comments/3jw7fm/dont_use_sails_or_waterline/)
+1. [Remove a package from the registry](https://docs.npmjs.com/cli/unpublish)
+1. [Using transpiled ES6 on Node.js](http://www.2ality.com/2015/04/node-es6-transpiled.html)
+1. [Converging on Node.js v4](https://nodesource.com/blog/converging-on-nodejs-v4)
+1. [babel/example-node-server](https://github.com/babel/example-node-server)

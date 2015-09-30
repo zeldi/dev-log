@@ -31,6 +31,8 @@
 1. [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 1. [CoreOS is building a container runtime, rkt](https://coreos.com/blog/rocket/)
 1. [dockerised micro-service node.js architecture](https://github.com/AndrewKeig/dockerised-micro-service-node-js-architecture)
+1. [Docker series - Conetix](https://www.conetix.com.au/blog/category/docker)
+1. [A Node/Mongo App with Docker](http://walidhosseini.com/journal/2015/02/19/node-mongo-containers.html)
 
 ## Images
 

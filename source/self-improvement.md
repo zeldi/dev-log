@@ -45,3 +45,4 @@
 1. [Getting to Simple: How Do Experts Figure out the Correct Things to Focus On](http://jamesclear.com/getting-simple)
 1. [Too Much to Do, Not Enough Time](http://zenhabits.net/overloaded/)
 1. +++[Como pensar](https://www.youtube.com/watch?v=nwgm7-VrpOg)
+1. [Learning Tips](http://www.thachmai.info/2015/01/28/learning-tips/)
