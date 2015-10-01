@@ -11,3 +11,4 @@
 1. [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
 1. [Exploring ES6](http://exploringjs.com/)
 1. [Babel - CLI](https://babeljs.io/docs/usage/cli/)
+1. [import and call a function with es6](http://stackoverflow.com/questions/31599566/import-and-call-a-function-with-es6) 

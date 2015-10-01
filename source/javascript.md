@@ -185,3 +185,4 @@
 1. [gulp + ES6= ❤](https://medium.com/@dleitee/gulp-es2015-b2070a723367)
 1. [Check if a key is down](http://stackoverflow.com/questions/1828613/check-if-a-key-is-down)
 1. [ES6 Modules in Depth](http://ponyfoo.com/articles/es6-modules-in-depth)
+1. [.jshintrc example](https://github.com/jshint/jshint/blob/master/examples/.jshintrc) 

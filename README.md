@@ -3,6 +3,7 @@
 **My logfile**
 
 1. **[AngularJS](/source/angularjs.md)**
+1. **[Angular 2](/source/angular2.md)** 
 1. **[API](source/api.md)**
 1. **[Appgyver](/source/appgyver.md)**
 1. **[Aurelia](/source/aurelia.md)**
