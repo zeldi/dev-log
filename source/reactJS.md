@@ -19,3 +19,6 @@
 1. [New React Developer Tools](http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
 1. [Rebuilding HipChat with React.js](https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/) 
 1. [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) 
+1. [Why I Ditched Angular for React](http://sixrevisions.com/javascript/why-i-ditched-angular-for-react/) 
+1. [Angular 2 or React for new, large, fresh project](https://www.reddit.com/r/javascript/comments/3k4mgk/angular_2_or_react_for_new_large_fresh_project/)
+1. [Which  would you use for a new Project (ReactJS or AngularJS)](https://news.ycombinator.com/item?id=8961910)

@@ -144,3 +144,4 @@
 1. [Using transpiled ES6 on Node.js](http://www.2ality.com/2015/04/node-es6-transpiled.html)
 1. [Converging on Node.js v4](https://nodesource.com/blog/converging-on-nodejs-v4)
 1. [babel/example-node-server](https://github.com/babel/example-node-server)
+1. [Easy Node Authentication](https://scotch.io/courses/easy-node-authentication) 
