@@ -22,3 +22,6 @@
 1. [Why I Ditched Angular for React](http://sixrevisions.com/javascript/why-i-ditched-angular-for-react/) 
 1. [Angular 2 or React for new, large, fresh project](https://www.reddit.com/r/javascript/comments/3k4mgk/angular_2_or_react_for_new_large_fresh_project/)
 1. [Which  would you use for a new Project (ReactJS or AngularJS)](https://news.ycombinator.com/item?id=8961910)
+1. [With React, I Don’t Need to Be a Ninja Rock Star Unicorn](http://dejanglozic.com/2015/09/21/with-react-i-dont-need-to-be-a-ninja-rock-star-unicorn/) 
+1. [ReactJS: The Day After](http://dejanglozic.com/2015/08/21/reactjs-the-day-after/) 
+1. [PayPal, You Got Me At ‘Isomorphic ReactJS’](http://dejanglozic.com/2015/07/06/paypal-you-got-me-at-isomorphic-reactjs/) 
