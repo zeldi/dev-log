@@ -145,3 +145,5 @@
 1. [Converging on Node.js v4](https://nodesource.com/blog/converging-on-nodejs-v4)
 1. [babel/example-node-server](https://github.com/babel/example-node-server)
 1. [Easy Node Authentication](https://scotch.io/courses/easy-node-authentication) 
+1. [Building a Node.js project](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
+1. [npm prune - Remove extraneous packages](https://docs.npmjs.com/cli/prune)
