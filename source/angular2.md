@@ -6,3 +6,4 @@
 1. [Angular Team Provides Roadmap, Demos Integration with React Native](http://www.infoq.com/news/2015/06/angular-2-react-native-roadmap) 
 1. [Angular 2 or React for new, large, fresh project](https://www.reddit.com/r/javascript/comments/3k4mgk/angular_2_or_react_for_new_large_fresh_project/)
 1. [Which  would you use for a new Project (ReactJS or AngularJS)](https://news.ycombinator.com/item?id=8961910)
+1. [Angular 2 e o futuro do desenvolvimento Front-end](https://medium.com/@cironunesdev/angular-2-e-o-futuro-42ae695404b2)
