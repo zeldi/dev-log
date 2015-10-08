@@ -33,3 +33,4 @@
 1. [free-for-dev - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 1. [Asciinema](https://asciinema.org/)
 1. [DbSchema](http://www.dbschema.com/)
+1. [An Overview of Modern Discussion Tools, and Why We Decided to Build Our Own](http://blog.freecodecamp.com/2015_03_01_archive.html)

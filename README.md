@@ -64,6 +64,7 @@
 1. **[NGINX](/source/nginx.md)**
 1. **[Node.js](/source/nodejs.md)**
 1. **[NoSQL](/source/nosql.md)**
+1. **[Open Source](/source/open-source.md)**
 1. **[OSX](/source/osx.md)**
 1. **[Phonegap](/source/phonegap.md)**
 1. **[Podcasts](/source/podcasts.md)**

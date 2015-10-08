@@ -331,3 +331,5 @@
 1. [Conheça 15 pessoas que revolucionaram o mundo da programação!](http://computerworld.com.br/conheca-15-pessoas-que-revolucionaram-o-mundo-da-programacao)
 1. [Classroom Github](https://classroom.github.com/)
 1. [Sentimental Versioning](http://sentimentalversioning.org/) 
+1. [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
+1. [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
