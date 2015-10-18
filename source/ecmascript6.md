@@ -12,3 +12,4 @@
 1. [Exploring ES6](http://exploringjs.com/)
 1. [Babel - CLI](https://babeljs.io/docs/usage/cli/)
 1. [import and call a function with es6](http://stackoverflow.com/questions/31599566/import-and-call-a-function-with-es6) 
+1. [Using ES6 in large projects](https://www.reddit.com/r/javascript/comments/332v73/is_anyone_using_es6_in_a_large_project_hows_it/)

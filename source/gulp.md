@@ -16,10 +16,8 @@
 1. [Gulpfile example](https://gist.github.com/demisx/beef93591edc1521330a)
 1. [Get started with gulp](https://www.youtube.com/playlist?list=PLRk95HPmOM6PN-G1xyKj9q6ap_dc9Yckm)
 1. [FrontEnd Skills with Gulp](https://www.youtube.com/watch?v=No-r-7I1BCQ&list=PLwQf6Mb9WjZAcbae_O76poYwstJWvSZVo&index=1)
-1. []()
-1. []()
-1. []()
-1. []()
+1. [6 Gulp Best Practices You Can Use Today](http://blog.rangle.io/angular-gulp-bestpractices/)
+1. [Automatically Load Gulp Plugins with gulp-load-plugins](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
 
 ## Plugins
 

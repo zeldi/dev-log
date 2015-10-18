@@ -46,3 +46,4 @@
 1. [Too Much to Do, Not Enough Time](http://zenhabits.net/overloaded/)
 1. +++[Como pensar](https://www.youtube.com/watch?v=nwgm7-VrpOg)
 1. [Learning Tips](http://www.thachmai.info/2015/01/28/learning-tips/)
+1. [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI)

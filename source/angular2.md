@@ -9,3 +9,5 @@
 1. [Angular 2 e o futuro do desenvolvimento Front-end](https://medium.com/@cironunesdev/angular-2-e-o-futuro-42ae695404b2)
 1. [Angular 1 and Angular 2 integration: the path to seamless upgrade](http://angularjs.blogspot.com.br/2015/08/angular-1-and-angular-2-coexistence.html)
 1. [angular2-education](https://github.com/timjacobi/angular2-education)
+1. [Angular 2 Survey](http://angularjs.blogspot.com.br/2015/09/angular-2-survey-results.html)
+1. [Angular 2 Migration Path: What We Know](http://www.codelord.net/2015/09/10/angular-2-migration-path-what-we-know/)

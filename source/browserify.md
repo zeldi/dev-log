@@ -6,4 +6,4 @@
 1. [Beefy](https://github.com/chrisdickinson/beefy)
 1. [Setting Up A Client-Side JavaScript Project With Gulp And Browserify](https://blog.engineyard.com/2015/client-side-javascript-project-gulp-and-browserify)
 1. [Browserify vs. Webpack](http://mattdesl.svbtle.com/browserify-vs-webpack)
-1. []()
+1. [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama)

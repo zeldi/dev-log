@@ -147,3 +147,4 @@
 1. [Easy Node Authentication](https://scotch.io/courses/easy-node-authentication) 
 1. [Building a Node.js project](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
 1. [npm prune - Remove extraneous packages](https://docs.npmjs.com/cli/prune)
+1. [Node.js frameworks](http://loopback.io/resources/#compare)

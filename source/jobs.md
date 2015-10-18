@@ -49,3 +49,5 @@
 1. [Rockstar Coders](http://www.rockstarcoders.com/) 
 1. [Scalable Path](https://www.scalablepath.com/) 
 1. [Bounty Most Wanted](https://bountymostwanted.com/)
+1. [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
+1. [remote-jobs](https://github.com/jessicard/remote-jobs)
