@@ -186,3 +186,7 @@
 1. [Check if a key is down](http://stackoverflow.com/questions/1828613/check-if-a-key-is-down)
 1. [ES6 Modules in Depth](http://ponyfoo.com/articles/es6-modules-in-depth)
 1. [.jshintrc example](https://github.com/jshint/jshint/blob/master/examples/.jshintrc) 
+1. [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
+1. [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+1. [Composition over Inheritance (what it is, why use it)](http://www.marcotroisi.com/composition-over-inheritance/)
+1. [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed)

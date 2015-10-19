@@ -333,3 +333,4 @@
 1. [Sentimental Versioning](http://sentimentalversioning.org/) 
 1. [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
 1. [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
+1. [10 coisas que eu gostaria de ter aprendido mais cedo](https://speakerdeck.com/lucas/10-coisas-que-eu-gostaria-de-ter-aprendido-mais-cedo)
