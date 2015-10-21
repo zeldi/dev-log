@@ -28,3 +28,5 @@
 1. [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
 1. [6 Rules of Thumb for MongoDB Schema Design: Part 1](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 1. [What are naming conventions for MongoDB?](http://stackoverflow.com/questions/5916080/what-are-naming-conventions-for-mongodb)
+1. [The growing irrelevance of MongoDB](http://www.itexto.com.br/devkico/en/?p=60)
+1. [Don't use MongoDB](http://pastebin.com/raw.php?i=FD3xe6Jt)
