@@ -45,3 +45,6 @@
 1. [Git fetch remote branch](http://stackoverflow.com/a/16095458/2849745)
 1. [semantic-release](https://github.com/semantic-release/semantic-release) 
 1. [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+1. [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+1. [Show remote origin](http://dropshado.ws/post/4964571254/git-remote-show-origin)
+1. [List remote branches](http://gitready.com/intermediate/2009/02/13/list-remote-branches.html)

@@ -335,3 +335,4 @@
 1. [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
 1. [10 coisas que eu gostaria de ter aprendido mais cedo](https://speakerdeck.com/lucas/10-coisas-que-eu-gostaria-de-ter-aprendido-mais-cedo)
 1. [Awesome & Marvelous Amas](https://github.com/sindresorhus/amas)
+1. [Host your Static Website on your own Domain through Github Pages](https://medium.freecodecamp.com/hosting-custom-domain-on-github-pages-8c598248d2bc#.yhmrsnugb)

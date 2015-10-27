@@ -7,3 +7,4 @@
 1. [Status code definition](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 1. [How the web works: HTTP and CGI explained](http://www.garshol.priv.no/download/text/http-tut.html)
 1. [List of HTTP methods (verbs)](https://annevankesteren.nl/2007/10/http-methods)
+1. [x-www-form-urlencoded VS json](http://homakov.blogspot.com.br/2012/06/x-www-form-urlencoded-vs-json-pros-and.html)

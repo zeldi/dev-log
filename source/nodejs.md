@@ -149,3 +149,7 @@
 1. [npm prune - Remove extraneous packages](https://docs.npmjs.com/cli/prune)
 1. [Node.js frameworks](http://loopback.io/resources/#compare)
 1. [Node.js logos](https://github.com/nodejs/evangelism/issues/179)
+1. [BUILD YOUR FIRST HTTP SERVER IN NODE.JS](http://blog.modulus.io/build-your-first-http-server-in-nodejs)
+1. [Nodemailer](http://nodemailer.com/)
+1. [Nodemailer with Gmail and NodeJS](http://stackoverflow.com/questions/19877246/nodemailer-with-gmail-and-nodejs)
+1. [The Modular Future of Express](https://www.youtube.com/watch?v=FiHI6--wB4s&list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8&index=1)

@@ -34,3 +34,4 @@
 1. [Asciinema](https://asciinema.org/)
 1. [DbSchema](http://www.dbschema.com/)
 1. [An Overview of Modern Discussion Tools, and Why We Decided to Build Our Own](http://blog.freecodecamp.com/2015_03_01_archive.html)
+1. [httpie - cURL like](https://github.com/jkbrzt/httpie#installation)
