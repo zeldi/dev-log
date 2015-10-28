@@ -92,6 +92,7 @@
 1. **[WebAssembly](/source/webassembly.md)**
 1. **[Web Components](/source/web-components.md)**
 1. **[Web Design](/source/web-design.md)**
+1. **[Web Development Concepts](/source/web-development-concepts.md)**
 1. **[Web Engineering](/source/web-engineering.md)**
 1. **[Webpack](/source/webpack.md)**
 1. **[WebStorm](/source/webstorm.md)**
