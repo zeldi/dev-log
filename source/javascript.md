@@ -191,3 +191,4 @@
 1. [Composition over Inheritance (what it is, why use it)](http://www.marcotroisi.com/composition-over-inheritance/)
 1. [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed)
 1. [Missing "else" changes branch percentage](https://github.com/gotwarlost/istanbul/issues/35)
+1. [An update on Object.observe](https://mail.mozilla.org/pipermail/es-discuss/2015-November/044684.html)
