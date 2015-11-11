@@ -51,3 +51,4 @@
 1. [Bounty Most Wanted](https://bountymostwanted.com/)
 1. [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 1. [remote-jobs](https://github.com/jessicard/remote-jobs)
+1. [Why the founder of Rails automatically rejects 80% of Software Engineer applicants](https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58)
