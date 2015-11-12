@@ -154,3 +154,4 @@
 1. [Nodemailer with Gmail and NodeJS](http://stackoverflow.com/questions/19877246/nodemailer-with-gmail-and-nodejs)
 1. [The Modular Future of Express](https://www.youtube.com/watch?v=FiHI6--wB4s&list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8&index=1)
 1. [The client-side templating throwdown: mustache, handlebars, dust.js, and more](https://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
+1. [10 Habits of a Happy Node Hacker (2016)](http://blog.heroku.com/archives/2015/11/10/node-habits-2016)

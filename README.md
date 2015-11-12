@@ -83,6 +83,7 @@
 1. **[Software Craftsmanship](/source/software-craftsmanship.md)**
 1. **[Software Engineering](/source/software-engineering.md)**
 1. **[SQL](/source/sql.md)**
+1. **[Startup](/source/startup.md)**
 1. **[Stylus](/source/stylus.md)**
 1. **[Sublime Text](/source/sublime-text.md)**
 1. **[SVG](/source/svg.md)**
