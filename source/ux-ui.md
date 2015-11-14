@@ -9,3 +9,4 @@
 1. [MaterializeCSS](http://materializecss.com/)
 1. [BootSnipp](http://bootsnipp.com/)
 1. [Wrap BootStrap](https://wrapbootstrap.com)
+1. [Noun project - icons](https://thenounproject.com/)

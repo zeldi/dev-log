@@ -89,3 +89,4 @@
 1. [necomplete](https://github.com/Shougo/neocomplete.vim)
 1. [dockerfile.vim](https://github.com/honza/dockerfile.vim)
 1. [vim-jst](git@github.com:briancollins/vim-jst.git)
+1. [syntastic](https://github.com/scrooloose/syntastic)

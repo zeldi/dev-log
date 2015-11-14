@@ -52,3 +52,5 @@
 1. [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 1. [remote-jobs](https://github.com/jessicard/remote-jobs)
 1. [Why the founder of Rails automatically rejects 80% of Software Engineer applicants](https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58)
+1. [FCC jobs](http://www.freecodecamp.com/jobs)
+1. [How to Get Any Job You Want](https://medium.com/life-learning/how-to-get-any-job-you-want-even-if-you-re-unqualified-6f49a65f5491)
