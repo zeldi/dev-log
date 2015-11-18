@@ -338,3 +338,4 @@
 1. [Host your Static Website on your own Domain through Github Pages](https://medium.freecodecamp.com/hosting-custom-domain-on-github-pages-8c598248d2bc#.yhmrsnugb)
 1. [Experience Learning - Perestroika](http://www.perestroika.com.br/experiencelearning/)
 1. [How do you find time to learn new things?](https://news.ycombinator.com/item?id=10546797)
+1. [What are SMTP, POP3 and IMAP?](https://www.hmailserver.com/documentation/latest/?page=whatis_pop3imapsmtp)

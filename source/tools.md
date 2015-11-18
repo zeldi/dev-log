@@ -36,3 +36,5 @@
 1. [An Overview of Modern Discussion Tools, and Why We Decided to Build Our Own](http://blog.freecodecamp.com/2015_03_01_archive.html)
 1. [httpie - cURL like](https://github.com/jkbrzt/httpie#installation)
 1. [broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
+1. [xkcd Password Generator](http://preshing.com/20110811/xkcd-password-generator/)
+1. [Sendy](https://sendy.co/)
