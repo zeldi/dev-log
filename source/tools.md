@@ -38,3 +38,4 @@
 1. [broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
 1. [xkcd Password Generator](http://preshing.com/20110811/xkcd-password-generator/)
 1. [Sendy](https://sendy.co/)
+1. [TinyLetter](http://tinyletter.com/)
