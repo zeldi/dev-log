@@ -193,3 +193,5 @@
 1. [Missing "else" changes branch percentage](https://github.com/gotwarlost/istanbul/issues/35)
 1. [An update on Object.observe](https://mail.mozilla.org/pipermail/es-discuss/2015-November/044684.html)
 1. [Object Equality in JavaScript](http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html)
+1. [What even is Vanilla JS these days?](http://ianfeather.co.uk/what-even-is-vanilla-js-these-days/)
+1. [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks)

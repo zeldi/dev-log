@@ -157,3 +157,4 @@
 1. [10 Habits of a Happy Node Hacker (2016)](http://blog.heroku.com/archives/2015/11/10/node-habits-2016)
 1. [investigating npm 3 perf](https://github.com/npm/npm/issues/10380)
 1. [Nodevember 2015](https://www.youtube.com/playlist?list=PLSZHCj84JSDMInvIg8mxNRmemoMwrySFj)
+1. [5 Performance Tips for Node.js Applications](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/#gs.80HIXDA)

@@ -339,3 +339,6 @@
 1. [Experience Learning - Perestroika](http://www.perestroika.com.br/experiencelearning/)
 1. [How do you find time to learn new things?](https://news.ycombinator.com/item?id=10546797)
 1. [What are SMTP, POP3 and IMAP?](https://www.hmailserver.com/documentation/latest/?page=whatis_pop3imapsmtp)
+1. [Nobody Wants Your App](https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7#.n4ucphuwq)
+1. [How to create serendipity at your startup (as Slack, Pinterest, Groupon and others did)](https://medium.com/@_pulkitagrawal/how-to-create-serendipity-at-your-startup-as-slack-pinterest-groupon-and-others-did-7959544d7558#.rq0sw5mo8)
+1. [What Keeps Me Going](https://medium.com/keep-learning-keep-growing/what-keeps-me-going-even-though-i-suck-6f9f78a41e1#.ls3r0ov2j)

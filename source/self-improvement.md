@@ -47,3 +47,6 @@
 1. +++[Como pensar](https://www.youtube.com/watch?v=nwgm7-VrpOg)
 1. [Learning Tips](http://www.thachmai.info/2015/01/28/learning-tips/)
 1. [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI)
+1. [5 Scientifically Proven Ways to Work Smarter, Not Harder](aden/5-scientifically-proven-ways-to-work-smarter-not-harder-tues.html)
+1. [8 Habits of People With Amazing Determination and Willpower](http://www.inc.com/jeff-haden/8-habits-of-people-with-exceptional-determination-and-willpower.html)
+1. [An Unexpected Way to Achieve a Better Work-Life Balance](www.linkedin.com/pulse/unexpected-way-achieve-better-work-life-balance-jeff-haden)
