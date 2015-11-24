@@ -13,6 +13,8 @@
 1. [Material design](http://www.google.com/design/spec/material-design/introduction.html)
 1. [Essa ótima série de GIFs explica conceitos do design responsivo](http://www.brainstorm9.com.br/52963/design/essa-otima-serie-de-gifs-explica-alguns-conceitos-design-responsivo/)
 1. [flatuicolors](http://flatuicolors.com/)
+1. [10 Essential Free E-Books for Web Designers](http://mashable.com/2010/08/18/free-ebooks-web-designers/#vS5JTnpg4qqd)
+1. [15 free ebooks for web designers](http://www.creativebloq.com/web-design/free-ebooks-web-designers-5132836)
 
 ## Inspiration
 
