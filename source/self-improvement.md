@@ -50,3 +50,4 @@
 1. [5 Scientifically Proven Ways to Work Smarter, Not Harder](aden/5-scientifically-proven-ways-to-work-smarter-not-harder-tues.html)
 1. [8 Habits of People With Amazing Determination and Willpower](http://www.inc.com/jeff-haden/8-habits-of-people-with-exceptional-determination-and-willpower.html)
 1. [An Unexpected Way to Achieve a Better Work-Life Balance](www.linkedin.com/pulse/unexpected-way-achieve-better-work-life-balance-jeff-haden)
+1. [Por que parei de buscar meu propósito](https://medium.com/@gutanaka/por-que-parei-de-buscar-meu-prop%C3%B3sito-5b2588e51a8d#.ue00nq45n)
