@@ -57,6 +57,7 @@
 1. [Showing a different background colour in Vim past 80 characters](http://stackoverflow.com/questions/2447109/showing-a-different-background-colour-in-vim-past-80-characters)
 1. [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db)
 1. [Display line numbers](http://vim.wikia.com/wiki/Display_line_numbers)
+1. [Everyday Vim – A Basic Vim Commands Cheat Sheet](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
 
 ## Vim Plugins
 

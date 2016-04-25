@@ -343,3 +343,4 @@
 1. [How to create serendipity at your startup (as Slack, Pinterest, Groupon and others did)](https://medium.com/@_pulkitagrawal/how-to-create-serendipity-at-your-startup-as-slack-pinterest-groupon-and-others-did-7959544d7558#.rq0sw5mo8)
 1. [What Keeps Me Going](https://medium.com/keep-learning-keep-growing/what-keeps-me-going-even-though-i-suck-6f9f78a41e1#.ls3r0ov2j)
 1. [Uma Nova Era para a Microsoft](http://www.akitaonrails.com/2016/03/31/off-topic-uma-nova-era-para-a-microsoft)
+1. [Novas linguagens: o que vem depois do Ruby](http://www.infoq.com/br/presentations/novas-linguagens-o-que-vem-depois-do-ruby)
