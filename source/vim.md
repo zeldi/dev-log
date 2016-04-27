@@ -58,6 +58,7 @@
 1. [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db)
 1. [Display line numbers](http://vim.wikia.com/wiki/Display_line_numbers)
 1. [Everyday Vim – A Basic Vim Commands Cheat Sheet](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
+1. [VIM + Syntastic: how to disable the checker?](http://stackoverflow.com/questions/20030603/vim-syntastic-how-to-disable-the-checker)
 
 ## Vim Plugins
 
