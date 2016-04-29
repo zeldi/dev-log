@@ -57,3 +57,5 @@
 1. [Quero ser um desenvolvedor fora do Brasil. E agora?](https://medium.com/@eshiota/quero-ser-um-desenvolvedor-fora-do-brasil-e-agora-5c170c176c8e#.ifeu5fv8s)
 1. [Workajobs](http://www.workajobs.com.br/)
 1. [Panda Jobs](http://panda.jobs/)
+1. [Guia do trabalho remoto](http://guiadotrabalhoremoto.com.br/)
+1. [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.zi8wm0agx)

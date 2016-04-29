@@ -344,3 +344,4 @@
 1. [What Keeps Me Going](https://medium.com/keep-learning-keep-growing/what-keeps-me-going-even-though-i-suck-6f9f78a41e1#.ls3r0ov2j)
 1. [Uma Nova Era para a Microsoft](http://www.akitaonrails.com/2016/03/31/off-topic-uma-nova-era-para-a-microsoft)
 1. [Novas linguagens: o que vem depois do Ruby](http://www.infoq.com/br/presentations/novas-linguagens-o-que-vem-depois-do-ruby)
+1. [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.6sx3c6k8b)
