@@ -118,3 +118,4 @@
 1. [Using ECMAScript 6 (ES6) with AngularJS 1.x](https://www.timroes.de/2015/07/29/using-ecmascript-6-es6-with-angularjs-1-x/)
 1. [DRY dependency injection in Angular with gulp-ng-annotate](http://christian.fei.ninja/DRY-dependency-injection-in-Angular-with-gulp-ng-annotate/)
 1. [Refactoring Angular Apps to Component Style](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
+1. [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
