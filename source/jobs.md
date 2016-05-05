@@ -59,3 +59,5 @@
 1. [Panda Jobs](http://panda.jobs/)
 1. [Guia do trabalho remoto](http://guiadotrabalhoremoto.com.br/)
 1. [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.zi8wm0agx)
+1. [3 Days](http://3days.com.br/)
+1. [200 Startups Hiring Remotely in 2016](https://medium.com/@rdutel/200-startups-hiring-remotely-in-2016-1d4299e5163f#.lc4f2zibk)

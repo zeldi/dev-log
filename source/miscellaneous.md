@@ -345,3 +345,6 @@
 1. [Uma Nova Era para a Microsoft](http://www.akitaonrails.com/2016/03/31/off-topic-uma-nova-era-para-a-microsoft)
 1. [Novas linguagens: o que vem depois do Ruby](http://www.infoq.com/br/presentations/novas-linguagens-o-que-vem-depois-do-ruby)
 1. [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.6sx3c6k8b)
+1. [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.2pshs797k)
+1. [StackOverflow Developer Survey Results 2016](http://stackoverflow.com/research/developer-survey-2016#top)
+1. [The Rise of the Full Stack JavaScript Developer](http://thefullstack.xyz/full-stack-javascript-developer/)
