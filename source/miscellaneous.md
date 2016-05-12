@@ -348,3 +348,4 @@
 1. [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.2pshs797k)
 1. [StackOverflow Developer Survey Results 2016](http://stackoverflow.com/research/developer-survey-2016#top)
 1. [The Rise of the Full Stack JavaScript Developer](http://thefullstack.xyz/full-stack-javascript-developer/)
+1. [Como Eu Usei O Cartão De Crédito Do CEO Do Trampos.co Para Pagar Minha Assinatura Premium](http://www.fidelis.work/como-eu-usei-o-cartao-de-credito-do-ceo-do-trampos-co-para-pagar-minha-assinatura-premium/)
