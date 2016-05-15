@@ -160,3 +160,6 @@
 1. [5 Performance Tips for Node.js Applications](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/#gs.80HIXDA)
 1. [Dance to Calypso](http://ma.tt/2015/11/dance-to-calypso/)
 1. [Benchmarking Node.js, Express, Hapi and Koa](http://www.coreforge.com/blog/2015/09/benchmarking-node-js-express-hapi-and-koa/)
+1. [Node Hero - Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
+1. [Nodecasts](https://nodecasts.io/courses)
+1. [What does your web stack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)

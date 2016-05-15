@@ -3,6 +3,7 @@
 1. [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 1. [Sublime Sheets](https://gist.github.com/vitorbritto/9983723#file-sublime_text_2-md)
 1. [Syntax highlighting for Jade in Sublime Text](http://stackoverflow.com/questions/7666977/syntax-highlighting-for-jade-in-sublime-text-2)
+1. [Meus plugins favoritos do Sublime Text](http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/)
 
 ## Sublime Puglins
 

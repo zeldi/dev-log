@@ -349,3 +349,4 @@
 1. [StackOverflow Developer Survey Results 2016](http://stackoverflow.com/research/developer-survey-2016#top)
 1. [The Rise of the Full Stack JavaScript Developer](http://thefullstack.xyz/full-stack-javascript-developer/)
 1. [Como Eu Usei O Cartão De Crédito Do CEO Do Trampos.co Para Pagar Minha Assinatura Premium](http://www.fidelis.work/como-eu-usei-o-cartao-de-credito-do-ceo-do-trampos-co-para-pagar-minha-assinatura-premium/)
+1. [Não vale a pena contar pra ninguém os seus planos](http://incrivel.club/inspiracao-psicologia/nao-vale-a-pena-contar-pra-ninguem-os-seus-planos-50705/)
