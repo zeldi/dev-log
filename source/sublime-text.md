@@ -4,6 +4,7 @@
 1. [Sublime Sheets](https://gist.github.com/vitorbritto/9983723#file-sublime_text_2-md)
 1. [Syntax highlighting for Jade in Sublime Text](http://stackoverflow.com/questions/7666977/syntax-highlighting-for-jade-in-sublime-text-2)
 1. [Meus plugins favoritos do Sublime Text](http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/)
+1. [How to get scss and Less files to have color?](http://stackoverflow.com/a/29666299/2849745)
 
 ## Sublime Puglins
 

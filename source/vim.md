@@ -93,3 +93,5 @@
 1. [dockerfile.vim](https://github.com/honza/dockerfile.vim)
 1. [vim-jst](git@github.com:briancollins/vim-jst.git)
 1. [syntastic](https://github.com/scrooloose/syntastic)
+1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
+1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)

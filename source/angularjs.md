@@ -120,3 +120,4 @@
 1. [Refactoring Angular Apps to Component Style](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 1. [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
 1. [Improving Angular performance with 1 line of code](https://medium.com/swlh/improving-angular-performance-with-1-line-of-code-a1fb814a6476#.qh99pqgtb)
+1. [ngMap](https://github.com/allenhwkim/angularjs-google-maps)
